@@ -29,13 +29,13 @@ We design two main tasks to comprehensively evaluate MLLMs:
 
 **BasicQA (Information Extraction):** Focuses on perceiving explicit information.   
  
- *Subtasks:* Peak Number, Peak Position, Peak Value, FWHM (Full Width at Half Maximum), and Shape.   
+ * *Subtasks:* Peak Number, Peak Position, Peak Value, FWHM (Full Width at Half Maximum), and Shape.   
   
-  *Note:* The FWHM task involves complex multi-step calculation based on visual coordinates. 
+  * *Note:* The FWHM task involves complex multi-step calculation based on visual coordinates. 
 
 **ReaQA (Reasoning):** Focuses on implicit information and scientific logic.   
   
-  *Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.  
+  * *Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.  
 
 ## Data Structure
  Responses are generated using queries as input, which contain  the charts and questions that SciChart uses to evaluate models. The structure is as follows:
