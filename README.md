@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 SciChart
 This repository contains the code to evaluate models on SciChart from the paper [SciChart: Visual Question Answering and Reasoning for
  Scientific Spectral Chart].
@@ -185,3 +186,6 @@ Nanyang Technological University
 ## Contact Us
 
 Email to yuetan@pku.edu.cn
+=======
+# SciChart
+>>>>>>> 2186fffd43cc9297d4a913288212fc711647f34d
