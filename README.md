@@ -33,8 +33,9 @@ We design two main tasks to comprehensively evaluate MLLMs:
   
   *Note:* The FWHM task involves complex multi-step calculation based on visual coordinates. 
 
-**ReaQA (Reasoning):** Focuses on implicit information and scientific logic. 
-*Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.  
+**ReaQA (Reasoning):** Focuses on implicit information and scientific logic.   
+  
+  *Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.  
 
 ## Data Structure
  Responses are generated using queries as input, which contain  the charts and questions that SciChart uses to evaluate models. The structure is as follows:
@@ -68,7 +69,7 @@ Please download image data to **data/** from link: https://drive.google.com/file
 ## 📂 Project Structure
 ```text
 SciChart-main/
-├── ChartVLM/          # Core ChartVLM source code (tools, adapters, decoders)
+├── ChartVLM/              # Core ChartVLM source code (tools, adapters, decoders)
 ├── data/                  # Dataset directory (contains .json files and /img/ subfolder)
 ├── example_image/         # Images used in README
 ├── output/                # Directory where inference results (.jsonl) are saved
