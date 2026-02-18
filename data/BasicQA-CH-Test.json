@@ -1,0 +1,6014 @@
+{
+    "1": {
+        "image_id": "865",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "2": {
+        "image_id": "284",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "3": {
+        "image_id": "441",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "525"
+    },
+    "4": {
+        "image_id": "871",
+        "question_type": "peak_value",
+        "question": "请问这些光谱图上的峰值分别是多少？",
+        "answer": "26000"
+    },
+    "5": {
+        "image_id": "295",
+        "question_type": "shape",
+        "question": "是否存在峰值重叠在这张图上？",
+        "answer": "否"
+    },
+    "6": {
+        "image_id": "806",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "760;770;785;800;815;825"
+    },
+    "7": {
+        "image_id": "466",
+        "question_type": "fwhm",
+        "question": "请提供图像中所有峰的半峰宽。",
+        "answer": "None"
+    },
+    "8": {
+        "image_id": "794",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "9": {
+        "image_id": "72",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "None"
+    },
+    "10": {
+        "image_id": "310",
+        "question_type": "shape",
+        "question": "请问，您能帮我找出这张图中峰值的重叠部分吗？",
+        "answer": "否"
+    },
+    "11": {
+        "image_id": "440",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "1"
+    },
+    "12": {
+        "image_id": "610",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "10"
+    },
+    "13": {
+        "image_id": "94",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "None"
+    },
+    "14": {
+        "image_id": "366",
+        "question_type": "shape",
+        "question": "这幅光谱图是否显示的是背景噪声？",
+        "answer": "是"
+    },
+    "15": {
+        "image_id": "824",
+        "question_type": "peak_number",
+        "question": "图像的局部强度最高点有多少个？",
+        "answer": "2"
+    },
+    "16": {
+        "image_id": "298",
+        "question_type": "shape",
+        "question": "请问，图中的波动是否可以归因于背景噪声？",
+        "answer": "否"
+    },
+    "17": {
+        "image_id": "635",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "18": {
+        "image_id": "293",
+        "question_type": "shape",
+        "question": "这张光谱图的波形是否以峰位波长为中心对称？",
+        "answer": "是"
+    },
+    "19": {
+        "image_id": "823",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "2"
+    },
+    "20": {
+        "image_id": "556",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "1"
+    },
+    "21": {
+        "image_id": "315",
+        "question_type": "shape",
+        "question": "您能否利用您的专业知识帮我判断这张图中是否有峰值重叠？",
+        "answer": "否"
+    },
+    "22": {
+        "image_id": "463",
+        "question_type": "shape",
+        "question": "你能看出峰形是否沿着峰位波长对称吗？",
+        "answer": "是"
+    },
+    "23": {
+        "image_id": "566",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "None"
+    },
+    "24": {
+        "image_id": "220",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "1"
+    },
+    "25": {
+        "image_id": "866",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "530"
+    },
+    "26": {
+        "image_id": "625",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "640"
+    },
+    "27": {
+        "image_id": "914",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "28": {
+        "image_id": "561",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "340;365"
+    },
+    "29": {
+        "image_id": "563",
+        "question_type": "shape",
+        "question": "图像显示的光谱图是背景噪声吗？",
+        "answer": "是"
+    },
+    "30": {
+        "image_id": "975",
+        "question_type": "shape",
+        "question": "在图中，左侧半峰是否比右侧半峰更显著？",
+        "answer": "否"
+    },
+    "31": {
+        "image_id": "58",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "32": {
+        "image_id": "336",
+        "question_type": "peak_position",
+        "question": "请指出这些峰在图中各自的位置?",
+        "answer": "None"
+    },
+    "33": {
+        "image_id": "841",
+        "question_type": "peak_position",
+        "question": "请问这个光谱图上的峰值横坐标分别是多少？",
+        "answer": "410;540"
+    },
+    "34": {
+        "image_id": "663",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "2500;3000"
+    },
+    "35": {
+        "image_id": "559",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "None"
+    },
+    "36": {
+        "image_id": "980",
+        "question_type": "peak_position",
+        "question": "每个峰的位置具体是什么?",
+        "answer": "312"
+    },
+    "37": {
+        "image_id": "534",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "29000"
+    },
+    "38": {
+        "image_id": "348",
+        "question_type": "shape",
+        "question": "这张光谱图中的峰值是否表现为背景噪声？",
+        "answer": "是"
+    },
+    "39": {
+        "image_id": "579",
+        "question_type": "fwhm",
+        "question": "请依照图像提供每个峰的大概半峰宽。",
+        "answer": "8"
+    },
+    "40": {
+        "image_id": "326",
+        "question_type": "shape",
+        "question": "请问，这张图的波动中是否隐藏了背景噪声？",
+        "answer": "否"
+    },
+    "41": {
+        "image_id": "618",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "360"
+    },
+    "42": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "您是否愿意帮我判断这张图中的波形是否对称于峰位波长？",
+        "answer": "是"
+    },
+    "43": {
+        "image_id": "132",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "3000;9000;11000;8500;6000;4000;2500;1500"
+    },
+    "44": {
+        "image_id": "551",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "363"
+    },
+    "45": {
+        "image_id": "153",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "1"
+    },
+    "46": {
+        "image_id": "685",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "None"
+    },
+    "47": {
+        "image_id": "22",
+        "question_type": "peak_position",
+        "question": "请您描述图中显示数据的范围是什么？",
+        "answer": "270;400"
+    },
+    "48": {
+        "image_id": "129",
+        "question_type": "shape",
+        "question": "峰位波长处的峰形是否对称？",
+        "answer": "否"
+    },
+    "49": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "您能否根据光谱学原理帮我计算这张图的噪声是否为背景噪声？",
+        "answer": "否"
+    },
+    "50": {
+        "image_id": "323",
+        "question_type": "peak_value",
+        "question": "请问峰值的数值各是多少？",
+        "answer": "34000"
+    },
+    "51": {
+        "image_id": "663",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "2"
+    },
+    "52": {
+        "image_id": "220",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "14"
+    },
+    "53": {
+        "image_id": "974",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点值是多少?",
+        "answer": "12500"
+    },
+    "54": {
+        "image_id": "537",
+        "question_type": "peak_number",
+        "question": "请识别并告诉我图中有多少个显著的峰？",
+        "answer": "1"
+    },
+    "55": {
+        "image_id": "802",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "33000;38000;32000;23000;17000;10000;4000"
+    },
+    "56": {
+        "image_id": "959",
+        "question_type": "shape",
+        "question": "峰的形状是否在峰位的波长上对称？",
+        "answer": "是"
+    },
+    "57": {
+        "image_id": "34",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "None"
+    },
+    "58": {
+        "image_id": "347",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些位置?",
+        "answer": "None"
+    },
+    "59": {
+        "image_id": "858",
+        "question_type": "peak_number",
+        "question": "请指出这个材料的光谱图上有几个显著的峰？",
+        "answer": "1"
+    },
+    "60": {
+        "image_id": "706",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "1"
+    },
+    "61": {
+        "image_id": "716",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "20"
+    },
+    "62": {
+        "image_id": "577",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "500;750"
+    },
+    "63": {
+        "image_id": "116",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "13500;10000;6000;4000"
+    },
+    "64": {
+        "image_id": "840",
+        "question_type": "fwhm",
+        "question": "确定这个材料的半峰宽，这是你的任务。",
+        "answer": "60"
+    },
+    "65": {
+        "image_id": "723",
+        "question_type": "peak_value",
+        "question": "标出每个峰的峰值",
+        "answer": "460"
+    },
+    "66": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "这些光谱数据是否显示出对称性的特征？",
+        "answer": "否"
+    },
+    "67": {
+        "image_id": "216",
+        "question_type": "fwhm",
+        "question": "峰的半高宽度是多少？",
+        "answer": "9"
+    },
+    "68": {
+        "image_id": "165",
+        "question_type": "shape",
+        "question": "峰形在峰位波长上是否展现出对称的布局？",
+        "answer": "是"
+    },
+    "69": {
+        "image_id": "737",
+        "question_type": "peak_value",
+        "question": "请问各峰的数值分别是多少？",
+        "answer": "8000"
+    },
+    "70": {
+        "image_id": "340",
+        "question_type": "peak_number",
+        "question": "分析一下，这幅图表中有几个明显的峰值?",
+        "answer": "None"
+    },
+    "71": {
+        "image_id": "807",
+        "question_type": "peak_position",
+        "question": "这些峰在x轴上的位置分布如何？",
+        "answer": "380;385;392;398;405;412;420"
+    },
+    "72": {
+        "image_id": "930",
+        "question_type": "peak_position",
+        "question": "为了进一步分析，我们希望获得这些材料光谱图上峰值的横坐标。",
+        "answer": "305"
+    },
+    "73": {
+        "image_id": "928",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "74": {
+        "image_id": "113",
+        "question_type": "peak_value",
+        "question": "标出每个峰的峰值",
+        "answer": "13500;18500"
+    },
+    "75": {
+        "image_id": "828",
+        "question_type": "peak_position",
+        "question": "每个峰都在什么横坐标位置？",
+        "answer": "525"
+    },
+    "76": {
+        "image_id": "22",
+        "question_type": "peak_position",
+        "question": "能否详细说明每个峰值在横坐标上的具体分布情况？",
+        "answer": "365"
+    },
+    "77": {
+        "image_id": "576",
+        "question_type": "peak_position",
+        "question": "这张图的每个峰所在的横坐标能指出来吗？",
+        "answer": "None"
+    },
+    "78": {
+        "image_id": "555",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "2"
+    },
+    "79": {
+        "image_id": "138",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "80": {
+        "image_id": "756",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "3000"
+    },
+    "81": {
+        "image_id": "324",
+        "question_type": "shape",
+        "question": "我很好奇，这张图是否展示了背景噪声？",
+        "answer": "否"
+    },
+    "82": {
+        "image_id": "831",
+        "question_type": "peak_value",
+        "question": "立即报告这个光谱图上所有峰值的具体数值。",
+        "answer": "3500"
+    },
+    "83": {
+        "image_id": "91",
+        "question_type": "fwhm",
+        "question": "图中的各个半峰宽分别是多少？",
+        "answer": "None"
+    },
+    "84": {
+        "image_id": "604",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "9"
+    },
+    "85": {
+        "image_id": "37",
+        "question_type": "peak_position",
+        "question": "每个峰的最高点对应的横坐标是多少？",
+        "answer": "365;380;390;490;521"
+    },
+    "86": {
+        "image_id": "914",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "87": {
+        "image_id": "773",
+        "question_type": "peak_position",
+        "question": "这些峰在x轴上的位置分布如何？",
+        "answer": "720;770;780;790;800;820;830"
+    },
+    "88": {
+        "image_id": "89",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "None"
+    },
+    "89": {
+        "image_id": "11",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "835"
+    },
+    "90": {
+        "image_id": "577",
+        "question_type": "peak_position",
+        "question": "每个峰的横轴位置具体是哪里？",
+        "answer": "340;363"
+    },
+    "91": {
+        "image_id": "885",
+        "question_type": "shape",
+        "question": "我想知道这是否是背景噪声。",
+        "answer": "否"
+    },
+    "92": {
+        "image_id": "240",
+        "question_type": "shape",
+        "question": "如果这些波动确实是背景噪声，您能帮我确认这一点吗？",
+        "answer": "否"
+    },
+    "93": {
+        "image_id": "102",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "1"
+    },
+    "94": {
+        "image_id": "140",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "13000"
+    },
+    "95": {
+        "image_id": "99",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "96": {
+        "image_id": "118",
+        "question_type": "peak_value",
+        "question": "每个峰中的最高点是多少？",
+        "answer": "21000;28000;19000;12000;7000"
+    },
+    "97": {
+        "image_id": "380",
+        "question_type": "peak_position",
+        "question": "分析这张图，每个峰的位置分布在哪里?",
+        "answer": "518"
+    },
+    "98": {
+        "image_id": "617",
+        "question_type": "shape",
+        "question": "观察图像，分辨是否是左侧半峰。",
+        "answer": "是"
+    },
+    "99": {
+        "image_id": "106",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "555;563;575;592;609"
+    },
+    "100": {
+        "image_id": "141",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "101": {
+        "image_id": "415",
+        "question_type": "peak_number",
+        "question": "请查看这张图，告诉我总共有多少个峰值?",
+        "answer": "1"
+    },
+    "102": {
+        "image_id": "917",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "20"
+    },
+    "103": {
+        "image_id": "1021",
+        "question_type": "peak_number",
+        "question": "请查看这张图，告诉我总共有多少个峰值?",
+        "answer": "1"
+    },
+    "104": {
+        "image_id": "508",
+        "question_type": "peak_number",
+        "question": "你能指出这幅图展示的峰值数量吗？",
+        "answer": "None"
+    },
+    "105": {
+        "image_id": "136",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "400;900;1400;1500;1700;1500;1200;800;500"
+    },
+    "106": {
+        "image_id": "605",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "None"
+    },
+    "107": {
+        "image_id": "971",
+        "question_type": "peak_position",
+        "question": "请指出这张图中每个峰的位置在哪里?",
+        "answer": "305"
+    },
+    "108": {
+        "image_id": "52",
+        "question_type": "fwhm",
+        "question": "请告诉我每个峰的半峰宽",
+        "answer": "1"
+    },
+    "109": {
+        "image_id": "663",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "10;20"
+    },
+    "110": {
+        "image_id": "851",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "400;540"
+    },
+    "111": {
+        "image_id": "556",
+        "question_type": "peak_position",
+        "question": "这张图的每个峰所在的横坐标能指出来吗？",
+        "answer": "325"
+    },
+    "112": {
+        "image_id": "390",
+        "question_type": "shape",
+        "question": "峰的形状是否沿着波长对称？",
+        "answer": "是"
+    },
+    "113": {
+        "image_id": "847",
+        "question_type": "peak_value",
+        "question": "请问这个材料的光谱图上峰值的数值有哪些？",
+        "answer": "4000;2600"
+    },
+    "114": {
+        "image_id": "983",
+        "question_type": "peak_number",
+        "question": "这图中展示了多少个峰，请统计一下?",
+        "answer": "1"
+    },
+    "115": {
+        "image_id": "814",
+        "question_type": "peak_position",
+        "question": "这些峰在x轴上的位置分布如何？",
+        "answer": "385"
+    },
+    "116": {
+        "image_id": "238",
+        "question_type": "shape",
+        "question": "您能否帮我观察这张图，并告知波形是否对称？",
+        "answer": "否"
+    },
+    "117": {
+        "image_id": "410",
+        "question_type": "fwhm",
+        "question": "半峰宽度在这些峰中各是什么?",
+        "answer": "27"
+    },
+    "118": {
+        "image_id": "752",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "390"
+    },
+    "119": {
+        "image_id": "6",
+        "question_type": "fwhm",
+        "question": "能否告诉我每个峰在X轴上的半峰宽度",
+        "answer": "4;20"
+    },
+    "120": {
+        "image_id": "651",
+        "question_type": "peak_number",
+        "question": "峰的数量是多少？",
+        "answer": "2"
+    },
+    "121": {
+        "image_id": "947",
+        "question_type": "fwhm",
+        "question": "每个峰的半峰宽度具体数值是多少?",
+        "answer": "11"
+    },
+    "122": {
+        "image_id": "314",
+        "question_type": "fwhm",
+        "question": "从光谱学的专业角度来看，这张图的每个峰的半峰宽分别是多少？",
+        "answer": "10"
+    },
+    "123": {
+        "image_id": "344",
+        "question_type": "shape",
+        "question": "这张光谱图中的峰值是否表现为背景噪声？",
+        "answer": "是"
+    },
+    "124": {
+        "image_id": "85",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "否"
+    },
+    "125": {
+        "image_id": "748",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "1"
+    },
+    "126": {
+        "image_id": "160",
+        "question_type": "shape",
+        "question": "峰形在峰位波长上是否展现出对称的布局？",
+        "answer": "是"
+    },
+    "127": {
+        "image_id": "837",
+        "question_type": "fwhm",
+        "question": "请分析这个光谱图并报告其半峰宽。",
+        "answer": "50"
+    },
+    "128": {
+        "image_id": "176",
+        "question_type": "peak_position",
+        "question": "每个峰的x坐标是多少？",
+        "answer": "418;455"
+    },
+    "129": {
+        "image_id": "336",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "None"
+    },
+    "130": {
+        "image_id": "65",
+        "question_type": "peak_number",
+        "question": "在这个范围内，峰的数量是多少个？",
+        "answer": "1"
+    },
+    "131": {
+        "image_id": "546",
+        "question_type": "shape",
+        "question": "根据提供的图像，是否可以观察到峰之间的重叠现象？",
+        "answer": "是"
+    },
+    "132": {
+        "image_id": "588",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "None"
+    },
+    "133": {
+        "image_id": "931",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "350"
+    },
+    "134": {
+        "image_id": "102",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "760"
+    },
+    "135": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "根据光谱分析，这张图的波形是否对称于峰位波长？",
+        "answer": "否"
+    },
+    "136": {
+        "image_id": "425",
+        "question_type": "peak_number",
+        "question": "根据图中的数据，总共有几个峰值?",
+        "answer": "1"
+    },
+    "137": {
+        "image_id": "316",
+        "question_type": "shape",
+        "question": "您能否利用您的专业知识帮我判断这张图是否含有背景噪声？",
+        "answer": "否"
+    },
+    "138": {
+        "image_id": "996",
+        "question_type": "peak_position",
+        "question": "你能描述一下这幅图中每个峰的位置吗?",
+        "answer": "None"
+    },
+    "139": {
+        "image_id": "213",
+        "question_type": "peak_number",
+        "question": "图像的峰值区域有多少个？",
+        "answer": "1"
+    },
+    "140": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "请问，这张图的波动在专业分析中是否表明背景噪声？",
+        "answer": "否"
+    },
+    "141": {
+        "image_id": "332",
+        "question_type": "peak_value",
+        "question": "这些峰各自达到了什么数值?",
+        "answer": "25000"
+    },
+    "142": {
+        "image_id": "799",
+        "question_type": "peak_position",
+        "question": "每个峰都在什么横坐标位置？",
+        "answer": "380;385;390;395;405;415;420"
+    },
+    "143": {
+        "image_id": "417",
+        "question_type": "fwhm",
+        "question": "这些峰的半宽值各是什么?",
+        "answer": "27"
+    },
+    "144": {
+        "image_id": "711",
+        "question_type": "peak_position",
+        "question": "每个峰的中心在哪里",
+        "answer": "445"
+    },
+    "145": {
+        "image_id": "835",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "530"
+    },
+    "146": {
+        "image_id": "762",
+        "question_type": "peak_value",
+        "question": "各峰的峰值具体数值是多少？",
+        "answer": "2000"
+    },
+    "147": {
+        "image_id": "769",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "54000;52000;40000;22000;14000;6000;20000"
+    },
+    "148": {
+        "image_id": "899",
+        "question_type": "peak_value",
+        "question": "立即提供这些光谱图中每个峰值的数值。",
+        "answer": "27000"
+    },
+    "149": {
+        "image_id": "28",
+        "question_type": "peak_position",
+        "question": "每个峰值在横坐标上的具体位置是什么？",
+        "answer": "387;448"
+    },
+    "150": {
+        "image_id": "723",
+        "question_type": "fwhm",
+        "question": "能否给出每个峰的半峰宽",
+        "answer": "20"
+    },
+    "151": {
+        "image_id": "747",
+        "question_type": "shape",
+        "question": "是否发生数个峰值出现叠加情况？",
+        "answer": "否"
+    },
+    "152": {
+        "image_id": "199",
+        "question_type": "shape",
+        "question": "峰位波长处的峰形是否对称？",
+        "answer": "是"
+    },
+    "153": {
+        "image_id": "553",
+        "question_type": "fwhm",
+        "question": "图像中每个峰的半峰宽是多少？",
+        "answer": "10;10;15"
+    },
+    "154": {
+        "image_id": "904",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "155": {
+        "image_id": "305",
+        "question_type": "shape",
+        "question": "请问，图中波形的对称轴是否为峰位波长？",
+        "answer": "否"
+    },
+    "156": {
+        "image_id": "63",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "157": {
+        "image_id": "634",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "None"
+    },
+    "158": {
+        "image_id": "324",
+        "question_type": "shape",
+        "question": "您能帮我看一下这张图，它是否是激光的光谱图吗？",
+        "answer": "否"
+    },
+    "159": {
+        "image_id": "708",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "否"
+    },
+    "160": {
+        "image_id": "835",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "161": {
+        "image_id": "143",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "162": {
+        "image_id": "741",
+        "question_type": "fwhm",
+        "question": "请问峰的半高宽度各是多少？",
+        "answer": "30"
+    },
+    "163": {
+        "image_id": "533",
+        "question_type": "peak_position",
+        "question": "每个峰值在横轴上对应哪个位置？",
+        "answer": "445"
+    },
+    "164": {
+        "image_id": "760",
+        "question_type": "peak_number",
+        "question": "请问这张图像的峰值分布情况如何？",
+        "answer": "1"
+    },
+    "165": {
+        "image_id": "424",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些位置?",
+        "answer": "520"
+    },
+    "166": {
+        "image_id": "357",
+        "question_type": "fwhm",
+        "question": "请告诉我这张图中每个峰的半峰宽是多少?",
+        "answer": "None"
+    },
+    "167": {
+        "image_id": "382",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "30"
+    },
+    "168": {
+        "image_id": "233",
+        "question_type": "peak_number",
+        "question": "能否告诉我，这张图有几个峰？",
+        "answer": "3"
+    },
+    "169": {
+        "image_id": "903",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "170": {
+        "image_id": "25",
+        "question_type": "peak_position",
+        "question": "请描述显示的区域覆盖了哪些范围？",
+        "answer": "0m;1600"
+    },
+    "171": {
+        "image_id": "945",
+        "question_type": "peak_number",
+        "question": "请查看这张图，告诉我总共有多少个峰值?",
+        "answer": "None"
+    },
+    "172": {
+        "image_id": "31",
+        "question_type": "peak_number",
+        "question": "有几个峰",
+        "answer": "1"
+    },
+    "173": {
+        "image_id": "1023",
+        "question_type": "peak_value",
+        "question": "请分析，这些峰值分别是多少?",
+        "answer": "16000"
+    },
+    "174": {
+        "image_id": "7",
+        "question_type": "fwhm",
+        "question": "能否给出各个峰半峰宽",
+        "answer": "None"
+    },
+    "175": {
+        "image_id": "697",
+        "question_type": "peak_number",
+        "question": "分析图片可以得出图中有几个峰",
+        "answer": "1"
+    },
+    "176": {
+        "image_id": "127",
+        "question_type": "fwhm",
+        "question": "各个峰半峰宽是多少",
+        "answer": "None"
+    },
+    "177": {
+        "image_id": "800",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "178": {
+        "image_id": "637",
+        "question_type": "peak_position",
+        "question": "给出每个峰的最大值对应的横坐标",
+        "answer": "None"
+    },
+    "179": {
+        "image_id": "428",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "30"
+    },
+    "180": {
+        "image_id": "286",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "181": {
+        "image_id": "1030",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "8"
+    },
+    "182": {
+        "image_id": "97",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "183": {
+        "image_id": "605",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "184": {
+        "image_id": "468",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "7"
+    },
+    "185": {
+        "image_id": "809",
+        "question_type": "peak_position",
+        "question": "这些峰的x轴坐标点分别是什么？",
+        "answer": "382;385;395;400;405;415;420;430;440"
+    },
+    "186": {
+        "image_id": "292",
+        "question_type": "peak_value",
+        "question": "这些光谱图上的峰值数值是多少，您能帮我确认一下吗？",
+        "answer": "400;900"
+    },
+    "187": {
+        "image_id": "789",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "42000;36000;30000;20000;12000;6000"
+    },
+    "188": {
+        "image_id": "280",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "189": {
+        "image_id": "388",
+        "question_type": "peak_number",
+        "question": "你能数出这张图中有多少个峰吗?",
+        "answer": "1"
+    },
+    "190": {
+        "image_id": "307",
+        "question_type": "peak_value",
+        "question": "请问，您能帮我详细列出这张光谱图的每个峰的峰值吗？",
+        "answer": "5000;23000"
+    },
+    "191": {
+        "image_id": "228",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "5"
+    },
+    "192": {
+        "image_id": "325",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "否"
+    },
+    "193": {
+        "image_id": "293",
+        "question_type": "shape",
+        "question": "是否是背景噪声？",
+        "answer": "否"
+    },
+    "194": {
+        "image_id": "245",
+        "question_type": "peak_number",
+        "question": "峰值的数量被这张图揭示是多少？",
+        "answer": "1"
+    },
+    "195": {
+        "image_id": "144",
+        "question_type": "peak_position",
+        "question": "每个峰的x坐标是多少？",
+        "answer": "305"
+    },
+    "196": {
+        "image_id": "59",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "197": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "请问，从光谱学的角度，这张图是否代表激光？",
+        "answer": "否"
+    },
+    "198": {
+        "image_id": "208",
+        "question_type": "shape",
+        "question": "是否检测到若干峰值的合并现象？",
+        "answer": "是"
+    },
+    "199": {
+        "image_id": "52",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值是多少",
+        "answer": "40000"
+    },
+    "200": {
+        "image_id": "261",
+        "question_type": "peak_position",
+        "question": "您是否愿意帮我找出这张图中峰值的横坐标？",
+        "answer": "355"
+    },
+    "201": {
+        "image_id": "196",
+        "question_type": "peak_value",
+        "question": "请问每个峰的峰值分别是多少？",
+        "answer": "8000"
+    },
+    "202": {
+        "image_id": "126",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "21000;27000;19000;11000;6000"
+    },
+    "203": {
+        "image_id": "353",
+        "question_type": "fwhm",
+        "question": "你能计算出这些峰的半峰宽吗?",
+        "answer": "None"
+    },
+    "204": {
+        "image_id": "608",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "None"
+    },
+    "205": {
+        "image_id": "878",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "530"
+    },
+    "206": {
+        "image_id": "974",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "12"
+    },
+    "207": {
+        "image_id": "289",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "208": {
+        "image_id": "769",
+        "question_type": "peak_number",
+        "question": "请问这张图像有几个波峰区域？",
+        "answer": "7"
+    },
+    "209": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "评估这个光谱图的对称性，并给出结论。",
+        "answer": "否"
+    },
+    "210": {
+        "image_id": "265",
+        "question_type": "peak_number",
+        "question": "请问，根据光谱学的标准，这张图有几个峰值？",
+        "answer": "2"
+    },
+    "211": {
+        "image_id": "864",
+        "question_type": "peak_value",
+        "question": "评估这些光谱图，并告诉我每个峰值的数值。",
+        "answer": "14000"
+    },
+    "212": {
+        "image_id": "32",
+        "question_type": "peak_position",
+        "question": "将每一个峰位的横坐标写出来",
+        "answer": "365;380;390;485;521"
+    },
+    "213": {
+        "image_id": "476",
+        "question_type": "peak_position",
+        "question": "这张图的每个峰所在的横坐标能指出来吗？",
+        "answer": "525"
+    },
+    "214": {
+        "image_id": "97",
+        "question_type": "fwhm",
+        "question": "图中的各个半峰宽分别是多少？",
+        "answer": "None"
+    },
+    "215": {
+        "image_id": "10",
+        "question_type": "shape",
+        "question": "峰和峰之间是否有重叠现象",
+        "answer": "否"
+    },
+    "216": {
+        "image_id": "689",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "None"
+    },
+    "217": {
+        "image_id": "992",
+        "question_type": "peak_value",
+        "question": "这些峰各自达到了什么数值?",
+        "answer": "330"
+    },
+    "218": {
+        "image_id": "735",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称？",
+        "answer": "是"
+    },
+    "219": {
+        "image_id": "571",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "600"
+    },
+    "220": {
+        "image_id": "264",
+        "question_type": "shape",
+        "question": "观察并判断这个光源是否属于激光系列。",
+        "answer": "是"
+    },
+    "221": {
+        "image_id": "509",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "2"
+    },
+    "222": {
+        "image_id": "451",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "520"
+    },
+    "223": {
+        "image_id": "774",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "24000;2000;15000;8000;4000"
+    },
+    "224": {
+        "image_id": "368",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "None"
+    },
+    "225": {
+        "image_id": "470",
+        "question_type": "shape",
+        "question": "根据图像，峰形是否以峰位波长为对称轴？",
+        "answer": "否"
+    },
+    "226": {
+        "image_id": "326",
+        "question_type": "shape",
+        "question": "从专业角度来看，这张图是否显示出激光的特征？",
+        "answer": "否"
+    },
+    "227": {
+        "image_id": "819",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "228": {
+        "image_id": "547",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "2000"
+    },
+    "229": {
+        "image_id": "436",
+        "question_type": "peak_position",
+        "question": "这张图的每个峰所在的横坐标能指出来吗？",
+        "answer": "520"
+    },
+    "230": {
+        "image_id": "253",
+        "question_type": "peak_position",
+        "question": "能否帮我找出这张图中峰值的横坐标？",
+        "answer": "355"
+    },
+    "231": {
+        "image_id": "62",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "518"
+    },
+    "232": {
+        "image_id": "627",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "None"
+    },
+    "233": {
+        "image_id": "761",
+        "question_type": "shape",
+        "question": "峰值的形态是否在峰位波长处呈现对称性？",
+        "answer": "是"
+    },
+    "234": {
+        "image_id": "316",
+        "question_type": "shape",
+        "question": "波形在峰位波长处是否对称，这张图示出了吗？",
+        "answer": "否"
+    },
+    "235": {
+        "image_id": "1019",
+        "question_type": "fwhm",
+        "question": "请告诉我这张图中每个峰的半峰宽是多少?",
+        "answer": "15"
+    },
+    "236": {
+        "image_id": "737",
+        "question_type": "peak_number",
+        "question": "请问图像中有几个最高点？",
+        "answer": "1"
+    },
+    "237": {
+        "image_id": "670",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值是多少",
+        "answer": "2400;3300"
+    },
+    "238": {
+        "image_id": "757",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的位置分布有哪些？",
+        "answer": "448"
+    },
+    "239": {
+        "image_id": "557",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "600;600;1000"
+    },
+    "240": {
+        "image_id": "45",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "241": {
+        "image_id": "1010",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "242": {
+        "image_id": "900",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "243": {
+        "image_id": "371",
+        "question_type": "peak_position",
+        "question": "你能描述一下这幅图中每个峰的位置吗?",
+        "answer": "443"
+    },
+    "244": {
+        "image_id": "54",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "245": {
+        "image_id": "554",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "600"
+    },
+    "246": {
+        "image_id": "549",
+        "question_type": "peak_value",
+        "question": "图中每个峰的数值是多少？",
+        "answer": "750"
+    },
+    "247": {
+        "image_id": "319",
+        "question_type": "shape",
+        "question": "这张图的波动在光谱学中是否被认定为背景噪声？",
+        "answer": "否"
+    },
+    "248": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "否"
+    },
+    "249": {
+        "image_id": "112",
+        "question_type": "shape",
+        "question": "这些峰是否清晰可辨，没有重叠现象？",
+        "answer": "是"
+    },
+    "250": {
+        "image_id": "1019",
+        "question_type": "peak_number",
+        "question": "根据图中的数据，总共有几个峰值?",
+        "answer": "1"
+    },
+    "251": {
+        "image_id": "901",
+        "question_type": "fwhm",
+        "question": "为了确保我们的分析结果的一致性，我需要确认这个材料的半峰宽数值。",
+        "answer": "30"
+    },
+    "252": {
+        "image_id": "44",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "4"
+    },
+    "253": {
+        "image_id": "465",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "2"
+    },
+    "254": {
+        "image_id": "429",
+        "question_type": "peak_number",
+        "question": "在这张图中，你能识别出多少个峰?",
+        "answer": "1"
+    },
+    "255": {
+        "image_id": "440",
+        "question_type": "peak_value",
+        "question": "请提供图中每个峰的峰值。",
+        "answer": "2400"
+    },
+    "256": {
+        "image_id": "310",
+        "question_type": "shape",
+        "question": "这张图的波形是否在峰位波长两侧对称分布？",
+        "answer": "否"
+    },
+    "257": {
+        "image_id": "210",
+        "question_type": "peak_value",
+        "question": "每个峰的数值最高点分别是多少？",
+        "answer": "11000"
+    },
+    "258": {
+        "image_id": "714",
+        "question_type": "fwhm",
+        "question": "请告诉我每个峰的半峰宽",
+        "answer": "20"
+    },
+    "259": {
+        "image_id": "313",
+        "question_type": "shape",
+        "question": "请问，您能帮我确定这张图中的噪声是否属于背景噪声？",
+        "answer": "否"
+    },
+    "260": {
+        "image_id": "978",
+        "question_type": "peak_position",
+        "question": "请告诉我图中每个峰的具体位置?",
+        "answer": "310"
+    },
+    "261": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "请问，您能帮我分析并告知这张图的波形是否沿峰位波长对称？",
+        "answer": "是"
+    },
+    "262": {
+        "image_id": "620",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "10"
+    },
+    "263": {
+        "image_id": "427",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "14000"
+    },
+    "264": {
+        "image_id": "621",
+        "question_type": "fwhm",
+        "question": "观察图像，请告诉我每个峰的半峰宽是多少？",
+        "answer": "10"
+    },
+    "265": {
+        "image_id": "830",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "800;500"
+    },
+    "266": {
+        "image_id": "299",
+        "question_type": "shape",
+        "question": "请问，图中的波形是否沿峰位波长对称？",
+        "answer": "否"
+    },
+    "267": {
+        "image_id": "32",
+        "question_type": "shape",
+        "question": "各个峰有重叠吗",
+        "answer": "是"
+    },
+    "268": {
+        "image_id": "183",
+        "question_type": "fwhm",
+        "question": "请问每个峰的半峰宽是多少",
+        "answer": "7"
+    },
+    "269": {
+        "image_id": "455",
+        "question_type": "peak_value",
+        "question": "请提供图中所有峰的峰值。",
+        "answer": "2600"
+    },
+    "270": {
+        "image_id": "564",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "7"
+    },
+    "271": {
+        "image_id": "959",
+        "question_type": "peak_value",
+        "question": "这些峰各自达到了什么数值?",
+        "answer": "1900"
+    },
+    "272": {
+        "image_id": "802",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "273": {
+        "image_id": "768",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "274": {
+        "image_id": "242",
+        "question_type": "peak_position",
+        "question": "横坐标的值对于峰来说是多少？",
+        "answer": "355"
+    },
+    "275": {
+        "image_id": "598",
+        "question_type": "shape",
+        "question": "图像中的峰形状是否沿峰位波长呈现对称性？",
+        "answer": "是"
+    },
+    "276": {
+        "image_id": "108",
+        "question_type": "peak_number",
+        "question": "有几个明显的峰",
+        "answer": "1"
+    },
+    "277": {
+        "image_id": "446",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "1"
+    },
+    "278": {
+        "image_id": "416",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽分别有多宽?",
+        "answer": "29"
+    },
+    "279": {
+        "image_id": "431",
+        "question_type": "shape",
+        "question": "图像中的峰形是否关于峰位波长对称？",
+        "answer": "是"
+    },
+    "280": {
+        "image_id": "705",
+        "question_type": "fwhm",
+        "question": "请告诉我每个峰的半峰宽",
+        "answer": "20"
+    },
+    "281": {
+        "image_id": "653",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "2"
+    },
+    "282": {
+        "image_id": "521",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "39000"
+    },
+    "283": {
+        "image_id": "253",
+        "question_type": "peak_number",
+        "question": "这张图的峰值数是多少，您能帮我确认一下吗？",
+        "answer": "1"
+    },
+    "284": {
+        "image_id": "812",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的具体位置是哪些？",
+        "answer": "382;385;392;400;407;415"
+    },
+    "285": {
+        "image_id": "638",
+        "question_type": "peak_number",
+        "question": "有几个峰",
+        "answer": "1"
+    },
+    "286": {
+        "image_id": "392",
+        "question_type": "peak_value",
+        "question": "你能告诉我这些峰各自的峰值吗?",
+        "answer": "33000"
+    },
+    "287": {
+        "image_id": "463",
+        "question_type": "peak_number",
+        "question": "请数一数图中峰的数量。",
+        "answer": "1"
+    },
+    "288": {
+        "image_id": "258",
+        "question_type": "peak_value",
+        "question": "请问，您能帮我计算一下这张图中峰值的高度吗？",
+        "answer": "22000"
+    },
+    "289": {
+        "image_id": "707",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "290": {
+        "image_id": "957",
+        "question_type": "peak_number",
+        "question": "这张图显示了几个峰?",
+        "answer": "1"
+    },
+    "291": {
+        "image_id": "82",
+        "question_type": "fwhm",
+        "question": "计算出每个峰半峰宽",
+        "answer": "17"
+    },
+    "292": {
+        "image_id": "917",
+        "question_type": "peak_position",
+        "question": "请指出这些光谱图上每个峰值的横坐标。",
+        "answer": "445"
+    },
+    "293": {
+        "image_id": "445",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "1"
+    },
+    "294": {
+        "image_id": "756",
+        "question_type": "shape",
+        "question": "峰形在峰位波长上是否展现出对称的布局？",
+        "answer": "是"
+    },
+    "295": {
+        "image_id": "630",
+        "question_type": "peak_position",
+        "question": "每个峰在这幅图的横坐标上的位置是什么？",
+        "answer": "None"
+    },
+    "296": {
+        "image_id": "319",
+        "question_type": "shape",
+        "question": "请问，这张图的光谱模式是否与激光一致？",
+        "answer": "否"
+    },
+    "297": {
+        "image_id": "360",
+        "question_type": "shape",
+        "question": "有没有可能看到这两个峰是否部分重叠？",
+        "answer": "是"
+    },
+    "298": {
+        "image_id": "775",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "44000;36000;28000;14000;7000;3000"
+    },
+    "299": {
+        "image_id": "483",
+        "question_type": "peak_position",
+        "question": "每个峰值在横轴上对应哪个位置？",
+        "answer": "None"
+    },
+    "300": {
+        "image_id": "319",
+        "question_type": "shape",
+        "question": "您能否根据光谱学原理帮我计算这张图的峰值是否有重叠？",
+        "answer": "是"
+    },
+    "301": {
+        "image_id": "1006",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "None"
+    },
+    "302": {
+        "image_id": "437",
+        "question_type": "fwhm",
+        "question": "请分析图像并告知每个峰的半峰宽。",
+        "answer": "35"
+    },
+    "303": {
+        "image_id": "528",
+        "question_type": "shape",
+        "question": "图像中的峰形状是否沿峰位波长呈现对称性？",
+        "answer": "是"
+    },
+    "304": {
+        "image_id": "71",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "5"
+    },
+    "305": {
+        "image_id": "426",
+        "question_type": "peak_position",
+        "question": "分析这张图，每个峰的位置分布在哪里?",
+        "answer": "518"
+    },
+    "306": {
+        "image_id": "469",
+        "question_type": "peak_value",
+        "question": "图中每个峰的数值是多少？",
+        "answer": "3500"
+    },
+    "307": {
+        "image_id": "886",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "是"
+    },
+    "308": {
+        "image_id": "880",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "309": {
+        "image_id": "275",
+        "question_type": "peak_position",
+        "question": "您能否根据光谱图的专业解读帮我找出峰值的横坐标？",
+        "answer": "387.5;452.5"
+    },
+    "310": {
+        "image_id": "322",
+        "question_type": "peak_value",
+        "question": "您能否根据光谱学原理帮我计算出这张图的每个峰的峰值？",
+        "answer": "30000"
+    },
+    "311": {
+        "image_id": "838",
+        "question_type": "peak_position",
+        "question": "观察这个光谱图，并指出每个峰值的横坐标。",
+        "answer": "530"
+    },
+    "312": {
+        "image_id": "301",
+        "question_type": "shape",
+        "question": "请问，您能帮我找出这张图中波形的对称性吗？",
+        "answer": "否"
+    },
+    "313": {
+        "image_id": "20",
+        "question_type": "peak_value",
+        "question": "各峰的数值最高点分别是多少？",
+        "answer": "24170"
+    },
+    "314": {
+        "image_id": "539",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "443"
+    },
+    "315": {
+        "image_id": "38",
+        "question_type": "peak_position",
+        "question": "每个峰的中心在哪里",
+        "answer": "500"
+    },
+    "316": {
+        "image_id": "765",
+        "question_type": "peak_value",
+        "question": "请问峰值的数值各是多少？",
+        "answer": "25000;24000"
+    },
+    "317": {
+        "image_id": "7",
+        "question_type": "peak_number",
+        "question": "请问这些峰一共有多少个？",
+        "answer": "4"
+    },
+    "318": {
+        "image_id": "350",
+        "question_type": "fwhm",
+        "question": "半峰宽度在这些峰中各是什么?",
+        "answer": "None"
+    },
+    "319": {
+        "image_id": "174",
+        "question_type": "peak_position",
+        "question": "每个峰的横坐标值是多少？",
+        "answer": "380;390;410;455;472"
+    },
+    "320": {
+        "image_id": "286",
+        "question_type": "shape",
+        "question": "这张图是不是表示激光的存在？",
+        "answer": "否"
+    },
+    "321": {
+        "image_id": "985",
+        "question_type": "peak_position",
+        "question": "每个峰在这张图中的位置是哪里?",
+        "answer": "309"
+    },
+    "322": {
+        "image_id": "506",
+        "question_type": "shape",
+        "question": "请分析图像中的峰形是否围绕峰位波长对称？",
+        "answer": "是"
+    },
+    "323": {
+        "image_id": "507",
+        "question_type": "peak_number",
+        "question": "请识别并告诉我图中有多少个显著的峰？",
+        "answer": "2"
+    },
+    "324": {
+        "image_id": "784",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "325": {
+        "image_id": "327",
+        "question_type": "shape",
+        "question": "从光谱学的专业角度来看，这张图的波形是否沿峰位波长对称？",
+        "answer": "否"
+    },
+    "326": {
+        "image_id": "410",
+        "question_type": "peak_position",
+        "question": "请告诉我图中每个峰的具体位置?",
+        "answer": "512"
+    },
+    "327": {
+        "image_id": "94",
+        "question_type": "peak_value",
+        "question": "请提供图中所有峰的峰值。",
+        "answer": "None"
+    },
+    "328": {
+        "image_id": "804",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "329": {
+        "image_id": "298",
+        "question_type": "shape",
+        "question": "这张光谱图是否有峰值重叠的现象？",
+        "answer": "否"
+    },
+    "330": {
+        "image_id": "50",
+        "question_type": "peak_number",
+        "question": "请问这张图里有几个峰？",
+        "answer": "1"
+    },
+    "331": {
+        "image_id": "86",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点数值是多少",
+        "answer": "370;340"
+    },
+    "332": {
+        "image_id": "447",
+        "question_type": "fwhm",
+        "question": "请分析图像并告知每个峰的半峰宽。",
+        "answer": "25"
+    },
+    "333": {
+        "image_id": "684",
+        "question_type": "peak_value",
+        "question": "图中每个峰的数值是多少？",
+        "answer": "None"
+    },
+    "334": {
+        "image_id": "103",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "335": {
+        "image_id": "588",
+        "question_type": "peak_number",
+        "question": "你能指出这幅图展示的峰值数量吗？",
+        "answer": "None"
+    },
+    "336": {
+        "image_id": "443",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "2300"
+    },
+    "337": {
+        "image_id": "565",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "340;363"
+    },
+    "338": {
+        "image_id": "495",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "否"
+    },
+    "339": {
+        "image_id": "479",
+        "question_type": "shape",
+        "question": "峰形是否在图像的峰位波长处对称？",
+        "answer": "是"
+    },
+    "340": {
+        "image_id": "376",
+        "question_type": "peak_position",
+        "question": "这幅图中的峰各自位于何处?",
+        "answer": "525"
+    },
+    "341": {
+        "image_id": "889",
+        "question_type": "peak_number",
+        "question": "数一下这个光谱图上的峰，并告诉我总数。",
+        "answer": "5"
+    },
+    "342": {
+        "image_id": "261",
+        "question_type": "peak_value",
+        "question": "您能否帮我分析这张图，并告诉我峰值的数值？",
+        "answer": "48000"
+    },
+    "343": {
+        "image_id": "791",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "33000;32000;30000;20000;12000;6000"
+    },
+    "344": {
+        "image_id": "647",
+        "question_type": "peak_position",
+        "question": "每个峰的中心位置是多少",
+        "answer": "365;455"
+    },
+    "345": {
+        "image_id": "803",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "346": {
+        "image_id": "738",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽分别是多少？",
+        "answer": "30"
+    },
+    "347": {
+        "image_id": "1021",
+        "question_type": "fwhm",
+        "question": "请告诉我这张图中每个峰的半峰宽是多少?",
+        "answer": "8"
+    },
+    "348": {
+        "image_id": "212",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "362"
+    },
+    "349": {
+        "image_id": "324",
+        "question_type": "peak_value",
+        "question": "您能否根据光谱图的专业解读帮我识别出每个峰的峰值？",
+        "answer": "33000"
+    },
+    "350": {
+        "image_id": "84",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "否"
+    },
+    "351": {
+        "image_id": "410",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "352": {
+        "image_id": "511",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "62000;34000"
+    },
+    "353": {
+        "image_id": "403",
+        "question_type": "peak_position",
+        "question": "请指出这些峰在图中各自的位置?",
+        "answer": "571"
+    },
+    "354": {
+        "image_id": "738",
+        "question_type": "peak_number",
+        "question": "图像的局部强度最高点有多少个？",
+        "answer": "1"
+    },
+    "355": {
+        "image_id": "292",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "387.5;450"
+    },
+    "356": {
+        "image_id": "686",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "None"
+    },
+    "357": {
+        "image_id": "442",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些横坐标上？",
+        "answer": "525"
+    },
+    "358": {
+        "image_id": "156",
+        "question_type": "peak_number",
+        "question": "在这张图像中，可以识别出多少个信号的峰值？",
+        "answer": "1"
+    },
+    "359": {
+        "image_id": "237",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "是"
+    },
+    "360": {
+        "image_id": "795",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "361": {
+        "image_id": "351",
+        "question_type": "peak_number",
+        "question": "在这张图中，你能识别出多少个峰?",
+        "answer": "None"
+    },
+    "362": {
+        "image_id": "992",
+        "question_type": "peak_number",
+        "question": "根据图中的数据，总共有几个峰值?",
+        "answer": "1"
+    },
+    "363": {
+        "image_id": "489",
+        "question_type": "fwhm",
+        "question": "请依照图像提供每个峰的大概半峰宽。",
+        "answer": "None"
+    },
+    "364": {
+        "image_id": "403",
+        "question_type": "peak_number",
+        "question": "分析一下，这幅图表中有几个明显的峰值?",
+        "answer": "1"
+    },
+    "365": {
+        "image_id": "582",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些横坐标上？",
+        "answer": "364"
+    },
+    "366": {
+        "image_id": "136",
+        "question_type": "peak_number",
+        "question": "图像的峰值区域有多少个？",
+        "answer": "9"
+    },
+    "367": {
+        "image_id": "123",
+        "question_type": "shape",
+        "question": "峰和峰之间是否有重叠现象",
+        "answer": "是"
+    },
+    "368": {
+        "image_id": "609",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "1"
+    },
+    "369": {
+        "image_id": "713",
+        "question_type": "fwhm",
+        "question": "能否给出每个峰的半峰宽",
+        "answer": "20"
+    },
+    "370": {
+        "image_id": "62",
+        "question_type": "peak_number",
+        "question": "能否告诉我这个区域一共有几个峰？",
+        "answer": "1"
+    },
+    "371": {
+        "image_id": "395",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "372": {
+        "image_id": "383",
+        "question_type": "peak_position",
+        "question": "你能描述一下这幅图中每个峰的位置吗?",
+        "answer": "522"
+    },
+    "373": {
+        "image_id": "753",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "2000"
+    },
+    "374": {
+        "image_id": "490",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "None"
+    },
+    "375": {
+        "image_id": "862",
+        "question_type": "shape",
+        "question": "能否确认这些光谱图中是否有峰重叠现象？",
+        "answer": "否"
+    },
+    "376": {
+        "image_id": "573",
+        "question_type": "fwhm",
+        "question": "图像中每个峰的半峰宽是多少？",
+        "answer": "None"
+    },
+    "377": {
+        "image_id": "796",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "6"
+    },
+    "378": {
+        "image_id": "793",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "379": {
+        "image_id": "909",
+        "question_type": "peak_value",
+        "question": "我需要知道这些光谱图上每个峰值的数值。",
+        "answer": "40000"
+    },
+    "380": {
+        "image_id": "462",
+        "question_type": "peak_number",
+        "question": "请数一数图中峰的数量。",
+        "answer": "1"
+    },
+    "381": {
+        "image_id": "736",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽分别是多少？",
+        "answer": "16"
+    },
+    "382": {
+        "image_id": "286",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "383": {
+        "image_id": "853",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "520"
+    },
+    "384": {
+        "image_id": "900",
+        "question_type": "peak_value",
+        "question": "展示这些光谱图中所有峰值的数值。",
+        "answer": "17000"
+    },
+    "385": {
+        "image_id": "135",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "550;560;575;590;605;625;642;670;687"
+    },
+    "386": {
+        "image_id": "133",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "1200;4000;5500;5000;3800;2600;1800;1000"
+    },
+    "387": {
+        "image_id": "269",
+        "question_type": "peak_value",
+        "question": "您能否根据光谱特性帮我计算这张图的峰值高度？",
+        "answer": "19000"
+    },
+    "388": {
+        "image_id": "907",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "389": {
+        "image_id": "235",
+        "question_type": "peak_number",
+        "question": "这张图的峰值数量可以告诉我吗？",
+        "answer": "1"
+    },
+    "390": {
+        "image_id": "700",
+        "question_type": "peak_number",
+        "question": "峰的数量是多少？",
+        "answer": "1"
+    },
+    "391": {
+        "image_id": "844",
+        "question_type": "peak_value",
+        "question": "你知道这个光谱图上峰值的数值吗？",
+        "answer": "20000"
+    },
+    "392": {
+        "image_id": "259",
+        "question_type": "peak_value",
+        "question": "您能否帮我查看这张图，并告知峰值的数值？",
+        "answer": "15000"
+    },
+    "393": {
+        "image_id": "291",
+        "question_type": "peak_value",
+        "question": "请问，这张图的峰值高度是多少？",
+        "answer": "None"
+    },
+    "394": {
+        "image_id": "278",
+        "question_type": "shape",
+        "question": "这张图是不是激光产生的？",
+        "answer": "否"
+    },
+    "395": {
+        "image_id": "601",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "330"
+    },
+    "396": {
+        "image_id": "753",
+        "question_type": "peak_position",
+        "question": "每个峰的x坐标是多少？",
+        "answer": "385"
+    },
+    "397": {
+        "image_id": "45",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "25"
+    },
+    "398": {
+        "image_id": "606",
+        "question_type": "shape",
+        "question": "根据提供的图像，这张光谱图是否属于背景噪声？",
+        "answer": "是"
+    },
+    "399": {
+        "image_id": "622",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些横坐标上？",
+        "answer": "None"
+    },
+    "400": {
+        "image_id": "706",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "500"
+    },
+    "401": {
+        "image_id": "14",
+        "question_type": "fwhm",
+        "question": "峰的半峰宽度数值在各点分别是多少？",
+        "answer": "29"
+    },
+    "402": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "请您在分析时考虑这是否可能是背景噪声。",
+        "answer": "否"
+    },
+    "403": {
+        "image_id": "771",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "8000;12000;8000;6000;2000"
+    },
+    "404": {
+        "image_id": "1014",
+        "question_type": "peak_position",
+        "question": "分析这张图，每个峰的位置分布在哪里?",
+        "answer": "305"
+    },
+    "405": {
+        "image_id": "422",
+        "question_type": "peak_value",
+        "question": "分别统计出这些峰的峰值是多少?",
+        "answer": "16500"
+    },
+    "406": {
+        "image_id": "71",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "12500;14000;15000;8000;25000"
+    },
+    "407": {
+        "image_id": "592",
+        "question_type": "peak_value",
+        "question": "图中各个峰值分别是多少？",
+        "answer": "2200"
+    },
+    "408": {
+        "image_id": "834",
+        "question_type": "shape",
+        "question": "这些光谱图的峰是否部分或全部重叠了？",
+        "answer": "否"
+    },
+    "409": {
+        "image_id": "65",
+        "question_type": "fwhm",
+        "question": "能否告诉我每个峰在X轴上的半峰宽度",
+        "answer": "30"
+    },
+    "410": {
+        "image_id": "273",
+        "question_type": "peak_position",
+        "question": "您能否根据光谱特性帮我计算这张图的峰值横坐标？",
+        "answer": "387.5;452.5"
+    },
+    "411": {
+        "image_id": "569",
+        "question_type": "fwhm",
+        "question": "请依照图像提供每个峰的大概半峰宽。",
+        "answer": "8"
+    },
+    "412": {
+        "image_id": "156",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "307"
+    },
+    "413": {
+        "image_id": "134",
+        "question_type": "peak_number",
+        "question": "请问这张图像有几个波峰区域？",
+        "answer": "9"
+    },
+    "414": {
+        "image_id": "237",
+        "question_type": "shape",
+        "question": "如果这些波动确实是沿峰位波长对称的，您能帮我确认这一点吗？",
+        "answer": "否"
+    },
+    "415": {
+        "image_id": "22",
+        "question_type": "fwhm",
+        "question": "请分析并告知每个峰的半峰宽度是多少？",
+        "answer": "20"
+    },
+    "416": {
+        "image_id": "538",
+        "question_type": "peak_number",
+        "question": "你能指出这幅图展示的峰值数量吗？",
+        "answer": "1"
+    },
+    "417": {
+        "image_id": "916",
+        "question_type": "peak_value",
+        "question": "这些光谱图上的峰值数值是多少，您能帮我确认一下吗？",
+        "answer": "40000"
+    },
+    "418": {
+        "image_id": "899",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "445"
+    },
+    "419": {
+        "image_id": "1021",
+        "question_type": "shape",
+        "question": "峰的形状是否在峰位的波长上对称？",
+        "answer": "是"
+    },
+    "420": {
+        "image_id": "121",
+        "question_type": "peak_value",
+        "question": "请问最大值的数值是多少？",
+        "answer": "3200;3700;3300;3000;2600"
+    },
+    "421": {
+        "image_id": "30",
+        "question_type": "peak_value",
+        "question": "请告知峰值的具体数值。",
+        "answer": "32000;30000;27000;19000;13000;9000;4000"
+    },
+    "422": {
+        "image_id": "990",
+        "question_type": "peak_number",
+        "question": "你能数出这张图中有多少个峰吗?",
+        "answer": "1"
+    },
+    "423": {
+        "image_id": "716",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "1"
+    },
+    "424": {
+        "image_id": "1000",
+        "question_type": "peak_position",
+        "question": "请告诉我图中每个峰的具体位置?",
+        "answer": "300"
+    },
+    "425": {
+        "image_id": "740",
+        "question_type": "fwhm",
+        "question": "请问峰的半高宽度各是多少？",
+        "answer": "30"
+    },
+    "426": {
+        "image_id": "110",
+        "question_type": "fwhm",
+        "question": "能否给出各个峰半峰宽",
+        "answer": "None"
+    },
+    "427": {
+        "image_id": "562",
+        "question_type": "peak_value",
+        "question": "图中各个峰值分别是多少？",
+        "answer": "900;1200"
+    },
+    "428": {
+        "image_id": "561",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "850;1400"
+    },
+    "429": {
+        "image_id": "756",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽大小分别是多少？",
+        "answer": "20"
+    },
+    "430": {
+        "image_id": "975",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "8"
+    },
+    "431": {
+        "image_id": "824",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "1000"
+    },
+    "432": {
+        "image_id": "959",
+        "question_type": "peak_number",
+        "question": "这张图显示了几个峰?",
+        "answer": "1"
+    },
+    "433": {
+        "image_id": "98",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "否"
+    },
+    "434": {
+        "image_id": "456",
+        "question_type": "peak_value",
+        "question": "请根据所提供的图片，给出图中的峰值是多少？",
+        "answer": "2700"
+    },
+    "435": {
+        "image_id": "682",
+        "question_type": "peak_position",
+        "question": "每个峰的中心在哪里",
+        "answer": "None"
+    },
+    "436": {
+        "image_id": "200",
+        "question_type": "fwhm",
+        "question": "峰值半宽是多少？",
+        "answer": "10"
+    },
+    "437": {
+        "image_id": "150",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "1"
+    },
+    "438": {
+        "image_id": "434",
+        "question_type": "peak_position",
+        "question": "你能告诉我图中每个峰值的横坐标位置吗？",
+        "answer": "520"
+    },
+    "439": {
+        "image_id": "926",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "440": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "我想知道这是否是背景噪声。",
+        "answer": "否"
+    },
+    "441": {
+        "image_id": "156",
+        "question_type": "fwhm",
+        "question": "请问峰的半高宽度各是多少？",
+        "answer": "12"
+    },
+    "442": {
+        "image_id": "413",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "25"
+    },
+    "443": {
+        "image_id": "199",
+        "question_type": "peak_position",
+        "question": "请问峰值在横坐标上的对应位置有哪些？",
+        "answer": "370"
+    },
+    "444": {
+        "image_id": "397",
+        "question_type": "fwhm",
+        "question": "分析这张图，每个峰的半峰宽是多少?",
+        "answer": "30"
+    },
+    "445": {
+        "image_id": "239",
+        "question_type": "shape",
+        "question": "请问，这张图的波形是否在峰位波长处暗示了对称性？",
+        "answer": "否"
+    },
+    "446": {
+        "image_id": "910",
+        "question_type": "shape",
+        "question": "这些光谱图的峰值分布是否表明了峰重叠的存在？",
+        "answer": "否"
+    },
+    "447": {
+        "image_id": "136",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "448": {
+        "image_id": "909",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "30"
+    },
+    "449": {
+        "image_id": "642",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "None"
+    },
+    "450": {
+        "image_id": "217",
+        "question_type": "shape",
+        "question": "峰形在峰位波长处是否具有镜像对称性？",
+        "answer": "是"
+    },
+    "451": {
+        "image_id": "83",
+        "question_type": "peak_value",
+        "question": "请提供图中所有峰的峰值。",
+        "answer": "None"
+    },
+    "452": {
+        "image_id": "959",
+        "question_type": "fwhm",
+        "question": "每个峰的半峰宽度具体数值是多少?",
+        "answer": "9"
+    },
+    "453": {
+        "image_id": "135",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "600;1000;1700;2000;2400;2000;1500;1000;800"
+    },
+    "454": {
+        "image_id": "295",
+        "question_type": "shape",
+        "question": "请问，您能帮我找出这张图中波形的对称性吗？",
+        "answer": "否"
+    },
+    "455": {
+        "image_id": "584",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "2000"
+    },
+    "456": {
+        "image_id": "574",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "None"
+    },
+    "457": {
+        "image_id": "166",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "20000"
+    },
+    "458": {
+        "image_id": "981",
+        "question_type": "peak_position",
+        "question": "请告诉我图中每个峰的具体位置?",
+        "answer": "310"
+    },
+    "459": {
+        "image_id": "214",
+        "question_type": "fwhm",
+        "question": "峰的半高宽度是多少？",
+        "answer": "11"
+    },
+    "460": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "请问，您能帮我确认图中的光谱是否属于激光吗？",
+        "answer": "否"
+    },
+    "461": {
+        "image_id": "628",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "None"
+    },
+    "462": {
+        "image_id": "79",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "463": {
+        "image_id": "636",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "None"
+    },
+    "464": {
+        "image_id": "250",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "465": {
+        "image_id": "349",
+        "question_type": "peak_number",
+        "question": "这幅图形中包含多少个峰?",
+        "answer": "None"
+    },
+    "466": {
+        "image_id": "644",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "None"
+    },
+    "467": {
+        "image_id": "720",
+        "question_type": "peak_position",
+        "question": "每个峰的最高点对应的横坐标是多少？",
+        "answer": "530"
+    },
+    "468": {
+        "image_id": "92",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "None"
+    },
+    "469": {
+        "image_id": "194",
+        "question_type": "fwhm",
+        "question": "请问每个峰的半峰宽是多少",
+        "answer": "10"
+    },
+    "470": {
+        "image_id": "672",
+        "question_type": "shape",
+        "question": "这些峰在光谱图中是否有重叠的部分？",
+        "answer": "是"
+    },
+    "471": {
+        "image_id": "850",
+        "question_type": "shape",
+        "question": "为了我们的详细分析，我们需要知道是否有峰重叠。",
+        "answer": "否"
+    },
+    "472": {
+        "image_id": "804",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "380;385;390;400;405;415;420"
+    },
+    "473": {
+        "image_id": "427",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽分别有多宽?",
+        "answer": "26"
+    },
+    "474": {
+        "image_id": "1019",
+        "question_type": "peak_position",
+        "question": "请指出这些峰在图中各自的位置?",
+        "answer": "438"
+    },
+    "475": {
+        "image_id": "267",
+        "question_type": "peak_position",
+        "question": "从光谱学的角度来看，这张图的峰值横坐标是多少？",
+        "answer": "367.5;387.5;450"
+    },
+    "476": {
+        "image_id": "368",
+        "question_type": "peak_number",
+        "question": "这幅图形中包含多少个峰?",
+        "answer": "None"
+    },
+    "477": {
+        "image_id": "746",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "2"
+    },
+    "478": {
+        "image_id": "578",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "7"
+    },
+    "479": {
+        "image_id": "220",
+        "question_type": "shape",
+        "question": "峰形在峰位波长处是否具有镜像对称性？",
+        "answer": "是"
+    },
+    "480": {
+        "image_id": "790",
+        "question_type": "peak_number",
+        "question": "请问这张图像的峰值分布情况如何？",
+        "answer": "6"
+    },
+    "481": {
+        "image_id": "791",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "385;390;395;405;410;425"
+    },
+    "482": {
+        "image_id": "860",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "540"
+    },
+    "483": {
+        "image_id": "925",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "20"
+    },
+    "484": {
+        "image_id": "285",
+        "question_type": "shape",
+        "question": "请问，这是否是激光的光谱？",
+        "answer": "否"
+    },
+    "485": {
+        "image_id": "140",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "1"
+    },
+    "486": {
+        "image_id": "724",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值是多少",
+        "answer": "1000"
+    },
+    "487": {
+        "image_id": "22",
+        "question_type": "peak_value",
+        "question": "能否提供每个峰值的具体数值？",
+        "answer": "1400"
+    },
+    "488": {
+        "image_id": "612",
+        "question_type": "fwhm",
+        "question": "图像中的半峰宽是多少？",
+        "answer": "12"
+    },
+    "489": {
+        "image_id": "496",
+        "question_type": "shape",
+        "question": "能从图像中看出峰之间的重叠吗？",
+        "answer": "是"
+    },
+    "490": {
+        "image_id": "214",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "321"
+    },
+    "491": {
+        "image_id": "822",
+        "question_type": "fwhm",
+        "question": "半峰值宽是多少？",
+        "answer": "65"
+    },
+    "492": {
+        "image_id": "236",
+        "question_type": "peak_number",
+        "question": "这张图有几个峰值，您能帮我数一下吗？",
+        "answer": "1"
+    },
+    "493": {
+        "image_id": "646",
+        "question_type": "fwhm",
+        "question": "能否告诉我每个峰在X轴上的半峰宽度",
+        "answer": "10;20"
+    },
+    "494": {
+        "image_id": "123",
+        "question_type": "peak_value",
+        "question": "标出每个峰的峰值",
+        "answer": "19000;24000;18000;10000;7000"
+    },
+    "495": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "是"
+    },
+    "496": {
+        "image_id": "755",
+        "question_type": "peak_number",
+        "question": "图像中有多少个局部最大点？",
+        "answer": "1"
+    },
+    "497": {
+        "image_id": "524",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "18"
+    },
+    "498": {
+        "image_id": "664",
+        "question_type": "peak_value",
+        "question": "每个峰中的最高点是多少？",
+        "answer": "800;1100;1200"
+    },
+    "499": {
+        "image_id": "938",
+        "question_type": "peak_number",
+        "question": "这张图显示了几个峰?",
+        "answer": "1"
+    },
+    "500": {
+        "image_id": "185",
+        "question_type": "peak_position",
+        "question": "请问峰值在横坐标上的对应位置有哪些？",
+        "answer": "412"
+    },
+    "501": {
+        "image_id": "785",
+        "question_type": "peak_number",
+        "question": "图像的峰值区域有多少个？",
+        "answer": "6"
+    },
+    "502": {
+        "image_id": "884",
+        "question_type": "peak_value",
+        "question": "请您在研究这些光谱图时，计算一下峰值的数值。",
+        "answer": "60000"
+    },
+    "503": {
+        "image_id": "283",
+        "question_type": "shape",
+        "question": "如果我们假设这张图有峰值重叠，您能帮我验证一下吗？",
+        "answer": "否"
+    },
+    "504": {
+        "image_id": "533",
+        "question_type": "fwhm",
+        "question": "图像中每个峰的半峰宽是多少？",
+        "answer": "22"
+    },
+    "505": {
+        "image_id": "900",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "506": {
+        "image_id": "544",
+        "question_type": "shape",
+        "question": "观察图像，这张光谱图是背景噪声吗？",
+        "answer": "是"
+    },
+    "507": {
+        "image_id": "360",
+        "question_type": "fwhm",
+        "question": "请告诉我这张图中每个峰的半峰宽是多少?",
+        "answer": "100;100"
+    },
+    "508": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "您能否根据光谱图的专业解读帮我找出是否有峰值重叠？",
+        "answer": "否"
+    },
+    "509": {
+        "image_id": "58",
+        "question_type": "fwhm",
+        "question": "计算出每个峰半峰宽",
+        "answer": "30"
+    },
+    "510": {
+        "image_id": "304",
+        "question_type": "peak_value",
+        "question": "请问，图中每个峰的峰值能计算出来吗？",
+        "answer": "500;1400"
+    },
+    "511": {
+        "image_id": "443",
+        "question_type": "peak_number",
+        "question": "请数一数图中峰的数量。",
+        "answer": "1"
+    },
+    "512": {
+        "image_id": "503",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "7000;19000"
+    },
+    "513": {
+        "image_id": "1019",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "325"
+    },
+    "514": {
+        "image_id": "483",
+        "question_type": "fwhm",
+        "question": "图像中每个峰的半峰宽是多少？",
+        "answer": "None"
+    },
+    "515": {
+        "image_id": "56",
+        "question_type": "peak_value",
+        "question": "请告诉我各个峰的峰值是多少？",
+        "answer": "60000"
+    },
+    "516": {
+        "image_id": "755",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "6000"
+    },
+    "517": {
+        "image_id": "118",
+        "question_type": "peak_number",
+        "question": "你能计算一下这里有多少个峰吗？",
+        "answer": "5"
+    },
+    "518": {
+        "image_id": "84",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "519": {
+        "image_id": "945",
+        "question_type": "shape",
+        "question": "这张光谱图中的峰值是否表现为背景噪声？",
+        "answer": "是"
+    },
+    "520": {
+        "image_id": "57",
+        "question_type": "fwhm",
+        "question": "能否给出各个峰半峰宽",
+        "answer": "30"
+    },
+    "521": {
+        "image_id": "281",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "2"
+    },
+    "522": {
+        "image_id": "507",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "11000;4000"
+    },
+    "523": {
+        "image_id": "956",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "3700"
+    },
+    "524": {
+        "image_id": "590",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "None"
+    },
+    "525": {
+        "image_id": "38",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "否"
+    },
+    "526": {
+        "image_id": "990",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值具体数值能告诉我吗?",
+        "answer": "480"
+    },
+    "527": {
+        "image_id": "949",
+        "question_type": "shape",
+        "question": "峰的形状是否沿着波长对称？",
+        "answer": "是"
+    },
+    "528": {
+        "image_id": "301",
+        "question_type": "peak_value",
+        "question": "能否直接给出这张图所有峰的峰值？",
+        "answer": "675;1450"
+    },
+    "529": {
+        "image_id": "309",
+        "question_type": "shape",
+        "question": "您能否帮我观察这张图，并告知是否有峰值重叠？",
+        "answer": "否"
+    },
+    "530": {
+        "image_id": "860",
+        "question_type": "fwhm",
+        "question": "这个材料的半峰宽引起了我的兴趣，你能提供更多信息吗？",
+        "answer": "60"
+    },
+    "531": {
+        "image_id": "296",
+        "question_type": "shape",
+        "question": "这张图的峰值有没有相互重叠的部分？",
+        "answer": "否"
+    },
+    "532": {
+        "image_id": "302",
+        "question_type": "fwhm",
+        "question": "能否列出这张图所有峰的半峰宽？",
+        "answer": "10;20"
+    },
+    "533": {
+        "image_id": "424",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "16000"
+    },
+    "534": {
+        "image_id": "558",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "None"
+    },
+    "535": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "这张图的峰值重叠，您能帮我探究一下吗？",
+        "answer": "否"
+    },
+    "536": {
+        "image_id": "568",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "340"
+    },
+    "537": {
+        "image_id": "1018",
+        "question_type": "peak_value",
+        "question": "请分析，这些峰值分别是多少?",
+        "answer": "330"
+    },
+    "538": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "我想知道这是否是背景噪声。",
+        "answer": "否"
+    },
+    "539": {
+        "image_id": "449",
+        "question_type": "peak_value",
+        "question": "图中每个峰的数值是多少？",
+        "answer": "2900"
+    },
+    "540": {
+        "image_id": "634",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "None"
+    },
+    "541": {
+        "image_id": "215",
+        "question_type": "shape",
+        "question": "峰形在峰位波长处是否具有镜像对称性？",
+        "answer": "是"
+    },
+    "542": {
+        "image_id": "323",
+        "question_type": "shape",
+        "question": "请问，您能否帮我确认一下，这张图是否代表激光？",
+        "answer": "否"
+    },
+    "543": {
+        "image_id": "389",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "26"
+    },
+    "544": {
+        "image_id": "42",
+        "question_type": "fwhm",
+        "question": "请问每个峰的半峰宽是多少",
+        "answer": "25"
+    },
+    "545": {
+        "image_id": "363",
+        "question_type": "peak_number",
+        "question": "在这张图中，你能识别出多少个峰?",
+        "answer": "None"
+    },
+    "546": {
+        "image_id": "458",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "27"
+    },
+    "547": {
+        "image_id": "95",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "548": {
+        "image_id": "149",
+        "question_type": "peak_number",
+        "question": "图像的局部强度最高点有多少个？",
+        "answer": "1"
+    },
+    "549": {
+        "image_id": "917",
+        "question_type": "peak_value",
+        "question": "请帮我找出这些光谱图上每个峰值的数值。",
+        "answer": "16000"
+    },
+    "550": {
+        "image_id": "981",
+        "question_type": "peak_number",
+        "question": "请问这个图形展示了多少个顶峰?",
+        "answer": "1"
+    },
+    "551": {
+        "image_id": "144",
+        "question_type": "peak_value",
+        "question": "请问各峰的数值分别是多少？",
+        "answer": "19000"
+    },
+    "552": {
+        "image_id": "544",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "None"
+    },
+    "553": {
+        "image_id": "258",
+        "question_type": "peak_number",
+        "question": "您是否愿意帮我分析一下这张图的峰值数量？",
+        "answer": "1"
+    },
+    "554": {
+        "image_id": "270",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "385;450"
+    },
+    "555": {
+        "image_id": "315",
+        "question_type": "shape",
+        "question": "请问，图中波形的对称中心是否是峰位波长？",
+        "answer": "否"
+    },
+    "556": {
+        "image_id": "447",
+        "question_type": "shape",
+        "question": "峰形在图像中是否对称于峰位波长？",
+        "answer": "是"
+    },
+    "557": {
+        "image_id": "606",
+        "question_type": "peak_position",
+        "question": "这张图的每个峰所在的横坐标能指出来吗？",
+        "answer": "None"
+    },
+    "558": {
+        "image_id": "972",
+        "question_type": "fwhm",
+        "question": "每个峰的半峰宽度具体数值是多少?",
+        "answer": "10"
+    },
+    "559": {
+        "image_id": "273",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "2"
+    },
+    "560": {
+        "image_id": "831",
+        "question_type": "peak_position",
+        "question": "立即列出这个光谱图上所有峰值的横坐标。",
+        "answer": "530"
+    },
+    "561": {
+        "image_id": "490",
+        "question_type": "peak_value",
+        "question": "请提供图中每个峰的峰值。",
+        "answer": "None"
+    },
+    "562": {
+        "image_id": "313",
+        "question_type": "shape",
+        "question": "您能否根据光谱图的专业解读帮我找出波形的对称性？",
+        "answer": "否"
+    },
+    "563": {
+        "image_id": "779",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "564": {
+        "image_id": "163",
+        "question_type": "peak_position",
+        "question": "每个峰的横坐标值是多少？",
+        "answer": "305"
+    },
+    "565": {
+        "image_id": "1021",
+        "question_type": "peak_value",
+        "question": "请分析，这些峰值分别是多少?",
+        "answer": "38000"
+    },
+    "566": {
+        "image_id": "791",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "567": {
+        "image_id": "1018",
+        "question_type": "fwhm",
+        "question": "这些峰的半宽值各是什么?",
+        "answer": "18"
+    },
+    "568": {
+        "image_id": "482",
+        "question_type": "fwhm",
+        "question": "图像中的半峰宽是多少？",
+        "answer": "28"
+    },
+    "569": {
+        "image_id": "977",
+        "question_type": "peak_position",
+        "question": "每个峰的位置具体是什么?",
+        "answer": "310"
+    },
+    "570": {
+        "image_id": "53",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "34000"
+    },
+    "571": {
+        "image_id": "300",
+        "question_type": "shape",
+        "question": "请问，图中的噪声是否属于背景噪声？",
+        "answer": "否"
+    },
+    "572": {
+        "image_id": "564",
+        "question_type": "peak_position",
+        "question": "你能告诉我图中每个峰值的横坐标位置吗？",
+        "answer": "363"
+    },
+    "573": {
+        "image_id": "419",
+        "question_type": "peak_value",
+        "question": "这些峰各自达到了什么数值?",
+        "answer": "18000"
+    },
+    "574": {
+        "image_id": "331",
+        "question_type": "peak_position",
+        "question": "这幅图中的峰各自位于何处?",
+        "answer": "515"
+    },
+    "575": {
+        "image_id": "904",
+        "question_type": "peak_value",
+        "question": "检查这些光谱图中的峰值，并记录它们的数值。",
+        "answer": "40000"
+    },
+    "576": {
+        "image_id": "836",
+        "question_type": "peak_number",
+        "question": "在我们的研究项目中，准确测量峰的数量对于理解材料行为至关重要，请提供这一数据。",
+        "answer": "1"
+    },
+    "577": {
+        "image_id": "68",
+        "question_type": "peak_number",
+        "question": "请问这张图里有几个峰？",
+        "answer": "1"
+    },
+    "578": {
+        "image_id": "293",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "5;15"
+    },
+    "579": {
+        "image_id": "88",
+        "question_type": "fwhm",
+        "question": "图中的各个半峰宽分别是多少？",
+        "answer": "None"
+    },
+    "580": {
+        "image_id": "790",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "581": {
+        "image_id": "735",
+        "question_type": "peak_number",
+        "question": "图像的峰值区域有多少个？",
+        "answer": "1"
+    },
+    "582": {
+        "image_id": "633",
+        "question_type": "peak_value",
+        "question": "峰值各是多少",
+        "answer": "780"
+    },
+    "583": {
+        "image_id": "42",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "500"
+    },
+    "584": {
+        "image_id": "654",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "2"
+    },
+    "585": {
+        "image_id": "142",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称？",
+        "answer": "是"
+    },
+    "586": {
+        "image_id": "234",
+        "question_type": "peak_value",
+        "question": "请问，这张图的峰值高度是多少？",
+        "answer": "2100"
+    },
+    "587": {
+        "image_id": "249",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "588": {
+        "image_id": "204",
+        "question_type": "peak_number",
+        "question": "请问这张图像的峰值分布情况如何？",
+        "answer": "1"
+    },
+    "589": {
+        "image_id": "739",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "1"
+    },
+    "590": {
+        "image_id": "316",
+        "question_type": "shape",
+        "question": "请问，这张光谱图的峰值重叠在专业上如何识别？",
+        "answer": "是"
+    },
+    "591": {
+        "image_id": "769",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "592": {
+        "image_id": "719",
+        "question_type": "peak_position",
+        "question": "每个峰的中心位置是多少",
+        "answer": "530"
+    },
+    "593": {
+        "image_id": "538",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "445"
+    },
+    "594": {
+        "image_id": "446",
+        "question_type": "fwhm",
+        "question": "请提供图像中所有峰的半峰宽。",
+        "answer": "25"
+    },
+    "595": {
+        "image_id": "479",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "525"
+    },
+    "596": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "您是否发现了这张图波动中的背景噪声的有趣之处？",
+        "answer": "否"
+    },
+    "597": {
+        "image_id": "603",
+        "question_type": "peak_number",
+        "question": "请数一数图中峰的数量。",
+        "answer": "None"
+    },
+    "598": {
+        "image_id": "528",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "27000"
+    },
+    "599": {
+        "image_id": "784",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "600": {
+        "image_id": "893",
+        "question_type": "shape",
+        "question": "能否确认是否存在峰重叠？",
+        "answer": "否"
+    },
+    "601": {
+        "image_id": "910",
+        "question_type": "peak_value",
+        "question": "您是否拥有这些光谱图上所有峰值的数值列表？",
+        "answer": "28000"
+    },
+    "602": {
+        "image_id": "425",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "24"
+    },
+    "603": {
+        "image_id": "109",
+        "question_type": "peak_number",
+        "question": "在这个范围内，峰的数量是多少个？",
+        "answer": "5"
+    },
+    "604": {
+        "image_id": "947",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点值是多少?",
+        "answer": "6000"
+    },
+    "605": {
+        "image_id": "295",
+        "question_type": "shape",
+        "question": "请问，图中的现象是否为背景噪声？",
+        "answer": "否"
+    },
+    "606": {
+        "image_id": "120",
+        "question_type": "peak_position",
+        "question": "每个峰的最高点对应的横坐标是多少？",
+        "answer": "563;578;592;608"
+    },
+    "607": {
+        "image_id": "46",
+        "question_type": "peak_position",
+        "question": "每个峰的顶点横坐标是多少？",
+        "answer": "798"
+    },
+    "608": {
+        "image_id": "362",
+        "question_type": "peak_position",
+        "question": "请指出这些峰在图中各自的位置?",
+        "answer": "None"
+    },
+    "609": {
+        "image_id": "475",
+        "question_type": "shape",
+        "question": "峰值形态是否在峰位波长两侧对称？",
+        "answer": "是"
+    },
+    "610": {
+        "image_id": "1013",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点值是多少?",
+        "answer": "18000"
+    },
+    "611": {
+        "image_id": "723",
+        "question_type": "peak_number",
+        "question": "峰的数量是多少？",
+        "answer": "1"
+    },
+    "612": {
+        "image_id": "337",
+        "question_type": "peak_value",
+        "question": "这些峰的数值各是什么?",
+        "answer": "34400;42600;36600;23200;16000;9000;4000"
+    },
+    "613": {
+        "image_id": "694",
+        "question_type": "peak_number",
+        "question": "有几个峰",
+        "answer": "1"
+    },
+    "614": {
+        "image_id": "364",
+        "question_type": "peak_number",
+        "question": "仔细看这幅图，能告诉我峰值的数量吗?",
+        "answer": "None"
+    },
+    "615": {
+        "image_id": "922",
+        "question_type": "peak_position",
+        "question": "请您在分析这些光谱图时，考虑峰值的横坐标。",
+        "answer": "440"
+    },
+    "616": {
+        "image_id": "460",
+        "question_type": "peak_value",
+        "question": "请提供图中每个峰的峰值。",
+        "answer": "4800"
+    },
+    "617": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "请问，这张图的波动是否暗示了背景噪声的影响？",
+        "answer": "否"
+    },
+    "618": {
+        "image_id": "952",
+        "question_type": "peak_position",
+        "question": "每个峰在图中的具体位置是什么?",
+        "answer": "307"
+    },
+    "619": {
+        "image_id": "284",
+        "question_type": "shape",
+        "question": "这张图是否代表了激光？",
+        "answer": "否"
+    },
+    "620": {
+        "image_id": "214",
+        "question_type": "peak_value",
+        "question": "每个峰的数值最高点分别是多少？",
+        "answer": "10000"
+    },
+    "621": {
+        "image_id": "73",
+        "question_type": "peak_number",
+        "question": "你能计算一下这里有多少个峰吗？",
+        "answer": "4"
+    },
+    "622": {
+        "image_id": "212",
+        "question_type": "peak_number",
+        "question": "在这张图像中，可以识别出多少个信号的峰值？",
+        "answer": "1"
+    },
+    "623": {
+        "image_id": "488",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "None"
+    },
+    "624": {
+        "image_id": "274",
+        "question_type": "peak_number",
+        "question": "我很好奇，这张光谱图上有多少个峰值？",
+        "answer": "2"
+    },
+    "625": {
+        "image_id": "576",
+        "question_type": "shape",
+        "question": "图像中显示的光谱图是否属于背景噪声？",
+        "answer": "是"
+    },
+    "626": {
+        "image_id": "42",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "1600"
+    },
+    "627": {
+        "image_id": "605",
+        "question_type": "shape",
+        "question": "图像中这张光谱图是否显示的是背景噪声？",
+        "answer": "是"
+    },
+    "628": {
+        "image_id": "329",
+        "question_type": "shape",
+        "question": "您能否从光谱学的专业角度，确认这张图是否是激光？",
+        "answer": "否"
+    },
+    "629": {
+        "image_id": "212",
+        "question_type": "fwhm",
+        "question": "峰的半高宽度是多少？",
+        "answer": "10"
+    },
+    "630": {
+        "image_id": "545",
+        "question_type": "peak_value",
+        "question": "请提供图中所有峰的峰值。",
+        "answer": "None"
+    },
+    "631": {
+        "image_id": "124",
+        "question_type": "peak_position",
+        "question": "将每一个峰位的横坐标写出来",
+        "answer": "563;582;593;610"
+    },
+    "632": {
+        "image_id": "9",
+        "question_type": "fwhm",
+        "question": "标出各个峰的半峰宽",
+        "answer": "12"
+    },
+    "633": {
+        "image_id": "311",
+        "question_type": "peak_value",
+        "question": "您是否愿意帮我找出这张图中所有峰的峰值？",
+        "answer": "575;975"
+    },
+    "634": {
+        "image_id": "915",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "20"
+    },
+    "635": {
+        "image_id": "345",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值具体数值能告诉我吗?",
+        "answer": "None"
+    },
+    "636": {
+        "image_id": "278",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "637": {
+        "image_id": "391",
+        "question_type": "peak_number",
+        "question": "你能数出这张图中有多少个峰吗?",
+        "answer": "1"
+    },
+    "638": {
+        "image_id": "881",
+        "question_type": "fwhm",
+        "question": "图中的各个半峰宽分别是多少？",
+        "answer": "60"
+    },
+    "639": {
+        "image_id": "788",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "640": {
+        "image_id": "49",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "641": {
+        "image_id": "275",
+        "question_type": "shape",
+        "question": "观察并判断这个光源是否属于激光系列。",
+        "answer": "是"
+    },
+    "642": {
+        "image_id": "805",
+        "question_type": "shape",
+        "question": "是否发生数个峰值出现叠加情况？",
+        "answer": "是"
+    },
+    "643": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "是"
+    },
+    "644": {
+        "image_id": "404",
+        "question_type": "peak_number",
+        "question": "在这张图中，你能识别出多少个峰?",
+        "answer": "1"
+    },
+    "645": {
+        "image_id": "200",
+        "question_type": "peak_number",
+        "question": "请问这张图像有几个波峰区域？",
+        "answer": "1"
+    },
+    "646": {
+        "image_id": "85",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "647": {
+        "image_id": "24",
+        "question_type": "peak_position",
+        "question": "请您描述图中显示数据的范围是什么？",
+        "answer": "0m;1600"
+    },
+    "648": {
+        "image_id": "125",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "555;563;582;595;613"
+    },
+    "649": {
+        "image_id": "725",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "否"
+    },
+    "650": {
+        "image_id": "102",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "11500"
+    },
+    "651": {
+        "image_id": "294",
+        "question_type": "shape",
+        "question": "您能否帮我观察这张图，并告知波形是否对称？",
+        "answer": "否"
+    },
+    "652": {
+        "image_id": "777",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "28000;24000;21000;15000;9000;6000"
+    },
+    "653": {
+        "image_id": "236",
+        "question_type": "shape",
+        "question": "您是否发现这张图与激光有关？",
+        "answer": "否"
+    },
+    "654": {
+        "image_id": "698",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "1500"
+    },
+    "655": {
+        "image_id": "624",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "None"
+    },
+    "656": {
+        "image_id": "347",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "None"
+    },
+    "657": {
+        "image_id": "868",
+        "question_type": "fwhm",
+        "question": "你能帮我找出这个光谱图的半峰宽吗？这对我很重要。",
+        "answer": "60"
+    },
+    "658": {
+        "image_id": "365",
+        "question_type": "peak_position",
+        "question": "请告诉我图中每个峰的具体位置?",
+        "answer": "None"
+    },
+    "659": {
+        "image_id": "726",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "20"
+    },
+    "660": {
+        "image_id": "831",
+        "question_type": "fwhm",
+        "question": "能否告诉我这个材料的半峰宽数值？",
+        "answer": "50"
+    },
+    "661": {
+        "image_id": "234",
+        "question_type": "peak_number",
+        "question": "请问，这张光谱图的峰值数量是多少？",
+        "answer": "1"
+    },
+    "662": {
+        "image_id": "540",
+        "question_type": "peak_position",
+        "question": "每个峰在这幅图的横坐标上的位置是什么？",
+        "answer": "445"
+    },
+    "663": {
+        "image_id": "60",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "664": {
+        "image_id": "1005",
+        "question_type": "shape",
+        "question": "峰的形状是否沿着波长对称？",
+        "answer": "否"
+    },
+    "665": {
+        "image_id": "979",
+        "question_type": "peak_value",
+        "question": "请分析，这些峰值分别是多少?",
+        "answer": "5200"
+    },
+    "666": {
+        "image_id": "301",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "否"
+    },
+    "667": {
+        "image_id": "272",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "385;450"
+    },
+    "668": {
+        "image_id": "611",
+        "question_type": "shape",
+        "question": "图像中的光谱图是否是背景噪声？",
+        "answer": "是"
+    },
+    "669": {
+        "image_id": "240",
+        "question_type": "shape",
+        "question": "如果我们假定波形的对称性是围绕峰位波长，您能帮我验证这个假设吗？",
+        "answer": "否"
+    },
+    "670": {
+        "image_id": "337",
+        "question_type": "shape",
+        "question": "是否能够看出这些峰是否有部分重叠的情况？",
+        "answer": "是"
+    },
+    "671": {
+        "image_id": "720",
+        "question_type": "peak_number",
+        "question": "请问这些峰一共有多少个？",
+        "answer": "1"
+    },
+    "672": {
+        "image_id": "979",
+        "question_type": "peak_position",
+        "question": "分析这张图，每个峰的位置分布在哪里?",
+        "answer": "305"
+    },
+    "673": {
+        "image_id": "733",
+        "question_type": "peak_position",
+        "question": "每个峰的x坐标是多少？",
+        "answer": "374"
+    },
+    "674": {
+        "image_id": "915",
+        "question_type": "peak_value",
+        "question": "您能帮我查看这些光谱图上每个峰值的数值吗？",
+        "answer": "37000"
+    },
+    "675": {
+        "image_id": "158",
+        "question_type": "shape",
+        "question": "峰值的形态是否在峰位波长处呈现对称性？",
+        "answer": "是"
+    },
+    "676": {
+        "image_id": "266",
+        "question_type": "peak_number",
+        "question": "您能否从专业的角度帮我确定这张图的峰值数量？",
+        "answer": "2"
+    },
+    "677": {
+        "image_id": "295",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "387.5;450"
+    },
+    "678": {
+        "image_id": "675",
+        "question_type": "peak_position",
+        "question": "每个峰的中心位置是多少",
+        "answer": "385;450"
+    },
+    "679": {
+        "image_id": "434",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "30"
+    },
+    "680": {
+        "image_id": "677",
+        "question_type": "peak_position",
+        "question": "每个峰的中心位置是多少",
+        "answer": "365;385;455"
+    },
+    "681": {
+        "image_id": "882",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "682": {
+        "image_id": "300",
+        "question_type": "shape",
+        "question": "您能否帮我观察这张图，并告知波形是否对称？",
+        "answer": "是"
+    },
+    "683": {
+        "image_id": "383",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽分别有多宽?",
+        "answer": "29"
+    },
+    "684": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "我想知道这是否是背景噪声。",
+        "answer": "否"
+    },
+    "685": {
+        "image_id": "942",
+        "question_type": "peak_number",
+        "question": "根据图中的数据，总共有几个峰值?",
+        "answer": "None"
+    },
+    "686": {
+        "image_id": "685",
+        "question_type": "fwhm",
+        "question": "请依照图像提供每个峰的大概半峰宽。",
+        "answer": "None"
+    },
+    "687": {
+        "image_id": "247",
+        "question_type": "peak_value",
+        "question": "能否透露给我们峰值的具体数值？",
+        "answer": "1240"
+    },
+    "688": {
+        "image_id": "9",
+        "question_type": "peak_position",
+        "question": "峰的中心波长是多少",
+        "answer": "303"
+    },
+    "689": {
+        "image_id": "484",
+        "question_type": "peak_position",
+        "question": "你能告诉我图中每个峰值的横坐标位置吗？",
+        "answer": "None"
+    },
+    "690": {
+        "image_id": "536",
+        "question_type": "peak_value",
+        "question": "请根据所提供的图片，给出图中的峰值是多少？",
+        "answer": "39000"
+    },
+    "691": {
+        "image_id": "245",
+        "question_type": "peak_value",
+        "question": "观察并告知我们峰值达到多少。",
+        "answer": "405"
+    },
+    "692": {
+        "image_id": "538",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "15000"
+    },
+    "693": {
+        "image_id": "752",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽大小分别是多少？",
+        "answer": "20"
+    },
+    "694": {
+        "image_id": "971",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "8"
+    },
+    "695": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "审查这些结果，并指出是否为激光。",
+        "answer": "否"
+    },
+    "696": {
+        "image_id": "606",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "None"
+    },
+    "697": {
+        "image_id": "258",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "520"
+    },
+    "698": {
+        "image_id": "856",
+        "question_type": "peak_position",
+        "question": "请问这个材料的光谱图上峰值的横坐标有哪些？",
+        "answer": "540"
+    },
+    "699": {
+        "image_id": "430",
+        "question_type": "peak_number",
+        "question": "请问这个图形展示了多少个顶峰?",
+        "answer": "1"
+    },
+    "700": {
+        "image_id": "98",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "701": {
+        "image_id": "328",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "58000"
+    },
+    "702": {
+        "image_id": "712",
+        "question_type": "peak_number",
+        "question": "请问这张图里有几个峰？",
+        "answer": "1"
+    },
+    "703": {
+        "image_id": "163",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽大小分别是多少？",
+        "answer": "11"
+    },
+    "704": {
+        "image_id": "902",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "705": {
+        "image_id": "874",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "530"
+    },
+    "706": {
+        "image_id": "691",
+        "question_type": "peak_position",
+        "question": "请告诉我每个峰的峰位",
+        "answer": "495"
+    },
+    "707": {
+        "image_id": "106",
+        "question_type": "shape",
+        "question": "请问这些光谱峰之间是否存在相互重叠的情况？",
+        "answer": "是"
+    },
+    "708": {
+        "image_id": "6",
+        "question_type": "peak_number",
+        "question": "在这个范围内，峰的数量是多少个？",
+        "answer": "5"
+    },
+    "709": {
+        "image_id": "828",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "1500"
+    },
+    "710": {
+        "image_id": "995",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "800"
+    },
+    "711": {
+        "image_id": "867",
+        "question_type": "fwhm",
+        "question": "我需要你的帮助来确定这个材料的半峰宽。",
+        "answer": "60"
+    },
+    "712": {
+        "image_id": "118",
+        "question_type": "shape",
+        "question": "能否确定这些峰是否相互独立，没有重叠？",
+        "answer": "是"
+    },
+    "713": {
+        "image_id": "207",
+        "question_type": "fwhm",
+        "question": "峰值半宽是多少？",
+        "answer": "15"
+    },
+    "714": {
+        "image_id": "154",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "715": {
+        "image_id": "168",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽大小分别是多少？",
+        "answer": "10"
+    },
+    "716": {
+        "image_id": "791",
+        "question_type": "peak_number",
+        "question": "请问这张图像的峰值分布情况如何？",
+        "answer": "6"
+    },
+    "717": {
+        "image_id": "714",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "718": {
+        "image_id": "198",
+        "question_type": "fwhm",
+        "question": "峰值半宽是多少？",
+        "answer": "11"
+    },
+    "719": {
+        "image_id": "225",
+        "question_type": "peak_number",
+        "question": "请问这张图像的峰值分布情况如何？",
+        "answer": "1"
+    },
+    "720": {
+        "image_id": "458",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "6000"
+    },
+    "721": {
+        "image_id": "587",
+        "question_type": "peak_number",
+        "question": "请识别并告诉我图中有多少个显著的峰？",
+        "answer": "1"
+    },
+    "722": {
+        "image_id": "555",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "是"
+    },
+    "723": {
+        "image_id": "38",
+        "question_type": "peak_value",
+        "question": "请问最大值的数值是多少？",
+        "answer": "6000"
+    },
+    "724": {
+        "image_id": "298",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "10;20"
+    },
+    "725": {
+        "image_id": "916",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "726": {
+        "image_id": "865",
+        "question_type": "fwhm",
+        "question": "在材料科学中，半峰宽是一个基本参数，它的测量对于我们来说至关重要。",
+        "answer": "60"
+    },
+    "727": {
+        "image_id": "530",
+        "question_type": "peak_position",
+        "question": "每个峰在这幅图的横坐标上的位置是什么？",
+        "answer": "520"
+    },
+    "728": {
+        "image_id": "342",
+        "question_type": "peak_number",
+        "question": "仔细看这幅图，能告诉我峰值的数量吗?",
+        "answer": "None"
+    },
+    "729": {
+        "image_id": "416",
+        "question_type": "peak_position",
+        "question": "请指出这些峰在图中各自的位置?",
+        "answer": "515"
+    },
+    "730": {
+        "image_id": "667",
+        "question_type": "fwhm",
+        "question": "计算出每个峰半峰宽",
+        "answer": "10;20"
+    },
+    "731": {
+        "image_id": "345",
+        "question_type": "fwhm",
+        "question": "你能计算出这些峰的半峰宽吗?",
+        "answer": "None"
+    },
+    "732": {
+        "image_id": "299",
+        "question_type": "shape",
+        "question": "请问，图中的峰值重叠能帮我确认一下吗？",
+        "answer": "否"
+    },
+    "733": {
+        "image_id": "336",
+        "question_type": "shape",
+        "question": "这幅光谱图是否显示的是背景噪声？",
+        "answer": "是"
+    },
+    "734": {
+        "image_id": "261",
+        "question_type": "peak_number",
+        "question": "请问，您能否帮我找出这张图的峰值数量？",
+        "answer": "1"
+    },
+    "735": {
+        "image_id": "785",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "736": {
+        "image_id": "892",
+        "question_type": "shape",
+        "question": "这些光谱图显示峰重叠了吗？",
+        "answer": "否"
+    },
+    "737": {
+        "image_id": "537",
+        "question_type": "shape",
+        "question": "峰形在图像中是否对称于峰位波长？",
+        "answer": "是"
+    },
+    "738": {
+        "image_id": "657",
+        "question_type": "shape",
+        "question": "各个峰有重叠吗",
+        "answer": "是"
+    },
+    "739": {
+        "image_id": "248",
+        "question_type": "peak_position",
+        "question": "你告诉我峰的横坐标是多少。",
+        "answer": "355"
+    },
+    "740": {
+        "image_id": "314",
+        "question_type": "shape",
+        "question": "这张图的波形是否在峰位波长两侧对称分布？",
+        "answer": "否"
+    },
+    "741": {
+        "image_id": "124",
+        "question_type": "shape",
+        "question": "各个峰有重叠吗",
+        "answer": "是"
+    },
+    "742": {
+        "image_id": "979",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "8"
+    },
+    "743": {
+        "image_id": "48",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "744": {
+        "image_id": "726",
+        "question_type": "peak_value",
+        "question": "峰值具体是多少？",
+        "answer": "460"
+    },
+    "745": {
+        "image_id": "627",
+        "question_type": "peak_position",
+        "question": "每个峰的横轴位置具体是哪里？",
+        "answer": "None"
+    },
+    "746": {
+        "image_id": "904",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "747": {
+        "image_id": "543",
+        "question_type": "peak_number",
+        "question": "请数一数图中峰的数量。",
+        "answer": "None"
+    },
+    "748": {
+        "image_id": "661",
+        "question_type": "peak_number",
+        "question": "分析图片可以得出图中有几个峰",
+        "answer": "2"
+    },
+    "749": {
+        "image_id": "815",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "750": {
+        "image_id": "436",
+        "question_type": "peak_value",
+        "question": "请根据所提供的图片，给出图中的峰值是多少？",
+        "answer": "1400"
+    },
+    "751": {
+        "image_id": "933",
+        "question_type": "peak_number",
+        "question": "请问这个图形展示了多少个顶峰?",
+        "answer": "1"
+    },
+    "752": {
+        "image_id": "743",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "510"
+    },
+    "753": {
+        "image_id": "441",
+        "question_type": "fwhm",
+        "question": "观察图像，请告诉我每个峰的半峰宽是多少？",
+        "answer": "28"
+    },
+    "754": {
+        "image_id": "814",
+        "question_type": "peak_number",
+        "question": "请问图像中有几个最高点？",
+        "answer": "1"
+    },
+    "755": {
+        "image_id": "619",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "1"
+    },
+    "756": {
+        "image_id": "690",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "None"
+    },
+    "757": {
+        "image_id": "676",
+        "question_type": "peak_position",
+        "question": "每个峰的顶点横坐标是多少？",
+        "answer": "385;450"
+    },
+    "758": {
+        "image_id": "96",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "None"
+    },
+    "759": {
+        "image_id": "655",
+        "question_type": "fwhm",
+        "question": "各个峰半峰宽是多少",
+        "answer": "5;5;20"
+    },
+    "760": {
+        "image_id": "727",
+        "question_type": "peak_position",
+        "question": "每个峰的顶点横坐标是多少？",
+        "answer": "None"
+    },
+    "761": {
+        "image_id": "158",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "307"
+    },
+    "762": {
+        "image_id": "760",
+        "question_type": "shape",
+        "question": "峰值的形态是否在峰位波长处呈现对称性？",
+        "answer": "是"
+    },
+    "763": {
+        "image_id": "595",
+        "question_type": "fwhm",
+        "question": "图中的各个半峰宽分别是多少？",
+        "answer": "12"
+    },
+    "764": {
+        "image_id": "331",
+        "question_type": "peak_number",
+        "question": "请问这个图形展示了多少个顶峰?",
+        "answer": "1"
+    },
+    "765": {
+        "image_id": "209",
+        "question_type": "shape",
+        "question": "是否检测到若干峰值的合并现象？",
+        "answer": "是"
+    },
+    "766": {
+        "image_id": "139",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称？",
+        "answer": "是"
+    },
+    "767": {
+        "image_id": "293",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "390;450"
+    },
+    "768": {
+        "image_id": "751",
+        "question_type": "peak_number",
+        "question": "图像的峰值区域有多少个？",
+        "answer": "1"
+    },
+    "769": {
+        "image_id": "988",
+        "question_type": "shape",
+        "question": "峰的形状是否在峰位的波长上对称？",
+        "answer": "是"
+    },
+    "770": {
+        "image_id": "940",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽分别有多宽?",
+        "answer": "10"
+    },
+    "771": {
+        "image_id": "949",
+        "question_type": "peak_number",
+        "question": "仔细看这幅图，能告诉我峰值的数量吗?",
+        "answer": "1"
+    },
+    "772": {
+        "image_id": "396",
+        "question_type": "peak_value",
+        "question": "请问这张图中每个峰的峰值是多少?",
+        "answer": "27000"
+    },
+    "773": {
+        "image_id": "307",
+        "question_type": "shape",
+        "question": "请问，您能帮我分析并告知这张图是否有背景噪声？",
+        "answer": "否"
+    },
+    "774": {
+        "image_id": "377",
+        "question_type": "peak_position",
+        "question": "这幅图中的峰各自位于何处?",
+        "answer": "445"
+    },
+    "775": {
+        "image_id": "662",
+        "question_type": "peak_position",
+        "question": "请问每个峰在图表上的具体横坐标位置是多少",
+        "answer": "385;450"
+    },
+    "776": {
+        "image_id": "307",
+        "question_type": "shape",
+        "question": "您是否愿意帮我查看这张图中是否存在峰值重叠？",
+        "answer": "否"
+    },
+    "777": {
+        "image_id": "924",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "778": {
+        "image_id": "835",
+        "question_type": "fwhm",
+        "question": "这个材料的半峰宽值是多少，你知道吗？",
+        "answer": "50"
+    },
+    "779": {
+        "image_id": "882",
+        "question_type": "peak_position",
+        "question": "列出并报告这些光谱图中每个峰值的横坐标。",
+        "answer": "520"
+    },
+    "780": {
+        "image_id": "660",
+        "question_type": "peak_value",
+        "question": "标出每个峰的峰值",
+        "answer": "1600;3000"
+    },
+    "781": {
+        "image_id": "276",
+        "question_type": "shape",
+        "question": "观察并判断这个光源是否属于激光系列。",
+        "answer": "是"
+    },
+    "782": {
+        "image_id": "146",
+        "question_type": "peak_value",
+        "question": "请问各峰的数值分别是多少？",
+        "answer": "3000"
+    },
+    "783": {
+        "image_id": "156",
+        "question_type": "shape",
+        "question": "峰值的形态是否在峰位波长处呈现对称性？",
+        "answer": "是"
+    },
+    "784": {
+        "image_id": "358",
+        "question_type": "fwhm",
+        "question": "分析这张图，每个峰的半峰宽是多少?",
+        "answer": "60;80"
+    },
+    "785": {
+        "image_id": "839",
+        "question_type": "peak_number",
+        "question": "为了验证我们的光谱模型，峰的数量的准确数值是必需的，请协助我确定。",
+        "answer": "1"
+    },
+    "786": {
+        "image_id": "1003",
+        "question_type": "peak_position",
+        "question": "你能描述一下这幅图中每个峰的位置吗?",
+        "answer": "301"
+    },
+    "787": {
+        "image_id": "1024",
+        "question_type": "peak_position",
+        "question": "每个峰的位置具体是什么?",
+        "answer": "280"
+    },
+    "788": {
+        "image_id": "16",
+        "question_type": "shape",
+        "question": "波形是否具有对称性？",
+        "answer": "是"
+    },
+    "789": {
+        "image_id": "614",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "330"
+    },
+    "790": {
+        "image_id": "67",
+        "question_type": "fwhm",
+        "question": "计算出每个峰半峰宽",
+        "answer": "30"
+    },
+    "791": {
+        "image_id": "180",
+        "question_type": "fwhm",
+        "question": "每个峰的半峰宽度是多少？",
+        "answer": "12.5"
+    },
+    "792": {
+        "image_id": "659",
+        "question_type": "peak_number",
+        "question": "请问这张图里有几个峰？",
+        "answer": "2"
+    },
+    "793": {
+        "image_id": "812",
+        "question_type": "peak_value",
+        "question": "请问峰值的数值各是多少？",
+        "answer": "6000;7000;6500;5000;3000;2000"
+    },
+    "794": {
+        "image_id": "372",
+        "question_type": "peak_position",
+        "question": "请指出这张图中每个峰的位置在哪里?",
+        "answer": "448"
+    },
+    "795": {
+        "image_id": "406",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "796": {
+        "image_id": "372",
+        "question_type": "fwhm",
+        "question": "这些峰的半宽值各是什么?",
+        "answer": "18"
+    },
+    "797": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "检查并报告这是否是激光。",
+        "answer": "否"
+    },
+    "798": {
+        "image_id": "478",
+        "question_type": "peak_position",
+        "question": "能帮我确定图中各个峰的横坐标位置吗？",
+        "answer": "525"
+    },
+    "799": {
+        "image_id": "829",
+        "question_type": "shape",
+        "question": "在这张光谱图中，背景噪声是否占据主导地位？",
+        "answer": "是"
+    },
+    "800": {
+        "image_id": "54",
+        "question_type": "peak_position",
+        "question": "给出每个峰的最大值对应的横坐标",
+        "answer": "365"
+    },
+    "801": {
+        "image_id": "550",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "4;5"
+    },
+    "802": {
+        "image_id": "980",
+        "question_type": "fwhm",
+        "question": "每个峰的半峰宽度具体数值是多少?",
+        "answer": "10"
+    },
+    "803": {
+        "image_id": "400",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "21000"
+    },
+    "804": {
+        "image_id": "543",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "None"
+    },
+    "805": {
+        "image_id": "62",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "806": {
+        "image_id": "512",
+        "question_type": "fwhm",
+        "question": "图像中的半峰宽是多少？",
+        "answer": "25;28"
+    },
+    "807": {
+        "image_id": "183",
+        "question_type": "peak_value",
+        "question": "各峰的顶点数值分别是多少？",
+        "answer": "44000;4000"
+    },
+    "808": {
+        "image_id": "824",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的位置分布有哪些？",
+        "answer": "530"
+    },
+    "809": {
+        "image_id": "785",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "810": {
+        "image_id": "8",
+        "question_type": "peak_value",
+        "question": "数据最高点对应的数值是多少？",
+        "answer": "None"
+    },
+    "811": {
+        "image_id": "629",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "None"
+    },
+    "812": {
+        "image_id": "911",
+        "question_type": "peak_position",
+        "question": "立即提供这些光谱图的峰值横坐标数据。",
+        "answer": "580"
+    },
+    "813": {
+        "image_id": "799",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "814": {
+        "image_id": "550",
+        "question_type": "peak_value",
+        "question": "请提供图中每个峰的峰值。",
+        "answer": "500;450"
+    },
+    "815": {
+        "image_id": "783",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "816": {
+        "image_id": "101",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值是多少",
+        "answer": "630"
+    },
+    "817": {
+        "image_id": "975",
+        "question_type": "peak_position",
+        "question": "每个峰在图中的具体位置是什么?",
+        "answer": "305"
+    },
+    "818": {
+        "image_id": "103",
+        "question_type": "shape",
+        "question": "峰形是否沿峰位波长对称",
+        "answer": "是"
+    },
+    "819": {
+        "image_id": "122",
+        "question_type": "shape",
+        "question": "这些峰是否清晰可辨，没有重叠现象？",
+        "answer": "是"
+    },
+    "820": {
+        "image_id": "158",
+        "question_type": "fwhm",
+        "question": "请问峰的半高宽度各是多少？",
+        "answer": "10"
+    },
+    "821": {
+        "image_id": "447",
+        "question_type": "peak_value",
+        "question": "你能告诉我图中各个峰值是多少吗？",
+        "answer": "4000"
+    },
+    "822": {
+        "image_id": "678",
+        "question_type": "peak_number",
+        "question": "请问这些峰一共有多少个？",
+        "answer": "2"
+    },
+    "823": {
+        "image_id": "641",
+        "question_type": "fwhm",
+        "question": "请告诉我每个峰的半峰宽",
+        "answer": "350"
+    },
+    "824": {
+        "image_id": "619",
+        "question_type": "peak_position",
+        "question": "这些顶峰分别位于横坐标的哪些点？",
+        "answer": "600"
+    },
+    "825": {
+        "image_id": "505",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "2"
+    },
+    "826": {
+        "image_id": "158",
+        "question_type": "peak_value",
+        "question": "各峰的峰值具体数值是多少？",
+        "answer": "2500"
+    },
+    "827": {
+        "image_id": "674",
+        "question_type": "shape",
+        "question": "能否确定这些峰是否相互独立，没有重叠？",
+        "answer": "是"
+    },
+    "828": {
+        "image_id": "929",
+        "question_type": "peak_value",
+        "question": "您能帮我找出这些光谱图上所有峰值的数值吗？",
+        "answer": "14000"
+    },
+    "829": {
+        "image_id": "221",
+        "question_type": "peak_value",
+        "question": "各峰的数值最高点分别是多少？",
+        "answer": "2000"
+    },
+    "830": {
+        "image_id": "480",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "1"
+    },
+    "831": {
+        "image_id": "783",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的具体位置是哪些？",
+        "answer": "765;775;785;800;815"
+    },
+    "832": {
+        "image_id": "560",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "10;15"
+    },
+    "833": {
+        "image_id": "861",
+        "question_type": "fwhm",
+        "question": "我对这个光谱的半峰宽感到非常好奇，你能帮我测量一下吗？",
+        "answer": "60"
+    },
+    "834": {
+        "image_id": "617",
+        "question_type": "fwhm",
+        "question": "请分析图像并告知每个峰的半峰宽。",
+        "answer": "None"
+    },
+    "835": {
+        "image_id": "305",
+        "question_type": "shape",
+        "question": "您能否帮我确认一下，这张图的峰值是否有重叠现象？",
+        "answer": "否"
+    },
+    "836": {
+        "image_id": "855",
+        "question_type": "peak_number",
+        "question": "我想知道这个材料的光谱图展示了多少个峰？",
+        "answer": "1"
+    },
+    "837": {
+        "image_id": "411",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "23000"
+    },
+    "838": {
+        "image_id": "705",
+        "question_type": "peak_number",
+        "question": "分析图片可以得出图中有几个峰",
+        "answer": "1"
+    },
+    "839": {
+        "image_id": "117",
+        "question_type": "peak_position",
+        "question": "每个峰的峰位",
+        "answer": "563"
+    },
+    "840": {
+        "image_id": "361",
+        "question_type": "fwhm",
+        "question": "每个峰的宽度（半峰宽）是多少?",
+        "answer": "None"
+    },
+    "841": {
+        "image_id": "315",
+        "question_type": "fwhm",
+        "question": "根据光谱分析，能否提供这张图中每个峰的半峰宽数值？",
+        "answer": "5;20"
+    },
+    "842": {
+        "image_id": "968",
+        "question_type": "peak_number",
+        "question": "这张图显示了几个峰?",
+        "answer": "1"
+    },
+    "843": {
+        "image_id": "818",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "844": {
+        "image_id": "287",
+        "question_type": "shape",
+        "question": "请问，图中的光谱是激光吗？",
+        "answer": "否"
+    },
+    "845": {
+        "image_id": "300",
+        "question_type": "shape",
+        "question": "这张图是否显示出峰值的重叠？",
+        "answer": "否"
+    },
+    "846": {
+        "image_id": "191",
+        "question_type": "peak_value",
+        "question": "各峰的顶点数值分别是多少？",
+        "answer": "500;450;800"
+    },
+    "847": {
+        "image_id": "352",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些位置?",
+        "answer": "None"
+    },
+    "848": {
+        "image_id": "289",
+        "question_type": "peak_value",
+        "question": "您能否利用您的专业知识帮我分析这张图的峰值数值？",
+        "answer": "45000"
+    },
+    "849": {
+        "image_id": "193",
+        "question_type": "fwhm",
+        "question": "请问每个峰的半峰宽是多少",
+        "answer": "10"
+    },
+    "850": {
+        "image_id": "646",
+        "question_type": "shape",
+        "question": "各个峰有重叠吗",
+        "answer": "是"
+    },
+    "851": {
+        "image_id": "900",
+        "question_type": "fwhm",
+        "question": "请再次核实这个光谱的半峰宽数值，这对我们的研究至关重要。",
+        "answer": "20"
+    },
+    "852": {
+        "image_id": "31",
+        "question_type": "peak_position",
+        "question": "请告诉我每个峰的峰位",
+        "answer": "570"
+    },
+    "853": {
+        "image_id": "254",
+        "question_type": "peak_value",
+        "question": "打扰一下，这张图的峰值高度能帮我量一下吗？",
+        "answer": "48000"
+    },
+    "854": {
+        "image_id": "846",
+        "question_type": "peak_value",
+        "question": "你能帮我找出这个光谱图上所有峰值的数值吗？",
+        "answer": "2200;1500"
+    },
+    "855": {
+        "image_id": "746",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "500;850"
+    },
+    "856": {
+        "image_id": "923",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "857": {
+        "image_id": "361",
+        "question_type": "peak_number",
+        "question": "你能数出这张图中有多少个峰吗?",
+        "answer": "None"
+    },
+    "858": {
+        "image_id": "863",
+        "question_type": "shape",
+        "question": "我想了解这些光谱图是否展示了峰重叠。",
+        "answer": "否"
+    },
+    "859": {
+        "image_id": "749",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "446"
+    },
+    "860": {
+        "image_id": "589",
+        "question_type": "peak_number",
+        "question": "能帮我统计一下图中所有峰的个数吗？",
+        "answer": "1"
+    },
+    "861": {
+        "image_id": "73",
+        "question_type": "peak_position",
+        "question": "每个峰的顶点横坐标是多少？",
+        "answer": "365;390;490;521"
+    },
+    "862": {
+        "image_id": "767",
+        "question_type": "shape",
+        "question": "能否确定这张光谱图主要显示的是背景噪声？",
+        "answer": "是"
+    },
+    "863": {
+        "image_id": "768",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "20000;15000;12000;5000;2500;1500"
+    },
+    "864": {
+        "image_id": "923",
+        "question_type": "peak_value",
+        "question": "为了我们的材料特性分析，我们需要这些光谱图上峰值的数值。",
+        "answer": "32000"
+    },
+    "865": {
+        "image_id": "434",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "2250"
+    },
+    "866": {
+        "image_id": "367",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "None"
+    },
+    "867": {
+        "image_id": "215",
+        "question_type": "peak_position",
+        "question": "这些峰在x轴上的位置分布如何？",
+        "answer": "320"
+    },
+    "868": {
+        "image_id": "741",
+        "question_type": "shape",
+        "question": "峰值的形态是否在峰位波长处呈现对称性？",
+        "answer": "否"
+    },
+    "869": {
+        "image_id": "673",
+        "question_type": "peak_value",
+        "question": "每个峰中的最高点是多少？",
+        "answer": "2000;3300"
+    },
+    "870": {
+        "image_id": "708",
+        "question_type": "peak_position",
+        "question": "每个峰的峰位",
+        "answer": "510"
+    },
+    "871": {
+        "image_id": "930",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "872": {
+        "image_id": "402",
+        "question_type": "peak_position",
+        "question": "分析这张图，每个峰的位置分布在哪里?",
+        "answer": "519"
+    },
+    "873": {
+        "image_id": "567",
+        "question_type": "fwhm",
+        "question": "请分析图像并告知每个峰的半峰宽。",
+        "answer": "None"
+    },
+    "874": {
+        "image_id": "721",
+        "question_type": "peak_position",
+        "question": "每个峰的中心在哪里",
+        "answer": "500"
+    },
+    "875": {
+        "image_id": "585",
+        "question_type": "shape",
+        "question": "峰值形态是否在峰位波长两侧对称？",
+        "answer": "是"
+    },
+    "876": {
+        "image_id": "373",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "877": {
+        "image_id": "872",
+        "question_type": "shape",
+        "question": "我们的材料特性研究需要了解这些光谱图是否有峰重叠。",
+        "answer": "否"
+    },
+    "878": {
+        "image_id": "286",
+        "question_type": "peak_value",
+        "question": "您能否利用您的专业知识帮我分析这张图的峰值数值？",
+        "answer": "38000"
+    },
+    "879": {
+        "image_id": "1014",
+        "question_type": "peak_number",
+        "question": "根据图中的数据，总共有几个峰值?",
+        "answer": "1"
+    },
+    "880": {
+        "image_id": "280",
+        "question_type": "shape",
+        "question": "请问，图中显示的是激光吗？",
+        "answer": "否"
+    },
+    "881": {
+        "image_id": "558",
+        "question_type": "fwhm",
+        "question": "请根据图像，给出图中半峰宽的数值。",
+        "answer": "None"
+    },
+    "882": {
+        "image_id": "314",
+        "question_type": "shape",
+        "question": "从专业的角度来看，这张图的波动是否属于背景噪声？",
+        "answer": "否"
+    },
+    "883": {
+        "image_id": "835",
+        "question_type": "peak_value",
+        "question": "检查这个光谱图上的峰值，并报告它们各自的数值。",
+        "answer": "7000"
+    },
+    "884": {
+        "image_id": "521",
+        "question_type": "shape",
+        "question": "图像中的峰形是否关于峰位波长对称？",
+        "answer": "是"
+    },
+    "885": {
+        "image_id": "391",
+        "question_type": "fwhm",
+        "question": "这些峰的半宽值各是什么?",
+        "answer": "27"
+    },
+    "886": {
+        "image_id": "934",
+        "question_type": "fwhm",
+        "question": "请告诉我这张图中每个峰的半峰宽是多少?",
+        "answer": "10"
+    },
+    "887": {
+        "image_id": "173",
+        "question_type": "shape",
+        "question": "是否发生数个峰值出现叠加情况？",
+        "answer": "是"
+    },
+    "888": {
+        "image_id": "101",
+        "question_type": "peak_position",
+        "question": "将每一个峰位的横坐标写出来",
+        "answer": "790"
+    },
+    "889": {
+        "image_id": "424",
+        "question_type": "peak_number",
+        "question": "这幅图形中包含多少个峰?",
+        "answer": "1"
+    },
+    "890": {
+        "image_id": "765",
+        "question_type": "peak_number",
+        "question": "图像的局部强度最高点有多少个？",
+        "answer": "2"
+    },
+    "891": {
+        "image_id": "157",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的具体位置是哪些？",
+        "answer": "307"
+    },
+    "892": {
+        "image_id": "945",
+        "question_type": "fwhm",
+        "question": "这些峰的半峰宽各自是多少?",
+        "answer": "None"
+    },
+    "893": {
+        "image_id": "413",
+        "question_type": "shape",
+        "question": "峰的形状是否对称于峰位的波长?",
+        "answer": "是"
+    },
+    "894": {
+        "image_id": "238",
+        "question_type": "shape",
+        "question": "图像显示峰之间有重叠现象吗？",
+        "answer": "否"
+    },
+    "895": {
+        "image_id": "970",
+        "question_type": "peak_position",
+        "question": "你能描述一下这幅图中每个峰的位置吗?",
+        "answer": "440"
+    },
+    "896": {
+        "image_id": "131",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "8"
+    },
+    "897": {
+        "image_id": "594",
+        "question_type": "fwhm",
+        "question": "告诉我图中每个峰的半峰宽。",
+        "answer": "None"
+    },
+    "898": {
+        "image_id": "126",
+        "question_type": "fwhm",
+        "question": "半峰宽的宽度具体数值是多少？",
+        "answer": "None"
+    },
+    "899": {
+        "image_id": "555",
+        "question_type": "peak_value",
+        "question": "请提供图中所有峰的峰值。",
+        "answer": "600;1350"
+    },
+    "900": {
+        "image_id": "789",
+        "question_type": "peak_position",
+        "question": "峰值在横轴上的分布点有哪些？",
+        "answer": "385;390;395;405;410;425"
+    },
+    "901": {
+        "image_id": "36",
+        "question_type": "fwhm",
+        "question": "能否告诉我每个峰在X轴上的半峰宽度",
+        "answer": "None"
+    },
+    "902": {
+        "image_id": "916",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "20"
+    },
+    "903": {
+        "image_id": "677",
+        "question_type": "peak_value",
+        "question": "请告诉我各个峰的峰值是多少？",
+        "answer": "1200;700;700"
+    },
+    "904": {
+        "image_id": "844",
+        "question_type": "shape",
+        "question": "确保我们的分析精确无误，我们需要确切的峰重叠信息。",
+        "answer": "否"
+    },
+    "905": {
+        "image_id": "830",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "否"
+    },
+    "906": {
+        "image_id": "1022",
+        "question_type": "peak_value",
+        "question": "每个峰的最高点数值是什么?",
+        "answer": "14000"
+    },
+    "907": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "请问，这张图的光谱特征是否符合激光的定义？",
+        "answer": "否"
+    },
+    "908": {
+        "image_id": "915",
+        "question_type": "peak_number",
+        "question": "这幅图像有多少个波峰？",
+        "answer": "1"
+    },
+    "909": {
+        "image_id": "750",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "700;1000"
+    },
+    "910": {
+        "image_id": "625",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "1"
+    },
+    "911": {
+        "image_id": "603",
+        "question_type": "fwhm",
+        "question": "图像中每个峰的半峰宽是多少？",
+        "answer": "None"
+    },
+    "912": {
+        "image_id": "409",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "19000"
+    },
+    "913": {
+        "image_id": "815",
+        "question_type": "peak_value",
+        "question": "峰值各是多少？",
+        "answer": "13000;25000;24000;20000;15000;8000;5000;2000"
+    },
+    "914": {
+        "image_id": "471",
+        "question_type": "shape",
+        "question": "图像中的峰形是否关于峰位波长对称？",
+        "answer": "否"
+    },
+    "915": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "请问，图中的峰值是否有重叠的迹象？",
+        "answer": "否"
+    },
+    "916": {
+        "image_id": "752",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值分别是多少？",
+        "answer": "1000"
+    },
+    "917": {
+        "image_id": "916",
+        "question_type": "shape",
+        "question": "请您在检查后，告知我是否有峰重叠。",
+        "answer": "否"
+    },
+    "918": {
+        "image_id": "522",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于哪些横坐标上？",
+        "answer": "445"
+    },
+    "919": {
+        "image_id": "851",
+        "question_type": "shape",
+        "question": "这些光谱图的峰值是否显示出任何重叠的迹象？",
+        "answer": "否"
+    },
+    "920": {
+        "image_id": "979",
+        "question_type": "peak_number",
+        "question": "这幅图形中包含多少个峰?",
+        "answer": "1"
+    },
+    "921": {
+        "image_id": "198",
+        "question_type": "peak_position",
+        "question": "每个峰的横坐标值是多少？",
+        "answer": "362"
+    },
+    "922": {
+        "image_id": "172",
+        "question_type": "peak_number",
+        "question": "请问图像有几个峰？",
+        "answer": "1"
+    },
+    "923": {
+        "image_id": "275",
+        "question_type": "fwhm",
+        "question": "您能否根据光谱特性帮我计算这张图的半峰宽？",
+        "answer": "10;20"
+    },
+    "924": {
+        "image_id": "219",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "1"
+    },
+    "925": {
+        "image_id": "614",
+        "question_type": "shape",
+        "question": "请问图像中的峰形是否以峰位波长为对称中心？",
+        "answer": "是"
+    },
+    "926": {
+        "image_id": "873",
+        "question_type": "peak_value",
+        "question": "我们希望您能提供这个材料的光谱图上峰值的数值，以便我们进行进一步的分析。",
+        "answer": "14000"
+    },
+    "927": {
+        "image_id": "66",
+        "question_type": "peak_position",
+        "question": "每个峰的最高点对应的横坐标是多少？",
+        "answer": "518"
+    },
+    "928": {
+        "image_id": "411",
+        "question_type": "peak_position",
+        "question": "每个峰的位置具体是什么?",
+        "answer": "515"
+    },
+    "929": {
+        "image_id": "766",
+        "question_type": "peak_value",
+        "question": "请问峰值的数值各是多少？",
+        "answer": "30000;28000"
+    },
+    "930": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "评估这些观察结果，确认是否为激光。",
+        "answer": "否"
+    },
+    "931": {
+        "image_id": "675",
+        "question_type": "shape",
+        "question": "这些峰在光谱分析时是否因为过近而造成了重叠现象",
+        "answer": "是"
+    },
+    "932": {
+        "image_id": "939",
+        "question_type": "fwhm",
+        "question": "半峰宽度在这些峰中各是什么?",
+        "answer": "10"
+    },
+    "933": {
+        "image_id": "1000",
+        "question_type": "fwhm",
+        "question": "分析这张图，每个峰的半峰宽是多少?",
+        "answer": "8"
+    },
+    "934": {
+        "image_id": "874",
+        "question_type": "fwhm",
+        "question": "为了校准我们的测量设备，我们需要知道这个材料的半峰宽。",
+        "answer": "60"
+    },
+    "935": {
+        "image_id": "1028",
+        "question_type": "fwhm",
+        "question": "分析这张图，每个峰的半峰宽是多少?",
+        "answer": "9"
+    },
+    "936": {
+        "image_id": "395",
+        "question_type": "peak_number",
+        "question": "分析一下，这幅图表中有几个明显的峰值?",
+        "answer": "1"
+    },
+    "937": {
+        "image_id": "51",
+        "question_type": "fwhm",
+        "question": "能否给出每个峰的半峰宽",
+        "answer": "1"
+    },
+    "938": {
+        "image_id": "337",
+        "question_type": "peak_position",
+        "question": "每个峰在图中的具体位置是什么?",
+        "answer": "380;386;392;400;405;415;425"
+    },
+    "939": {
+        "image_id": "106",
+        "question_type": "peak_value",
+        "question": "每个峰的最大值是多少",
+        "answer": "22000;22500;12500;7000;3000"
+    },
+    "940": {
+        "image_id": "823",
+        "question_type": "fwhm",
+        "question": "峰的半高宽度是多少？",
+        "answer": "70"
+    },
+    "941": {
+        "image_id": "123",
+        "question_type": "peak_position",
+        "question": "峰值的中心波长是多少",
+        "answer": "555;563;582;595;610"
+    },
+    "942": {
+        "image_id": "773",
+        "question_type": "peak_number",
+        "question": "请问图像中有几个最高点？",
+        "answer": "7"
+    },
+    "943": {
+        "image_id": "294",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "10;20"
+    },
+    "944": {
+        "image_id": "685",
+        "question_type": "shape",
+        "question": "观察图像，这张光谱图是背景噪声吗？",
+        "answer": "是"
+    },
+    "945": {
+        "image_id": "541",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "443"
+    },
+    "946": {
+        "image_id": "652",
+        "question_type": "peak_number",
+        "question": "分析图片可以得出图中有几个峰",
+        "answer": "3"
+    },
+    "947": {
+        "image_id": "590",
+        "question_type": "shape",
+        "question": "从图像来看，是否是左侧半峰？",
+        "answer": "是"
+    },
+    "948": {
+        "image_id": "511",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "390;520"
+    },
+    "949": {
+        "image_id": "41",
+        "question_type": "peak_value",
+        "question": "每个峰的峰值是多少",
+        "answer": "3500;8500;4500;9000"
+    },
+    "950": {
+        "image_id": "789",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "951": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "根据提供的图像，是否可以观察到峰之间的重叠现象？",
+        "answer": "是"
+    },
+    "952": {
+        "image_id": "420",
+        "question_type": "fwhm",
+        "question": "你能计算出这些峰的半峰宽吗?",
+        "answer": "27"
+    },
+    "953": {
+        "image_id": "396",
+        "question_type": "peak_number",
+        "question": "你能数出这张图中有多少个峰吗?",
+        "answer": "1"
+    },
+    "954": {
+        "image_id": "568",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "700"
+    },
+    "955": {
+        "image_id": "223",
+        "question_type": "peak_position",
+        "question": "峰值在x轴上的具体位置是哪些？",
+        "answer": "319"
+    },
+    "956": {
+        "image_id": "603",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "None"
+    },
+    "957": {
+        "image_id": "25",
+        "question_type": "peak_position",
+        "question": "能否提供每个峰值在横坐标上的具体位置？",
+        "answer": "1600"
+    },
+    "958": {
+        "image_id": "635",
+        "question_type": "peak_position",
+        "question": "请告诉我每个峰的峰位",
+        "answer": "362"
+    },
+    "959": {
+        "image_id": "119",
+        "question_type": "peak_position",
+        "question": "每个峰的中心位置是多少",
+        "answer": "555;563;582;595;610"
+    },
+    "960": {
+        "image_id": "991",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点值是多少?",
+        "answer": "7500"
+    },
+    "961": {
+        "image_id": "160",
+        "question_type": "peak_value",
+        "question": "各峰的峰值具体数值是多少？",
+        "answer": "12000"
+    },
+    "962": {
+        "image_id": "276",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "3"
+    },
+    "963": {
+        "image_id": "809",
+        "question_type": "fwhm",
+        "question": "各峰的半峰宽大小分别是多少？",
+        "answer": "None"
+    },
+    "964": {
+        "image_id": "422",
+        "question_type": "peak_position",
+        "question": "每个峰在图中的具体位置是什么?",
+        "answer": "517"
+    },
+    "965": {
+        "image_id": "623",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "350"
+    },
+    "966": {
+        "image_id": "779",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "967": {
+        "image_id": "264",
+        "question_type": "peak_number",
+        "question": "从光谱分析的角度来看，这张图的峰值数量是多少？",
+        "answer": "2"
+    },
+    "968": {
+        "image_id": "58",
+        "question_type": "peak_number",
+        "question": "你能数出这里有几个峰吗？",
+        "answer": "1"
+    },
+    "969": {
+        "image_id": "501",
+        "question_type": "peak_value",
+        "question": "图中的每个峰值是多少？",
+        "answer": "7500;20000"
+    },
+    "970": {
+        "image_id": "564",
+        "question_type": "peak_value",
+        "question": "观察这张图，你能告诉我每个峰的峰值吗？",
+        "answer": "2400"
+    },
+    "971": {
+        "image_id": "414",
+        "question_type": "peak_number",
+        "question": "仔细看这幅图，能告诉我峰值的数量吗?",
+        "answer": "1"
+    },
+    "972": {
+        "image_id": "185",
+        "question_type": "fwhm",
+        "question": "请问每个峰的半峰宽是多少",
+        "answer": "10"
+    },
+    "973": {
+        "image_id": "794",
+        "question_type": "shape",
+        "question": "是否可以观察到这几个峰的重叠现象？",
+        "answer": "是"
+    },
+    "974": {
+        "image_id": "731",
+        "question_type": "peak_number",
+        "question": "图像有几个峰？",
+        "answer": "2"
+    },
+    "975": {
+        "image_id": "514",
+        "question_type": "shape",
+        "question": "根据图像，能确认峰之间是否有重叠？",
+        "answer": "否"
+    },
+    "976": {
+        "image_id": "222",
+        "question_type": "shape",
+        "question": "峰位波长处的峰形是否呈现出平衡对称？",
+        "answer": "是"
+    },
+    "977": {
+        "image_id": "573",
+        "question_type": "peak_value",
+        "question": "请帮我分析这个图，每个峰的峰值是多少？",
+        "answer": "None"
+    },
+    "978": {
+        "image_id": "879",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "60"
+    },
+    "979": {
+        "image_id": "540",
+        "question_type": "fwhm",
+        "question": "观察图像，告诉我半峰宽的大致的数值。",
+        "answer": "24"
+    },
+    "980": {
+        "image_id": "91",
+        "question_type": "peak_position",
+        "question": "这些峰各自的横坐标分别是什么？",
+        "answer": "None"
+    },
+    "981": {
+        "image_id": "393",
+        "question_type": "peak_value",
+        "question": "你能告诉我这些峰各自的峰值吗?",
+        "answer": "19200"
+    },
+    "982": {
+        "image_id": "298",
+        "question_type": "shape",
+        "question": "这张图的波形是否在峰位波长两侧对称分布？",
+        "answer": "否"
+    },
+    "983": {
+        "image_id": "130",
+        "question_type": "peak_position",
+        "question": "每个峰的最高点对应的横坐标是多少？",
+        "answer": "580;595;612;630;648"
+    },
+    "984": {
+        "image_id": "252",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "985": {
+        "image_id": "455",
+        "question_type": "peak_number",
+        "question": "请问这张图中包含了多少个峰？",
+        "answer": "1"
+    },
+    "986": {
+        "image_id": "288",
+        "question_type": "peak_position",
+        "question": "请列出图中每个峰的横坐标是多少？",
+        "answer": "515"
+    },
+    "987": {
+        "image_id": "46",
+        "question_type": "peak_number",
+        "question": "你能计算一下这里有多少个峰吗？",
+        "answer": "1"
+    },
+    "988": {
+        "image_id": "419",
+        "question_type": "peak_number",
+        "question": "分析一下，这幅图表中有几个明显的峰值?",
+        "answer": "1"
+    },
+    "989": {
+        "image_id": "824",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "50"
+    },
+    "990": {
+        "image_id": "303",
+        "question_type": "peak_value",
+        "question": "能否帮我列出这张图中所有峰的峰值？",
+        "answer": "10000;48000"
+    },
+    "991": {
+        "image_id": "277",
+        "question_type": "fwhm",
+        "question": "您能否根据光谱图的专业解读帮我找出半峰宽的数值？",
+        "answer": "5;15"
+    },
+    "992": {
+        "image_id": "813",
+        "question_type": "peak_position",
+        "question": "每个峰的横坐标值是多少？",
+        "answer": "375;380;385;390;400;450"
+    },
+    "993": {
+        "image_id": "176",
+        "question_type": "peak_number",
+        "question": "请问这张图像有几个波峰区域？",
+        "answer": "2"
+    },
+    "994": {
+        "image_id": "246",
+        "question_type": "fwhm",
+        "question": "半峰宽是多少？",
+        "answer": "None"
+    },
+    "995": {
+        "image_id": "964",
+        "question_type": "peak_number",
+        "question": "这幅图形中包含多少个峰?",
+        "answer": "2"
+    },
+    "996": {
+        "image_id": "351",
+        "question_type": "peak_value",
+        "question": "这幅图中，各个峰的数值是多少?",
+        "answer": "None"
+    },
+    "997": {
+        "image_id": "468",
+        "question_type": "peak_value",
+        "question": "请依照图片给出，每个峰的大概峰值是多少？",
+        "answer": "14000"
+    },
+    "998": {
+        "image_id": "14",
+        "question_type": "peak_position",
+        "question": "这些峰分别位于x轴的哪个点？",
+        "answer": "518"
+    },
+    "999": {
+        "image_id": "637",
+        "question_type": "peak_number",
+        "question": "这里总共包含多少个峰？",
+        "answer": "None"
+    },
+    "1000": {
+        "image_id": "343",
+        "question_type": "peak_value",
+        "question": "每个峰的顶点值是多少?",
+        "answer": "None"
+    },
+    "1001": {
+        "image_id": "39",
+        "question_type": "shape",
+        "question": "这些峰是否清晰可辨，没有重叠现象？",
+        "answer": "是"
+    },
+    "1002": {
+        "image_id": "804",
+        "question_type": "peak_number",
+        "question": "在这张图像中，可以识别出多少个信号的峰值？",
+        "answer": "7"
+    }
+}

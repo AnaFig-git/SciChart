@@ -1,0 +1,1377 @@
+{
+    "1": {
+        "image_id": "1-261",
+        "question": "Explore the subtle differences between these four spectral graphs, can you f1- out which one has a significant inconsistency with the other three in terms of peak overlap?",
+        "answer": "A"
+    },
+    "2": {
+        "image_id": "3-11",
+        "question": "One of spectrograms below has incomplete peak shape that prevents sufficient information from being obtained, please identify: ()",
+        "answer": "A"
+    },
+    "3": {
+        "image_id": "1-148",
+        "question": "Please select one of the following four spectrum images that has a significantly different number of peaks from the other three.",
+        "answer": "C"
+    },
+    "4": {
+        "image_id": "1-68",
+        "question": "Both spectra have two peaks",
+        "answer": "no"
+    },
+    "5": {
+        "image_id": "1-264",
+        "question": "Which of the graphs has a noticeable difference from the other three in peak overlap?",
+        "answer": "D"
+    },
+    "6": {
+        "image_id": "1-70",
+        "question": "All spectra are background noise",
+        "answer": "yes"
+    },
+    "7": {
+        "image_id": "1-211",
+        "question": "Which of the graphs has a number of peaks that contrasts in these characteristics with the other three?",
+        "answer": "C"
+    },
+    "8": {
+        "image_id": "1-221",
+        "question": "Among these spectral graphs, which one distinctly differs from the other three in terms of peak value? Please point it out.",
+        "answer": "A"
+    },
+    "9": {
+        "image_id": "3-58",
+        "question": "In order to achieve better results in daily lighting, I need a specific material.The better effect in daily lighting is due to the wide wavelength range of the emission peak.The wide wavelength range of the emission peak is due to the large half width of the emission peak.Which material can better meet my requirements for materials? \"",
+        "answer": "B"
+    },
+    "10": {
+        "image_id": "2-186",
+        "question": "Selecting a material with minimal peak overlap is a key condition for ensuring the teaching material is easy to understand. Analyze these graphs immediately and clearly report which one's material properties are most worth learning.",
+        "answer": "D"
+    },
+    "11": {
+        "image_id": "2-118",
+        "question": "According to professional standards, choosing the material with the fewest peaks is a key step in achieving high efficiency. Analyze the spectral graphs with a rigorous attitude and identify the superior-performing material accurately and without error.",
+        "answer": "D"
+    },
+    "12": {
+        "image_id": "1-81",
+        "question": "Which of the two images has more peaks?",
+        "answer": "A"
+    },
+    "13": {
+        "image_id": "1-10",
+        "question": "The full width at half maximum of the two spectra is the same",
+        "answer": "no"
+    },
+    "14": {
+        "image_id": "1-184",
+        "question": "Which of the four spectral graphs has a full width at half maxima that is distinct from the others?",
+        "answer": "D"
+    },
+    "15": {
+        "image_id": "2-74",
+        "question": "My goal is to f1- a material with the highest luminous intensity. After reviewing these two spectra, please help me determine which one shows the material with more advantages.",
+        "answer": "B"
+    },
+    "16": {
+        "image_id": "3-13",
+        "question": "I need to submit spectrograms with complete peak shapes, please identify the following images that do not fulfill the requirement:()",
+        "answer": "A"
+    },
+    "17": {
+        "image_id": "1-277",
+        "question": "Can you identify the graph that has a difference from the other three in peak overlap?",
+        "answer": "A"
+    },
+    "18": {
+        "image_id": "1-128",
+        "question": "Please f1- one of the following four spectrum images that has a different peak symmetry from the other three.",
+        "answer": "A"
+    },
+    "19": {
+        "image_id": "2-51",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these two spectrograms, please determine which one displays the better material.",
+        "answer": "A"
+    },
+    "20": {
+        "image_id": "1-107",
+        "question": "In these two images, which one has a central wavelength closest to 300nm?",
+        "answer": "B"
+    },
+    "21": {
+        "image_id": "2-167",
+        "question": "To ensure the high performance of the material, selecting a material with the smallest peak horizontal coordinate is a basic condition.Compare these spectral graphs, based on your professional insight, and clearly choose which one has the most significant material properties.",
+        "answer": "A"
+    },
+    "22": {
+        "image_id": "1-213",
+        "question": "Can you identify the graph whose number of peaks differs in these characteristics from the other three?",
+        "answer": "A"
+    },
+    "23": {
+        "image_id": "2-184",
+        "question": "Selecting a material that minimizes peak overlap is a prerequisite for a clear teaching demonstration.Compare these graphs and ensure you can quickly identify which one's material properties are most worth learning.",
+        "answer": "B"
+    },
+    "24": {
+        "image_id": "2-72",
+        "question": "To ensure the luminescence performance of the material, I need it to have as strong luminescence as possible. After comparing these two spectra, please tell me which one of the materials better meets my needs.",
+        "answer": "B"
+    },
+    "25": {
+        "image_id": "2-13",
+        "question": "I need a material with the smallest half width. Please help me analyze the following four spectra to determine which one represents the superior material performance.",
+        "answer": "A"
+    },
+    "26": {
+        "image_id": "2-91",
+        "question": "I now need a material that requires the peak shape to be symmetrical at the peak wavelength. After carefully studying these two spectrograms, please tell me which one depicts the better material properties.",
+        "answer": "A"
+    },
+    "27": {
+        "image_id": "3-12",
+        "question": "I need to provide spectrograms with complete peak shapes, any of the following images do not meet the requirements, please f1- out:()",
+        "answer": "C"
+    },
+    "28": {
+        "image_id": "2-59",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these two spectrograms, please determine which one displays the better material.",
+        "answer": "A"
+    },
+    "29": {
+        "image_id": "1-25",
+        "question": "There are no peaks in either of the following two images",
+        "answer": "yes"
+    },
+    "30": {
+        "image_id": "1-136",
+        "question": "Please f1- one of the following four spectrum images that has a different number of peaks than the other three.",
+        "answer": "B"
+    },
+    "31": {
+        "image_id": "1-19",
+        "question": "The peaks in both spectra overlap",
+        "answer": "yes"
+    },
+    "32": {
+        "image_id": "2-61",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these four spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "C"
+    },
+    "33": {
+        "image_id": "1-265",
+        "question": "Which of the graphs differs significantly from the other three in peak overlap?",
+        "answer": "A"
+    },
+    "34": {
+        "image_id": "1-32",
+        "question": "Which of the two spectra has a narrower full width at half maximum",
+        "answer": "A"
+    },
+    "35": {
+        "image_id": "2-10",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible. Please observe and analyze the following two spectrograms and tell me which one better characterizes the material.",
+        "answer": "B"
+    },
+    "36": {
+        "image_id": "1-20",
+        "question": "The peaks in both spectra overlap",
+        "answer": "no"
+    },
+    "37": {
+        "image_id": "2-1",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible. Please observe and analyze the following two spectrograms and tell me which one better characterizes the material.",
+        "answer": "A"
+    },
+    "38": {
+        "image_id": "3-24",
+        "question": "I need a material whose spectral peaks are between 500nm-540nm, please f1- the material that matches in the following spectrogram. ()",
+        "answer": "B"
+    },
+    "39": {
+        "image_id": "2-139",
+        "question": "We suggest using materials with significant peaks in material property analysis to ensure the precision of the analysis. Compare these spectral graphs, using your professional analytical skills, and clearly point out which one's material characteristics meet the requirements.",
+        "answer": "A"
+    },
+    "40": {
+        "image_id": "2-55",
+        "question": "Avoiding the overlap of emission peaks at different wavelengths is important for the material I choose. Please provide a detailed analysis of these two spectra and 1-icate which one represents the superior material properties.",
+        "answer": "A"
+    },
+    "41": {
+        "image_id": "1-176",
+        "question": "The peak intensity in each of the four images is less than 10000.",
+        "answer": "no"
+    },
+    "42": {
+        "image_id": "2-65",
+        "question": "I now need a material that emits as much light as possible.  Through observation and analysis of these four spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "C"
+    },
+    "43": {
+        "image_id": "1-245",
+        "question": "Which of the graphs has a peak horizontal coordinate that differs from the key parameters of the other three?",
+        "answer": "A"
+    },
+    "44": {
+        "image_id": "2-49",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths.After analyzing these four spectrograms, please determine which one displays the better material.",
+        "answer": "A"
+    },
+    "45": {
+        "image_id": "3-36",
+        "question": "If no obvious wave peaks are seen throughout the spectrogram, the material is judged to be unqualified, and the material represented by Figure A in the following spectrogram is unqualified. ( )",
+        "answer": "no"
+    },
+    "46": {
+        "image_id": "3-3",
+        "question": "If the full width at half maximum is greater than 30 nm or the peak is difficult to discern, the material is deemed substandard. Which of the following spectral graphs is most likely to represent substandard material? ( )",
+        "answer": "C"
+    },
+    "47": {
+        "image_id": "1-247",
+        "question": "Which of the graphs has a peak horizontal coordinate that contrasts with the key parameters of the other three?",
+        "answer": "C"
+    },
+    "48": {
+        "image_id": "3-34",
+        "question": "A material is judged to have failed when no distinct wave peaks can be found in the spectrogram, as 1-icated by Figure A in the following spectrogram. ( )",
+        "answer": "no"
+    },
+    "49": {
+        "image_id": "2-6",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible. Please observe and analyze the following two spectrograms and tell me which one better characterizes the material.",
+        "answer": "B"
+    },
+    "50": {
+        "image_id": "2-39",
+        "question": "I need a material now, preferably with only one luminescent peak.  Please review and compare these two spectra, and then tell me which one represents superior material properties.",
+        "answer": "A"
+    },
+    "51": {
+        "image_id": "2-26",
+        "question": "I need a material now, preferably with only one luminescent peak. Please review and compare these four spectra, and then tell me which one represents superior material properties.",
+        "answer": "B"
+    },
+    "52": {
+        "image_id": "1-44",
+        "question": "Please 1-icate the spectrum with two peaks",
+        "answer": "A"
+    },
+    "53": {
+        "image_id": "3-19",
+        "question": "I need a spectrogram of the complete peak shapes, please identify the ones that do not meet the criteria in the following pictures:()",
+        "answer": "B"
+    },
+    "54": {
+        "image_id": "1-220",
+        "question": "Can you f1- the graph whose number of peaks contrasts markedly in these characteristics with the other three?",
+        "answer": "D"
+    },
+    "55": {
+        "image_id": "1-154",
+        "question": "In the following four spectrum images, one has a different peak symmetry from the other three. Please f1- this image.",
+        "answer": "D"
+    },
+    "56": {
+        "image_id": "2-117",
+        "question": "Our professional advice is to choose the material with the fewest peaks to ensure a technological edge.Thoroughly analyze these spectral graphs and determine without hesitation which graph represents the material with superior performance.",
+        "answer": "C"
+    },
+    "57": {
+        "image_id": "2-120",
+        "question": "Selecting the material with the fewest peaks is a sufficient condition to ensure that the material's performance meets the standard.Use your professional insight to analyze these spectral graphs and quickly identify which graph represents the material with superior performance.",
+        "answer": "B"
+    },
+    "58": {
+        "image_id": "1-273",
+        "question": "Can you identify the graph that contrasts significantly with the other three in peak overlap?",
+        "answer": "A"
+    },
+    "59": {
+        "image_id": "2-97",
+        "question": "I now need a material that requires the peak shape to be symmetrical at the peak wavelength.After carefully studying these two spectrograms, please tell me which one depicts the better material properties.",
+        "answer": "A"
+    },
+    "60": {
+        "image_id": "1-108",
+        "question": "In these two images, which one has a central wavelength closest to 500nm?",
+        "answer": "B"
+    },
+    "61": {
+        "image_id": "2-54",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these two spectrograms, please determine which one displays the better material.",
+        "answer": "B"
+    },
+    "62": {
+        "image_id": "2-132",
+        "question": "As part of the material property analysis, we professionally recommend selecting a material with a significant peak. Analyze these spectral graphs carefully and quickly inform me which one's material characteristics meet the standards.",
+        "answer": "B"
+    },
+    "63": {
+        "image_id": "1-194",
+        "question": "Can you f1- the one with a special full width at half maxima among the four spectral graphs?",
+        "answer": "B"
+    },
+    "64": {
+        "image_id": "2-162",
+        "question": "Selecting a material with the smallest peak horizontal coordinate is a prerequisite for conducting effective material research.Perform spectral graph analysis immediately and accurately judge which one has the most significant material properties.",
+        "answer": "B"
+    },
+    "65": {
+        "image_id": "1-189",
+        "question": "Which of the four spectral graphs has a full width at half maxima that is unique?",
+        "answer": "A"
+    },
+    "66": {
+        "image_id": "1-209",
+        "question": "Which of the graphs has a different number of peaks in these characteristics from the other three?",
+        "answer": "A"
+    },
+    "67": {
+        "image_id": "1-268",
+        "question": "Which of the graphs differs from the other three in peak overlap?",
+        "answer": "D"
+    },
+    "68": {
+        "image_id": "1-155",
+        "question": "Please select one of the following four spectrum images that has a significantly different peak ratio from the other three.",
+        "answer": "D"
+    },
+    "69": {
+        "image_id": "1-122",
+        "question": "Please choose one image that differs from the other three based on the number of peaks.",
+        "answer": "A"
+    },
+    "70": {
+        "image_id": "1-8",
+        "question": "The spectra below are all laser spectra",
+        "answer": "yes"
+    },
+    "71": {
+        "image_id": "2-43",
+        "question": "I need a material with spectral characteristics that show no overlap between emission peaks of different wavelengths. Please review these four spectra and tell me which one represents the better material.",
+        "answer": "C"
+    },
+    "72": {
+        "image_id": "2-131",
+        "question": "As part of the material property analysis, I need a material with a prominent peak.We need to identify which one shows more prominent material properties, please analyze and share your f1-ings.",
+        "answer": "A"
+    },
+    "73": {
+        "image_id": "1-214",
+        "question": "Can you f1- the graph whose number of peaks contrasts significantly in these characteristics with the other three?",
+        "answer": "B"
+    },
+    "74": {
+        "image_id": "3-25",
+        "question": "I need a material with peaks between 500nm-540nm, there are materials below that match, please f1- the corresponding spectrogram. ()",
+        "answer": "D"
+    },
+    "75": {
+        "image_id": "3-59",
+        "question": "We now need a more promising material in communication.The more promising aspect of communication is that the emission wavelength is not easily confused.The reason why the emission wavelength is not easily confused is that the emission peaks do not overlap.Which material can better meet my requirements for materials? \"",
+        "answer": "A"
+    },
+    "76": {
+        "image_id": "2-192",
+        "question": "We professionally suggest selecting a material with minimal peak overlap to clearly demonstrate spectral characteristics in teaching.Compare these graphs, make an accurate judgment, and clearly point out which one represents the material properties most worth learning.",
+        "answer": "B"
+    },
+    "77": {
+        "image_id": "2-172",
+        "question": "To gain a deeper understanding of the spectral characteristics of materials, we professionally recommend selecting a material with almost no peak overlap as a teaching example.Compare these spectral graphs, make an accurate judgment, and clearly point out which one represents the most ideal material properties.(A: no; B: yes; C: no; D: no）",
+        "answer": "B"
+    },
+    "78": {
+        "image_id": "1-276",
+        "question": "Can you f1- the graph that contrasts with the other three in peak overlap?",
+        "answer": "D"
+    },
+    "79": {
+        "image_id": "1-280",
+        "question": "Can you f1- the graph that has a significant difference from the other three in peak overlap?",
+        "answer": "D"
+    },
+    "80": {
+        "image_id": "2-58",
+        "question": "I need a material with spectral characteristics that show no overlap between emission peaks of different wavelengths. Please review these two spectra and tell me which one represents the better material.",
+        "answer": "B"
+    },
+    "81": {
+        "image_id": "2-105",
+        "question": "Based on best practices, choosing materials with the smallest full width at half maximum is crucial. Compare and analyze these two spectral graphs, and directly determine which graph represents the material with superior performance.",
+        "answer": "A"
+    },
+    "82": {
+        "image_id": "2-82",
+        "question": "I am looking for a material with a symmetrical peak shape at the peak wavelength. After carefully studying these four spectra, please help me determine which one represents the better material properties.",
+        "answer": "D"
+    },
+    "83": {
+        "image_id": "1-63",
+        "question": "Which of the two spectra has a narrower full width at half maximum",
+        "answer": "B"
+    },
+    "84": {
+        "image_id": "3-40",
+        "question": "When no obvious wave peaks can be observed in the entire spectrogram, the material is deemed to be unqualified, and the material 1-icated in Figure B of the following spectrogram is unqualified. ( )",
+        "answer": "no"
+    },
+    "85": {
+        "image_id": "1-78",
+        "question": "Which of the four images is clearly different from the others",
+        "answer": "D"
+    },
+    "86": {
+        "image_id": "2-45",
+        "question": "Avoiding the overlap of emission peaks at different wavelengths is important for the material I choose.Please provide a detailed analysis of these four spectra and 1-icate which one represents the superior material properties.",
+        "answer": "A"
+    },
+    "87": {
+        "image_id": "2-42",
+        "question": "I am looking for a material whose emission peaks should not overlap at different wavelengths.After analyzing these four spectra, please tell me which one shows the material that better meets this requirement.",
+        "answer": "B"
+    },
+    "88": {
+        "image_id": "1-152",
+        "question": "Based on background noise, please identify one distinct image from the following four.",
+        "answer": "D"
+    },
+    "89": {
+        "image_id": "2-125",
+        "question": "We advise making a wise material selection based on the minimization of the material's peak number. Examine these spectral graphs and without hesitation, select the graph that corresponds to the material with more ideal characteristics.",
+        "answer": "C"
+    },
+    "90": {
+        "image_id": "2-121",
+        "question": "To maintain 1-ustry competitiveness, selecting the material with the fewest peaks is an 1-ispensable step.Conduct a precise analysis of these four spectral graphs and choose the material with superior performance without doubt.",
+        "answer": "C"
+    },
+    "91": {
+        "image_id": "3-29",
+        "question": "I need a material with peaks between 500nm-540nm, there are materials below that match, please f1- the corresponding spectrogram. ()",
+        "answer": "B"
+    },
+    "92": {
+        "image_id": "1-71",
+        "question": "Identify one of the four spectrograms that is different from the others.",
+        "answer": "C"
+    },
+    "93": {
+        "image_id": "2-191",
+        "question": "To complete precise teaching on the spectral characteristics of materials, selecting materials with minimal peak overlap is a basic condition.Analyze these graphs carefully and inform us without any doubt which one's material properties are most worth learning.",
+        "answer": "A"
+    },
+    "94": {
+        "image_id": "1-7",
+        "question": "Please 1-icate the spectrum with two peaks",
+        "answer": "A"
+    },
+    "95": {
+        "image_id": "1-101",
+        "question": "In these two images, which one has more peaks?",
+        "answer": "B"
+    },
+    "96": {
+        "image_id": "1-143",
+        "question": "Based on peak symmetry, please choose one image that differs from the other three.",
+        "answer": "C"
+    },
+    "97": {
+        "image_id": "1-83",
+        "question": "Which of the two images has the most symmetrical peaks?",
+        "answer": "A"
+    },
+    "98": {
+        "image_id": "1-2",
+        "question": "Compare the four pictures, which one is different from the others.",
+        "answer": "B"
+    },
+    "99": {
+        "image_id": "1-109",
+        "question": "Which of the two images has lower peak intensity?",
+        "answer": "B"
+    },
+    "100": {
+        "image_id": "1-119",
+        "question": "Which of the two images primarily shows peaks that are not background noise?",
+        "answer": "B"
+    },
+    "101": {
+        "image_id": "2-108",
+        "question": "Selecting materials with the smallest full width at half maximum is a condition for achieving high efficiency.Conduct a professional assessment of these two spectral graphs and quickly determine which graph represents the material with superior performance.",
+        "answer": "B"
+    },
+    "102": {
+        "image_id": "2-48",
+        "question": "I need a material with spectral characteristics that show no overlap between emission peaks of different wavelengths.  Please review these four spectra and tell me which one represents the better material.",
+        "answer": "D"
+    },
+    "103": {
+        "image_id": "1-85",
+        "question": "Which of the two images has more overlapping peaks?",
+        "answer": "A"
+    },
+    "104": {
+        "image_id": "1-235",
+        "question": "Can you identify the spectral graph whose peak value contrasts markedly with the other three?",
+        "answer": "C"
+    },
+    "105": {
+        "image_id": "1-178",
+        "question": "The full width at half maximum (FWHM) of the peaks in each of the four images does not differ much.",
+        "answer": "no"
+    },
+    "106": {
+        "image_id": "3-70",
+        "question": "I need a material that performs better in experiments.Better performance in applications is due to more pronounced luminescence.The more obvious luminescence is due to the higher peak value of the luminescence peak.Which material can better meet my requirements for materials? \"",
+        "answer": "A"
+    },
+    "107": {
+        "image_id": "1-132",
+        "question": "In the following four spectrum images, one has different peaks for different materials from the other three. Please f1- this image.",
+        "answer": "B"
+    },
+    "108": {
+        "image_id": "2-100",
+        "question": "I now need a material that requires the peak shape to be symmetrical at the peak wavelength.After carefully studying these two spectrograms, please tell me which one depicts the better material properties.",
+        "answer": "B"
+    },
+    "109": {
+        "image_id": "2-161",
+        "question": "To achieve the desired material properties, selecting a material with the smallest peak horizontal coordinate is a necessary condition.Carefully view these spectral graphs and report without any doubt which one displays the most prominent material properties.",
+        "answer": "A"
+    },
+    "110": {
+        "image_id": "2-156",
+        "question": "Our professional selection criterion is that the material's peak horizontal coordinate must be as small as possible. Please immediately compare these spectral graphs and clearly inform me which one has the most significant material properties.",
+        "answer": "B"
+    },
+    "111": {
+        "image_id": "2-179",
+        "question": "Our professional selection criterion is that the material's peak overlap must be as minimal as possible. Use your professional judgment to compare these graphs and clearly 1-icate which one's material properties are most worth learning.",
+        "answer": "A"
+    },
+    "112": {
+        "image_id": "1-74",
+        "question": "Which spectrogram is significantly different from the other three?",
+        "answer": "B"
+    },
+    "113": {
+        "image_id": "1-167",
+        "question": "There is no peak overlap in both images.",
+        "answer": "no"
+    },
+    "114": {
+        "image_id": "1-13",
+        "question": "All spectra are background noise",
+        "answer": "yes"
+    },
+    "115": {
+        "image_id": "1-226",
+        "question": "Which of the spectral graphs has a peak value that is different in characteristics from the other three?",
+        "answer": "B"
+    },
+    "116": {
+        "image_id": "3-49",
+        "question": "We need a material used in an experiment whose spectrogram has multiple 1-ependent peaks with no overlap between the peaks, and the material shown in Figure B below meets that requirement. ()",
+        "answer": "yes"
+    },
+    "117": {
+        "image_id": "2-17",
+        "question": "I am looking for materials with narrow full width at half maximums. Please check these four spectra and let me know which one displays the material that better matches this characteristic.",
+        "answer": "A"
+    },
+    "118": {
+        "image_id": "2-15",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible. Please observe and analyze the following four spectrograms and tell me which one better characterizes the material.",
+        "answer": "C"
+    },
+    "119": {
+        "image_id": "2-67",
+        "question": "To ensure the luminescence performance of the material, I need it to have as strong luminescence as possible. After comparing these four spectra, please tell me which one of the materials better meets my needs.",
+        "answer": "A"
+    },
+    "120": {
+        "image_id": "2-180",
+        "question": "We suggest using our professional services to identify a material with minimal peak overlap. Conduct a professional analysis of these graphs immediately and clearly share which one's material properties are most worth learning.",
+        "answer": "B"
+    },
+    "121": {
+        "image_id": "2-128",
+        "question": "Only by selecting materials with the fewest peaks can we meet the most stringent performance standards.Analyze these spectral graphs immediately and ensure you can accurately judge which one's material characteristics are more ideal.",
+        "answer": "B"
+    },
+    "122": {
+        "image_id": "2-163",
+        "question": "To meet specific experimental standards, selecting a material with the smallest peak horizontal coordinate is a basic condition. Compare these spectral graphs and ensure you can quickly identify which one has the most significant material properties.",
+        "answer": "A"
+    },
+    "123": {
+        "image_id": "1-236",
+        "question": "Can you f1- the spectral graph whose peak value contrasts with the other three?",
+        "answer": "D"
+    },
+    "124": {
+        "image_id": "2-46",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these four spectrograms, please determine which one displays the better material.",
+        "answer": "B"
+    },
+    "125": {
+        "image_id": "1-181",
+        "question": "Examine these four spectral graphs and identify the one that stands out in terms of full width at half maxima.",
+        "answer": "A"
+    },
+    "126": {
+        "image_id": "2-140",
+        "question": "We professionally recommend selecting materials with significant peaks in material property analysis to optimize the results.Conduct an in-depth analysis of these spectral graphs immediately and clearly report which one represents the more ideal material characteristics.",
+        "answer": "B"
+    },
+    "127": {
+        "image_id": "2-141",
+        "question": "We professionally suggest that selecting materials with significant peaks in material property analysis is key to achieving a deep understanding. Compare these spectral graphs, based on your professional insight, and clearly choose which one represents the superior material characteristics.",
+        "answer": "A"
+    },
+    "128": {
+        "image_id": "2-3",
+        "question": "I need a material with the smallest half width. Please help me analyze the following two spectra to determine which one represents the superior material performance.",
+        "answer": "A"
+    },
+    "129": {
+        "image_id": "1-168",
+        "question": "The peak intensity in both images is greater than 10000.",
+        "answer": "no"
+    },
+    "130": {
+        "image_id": "3-16",
+        "question": "I need to provide spectrograms with complete peak shapes, any of the following images do not meet the requirements, please f1- out:()",
+        "answer": "D"
+    },
+    "131": {
+        "image_id": "1-188",
+        "question": "Among the four spectral graphs, which one stands out in terms of full width at half maxima?",
+        "answer": "D"
+    },
+    "132": {
+        "image_id": "2-37",
+        "question": "I am looking for a material with a single luminescent peak.  Please compare these two spectra and tell me which one represents the material that better meets this condition.",
+        "answer": "A"
+    },
+    "133": {
+        "image_id": "2-155",
+        "question": "We suggest determining a material with the smallest peak horizontal coordinate through our professional consultation. Use your professional skills to analyze and quickly report which graph shows the most prominent material properties.",
+        "answer": "A"
+    },
+    "134": {
+        "image_id": "1-201",
+        "question": "When conducting spectral analysis, please meticulously compare the following four graphs and, based on peak count, select the one that shows significant differences from the other three in these characteristics.",
+        "answer": "A"
+    },
+    "135": {
+        "image_id": "2-76",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these two spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "B"
+    },
+    "136": {
+        "image_id": "1-3",
+        "question": "One of the four pictures is different from the others, tell me which one it is.",
+        "answer": "C"
+    },
+    "137": {
+        "image_id": "1-249",
+        "question": "Which of the graphs has a peak horizontal coordinate that significantly differs from the key parameters of the other three?",
+        "answer": "A"
+    },
+    "138": {
+        "image_id": "3-48",
+        "question": "In the experiment, the material nee2- required a spectrogram with multiple separated peaks and no overlap between these peaks, and the following figure A meets this criterion. ()",
+        "answer": "no"
+    },
+    "139": {
+        "image_id": "1-180",
+        "question": "In each of the four images, there is no peak overlap.",
+        "answer": "no"
+    },
+    "140": {
+        "image_id": "1-257",
+        "question": "Can you identify the graph whose peak horizontal coordinate contrasts with the key parameters of the other three?",
+        "answer": "A"
+    },
+    "141": {
+        "image_id": "2-18",
+        "question": "I need a material with the smallest half width. Please help me analyze the following four spectra to determine which one represents the superior material performance.",
+        "answer": "B"
+    },
+    "142": {
+        "image_id": "1-35",
+        "question": "Which image has the closest value of the two peaks?",
+        "answer": "D"
+    },
+    "143": {
+        "image_id": "1-233",
+        "question": "Can you identify the spectral graph whose peak value contrasts with the other three?",
+        "answer": "A"
+    },
+    "144": {
+        "image_id": "2-152",
+        "question": "To ensure the precision of material selection, we professionally recommend a material with the smallest possible peak horizontal coordinate.Immediately analyze these spectral graphs and identify which one displays the most prominent material properties.",
+        "answer": "B"
+    },
+    "145": {
+        "image_id": "1-164",
+        "question": "The full width at half maximum (FWHM) of the peaks in both images is the same.",
+        "answer": "yes"
+    },
+    "146": {
+        "image_id": "2-165",
+        "question": "To achieve the best results in material analysis, selecting a material with the smallest peak horizontal coordinate is a required condition.Do not hesitate, analyze these spectral graphs immediately and clearly report which one has the most significant material properties.",
+        "answer": "A"
+    },
+    "147": {
+        "image_id": "1-229",
+        "question": "Which of the spectral graphs has a peak value that is significantly distinct in characteristics from the other three?",
+        "answer": "A"
+    },
+    "148": {
+        "image_id": "1-142",
+        "question": "Based on background noise, please identify one distinct image from the following four.",
+        "answer": "C"
+    },
+    "149": {
+        "image_id": "3-53",
+        "question": "I need a material that performs better in applications.The better performance in applications is due to the more prominent emission peak.The more significant emission peak is due to the higher peak value of the emission peak.Which material can better meet my requirements for materials? \"",
+        "answer": "A"
+    },
+    "150": {
+        "image_id": "2-170",
+        "question": "Our professional advice is to select a material with the smallest peak horizontal coordinate to optimize your experimental results. Analyze these spectral graphs carefully and inform me which one has the most significant material properties.",
+        "answer": "B"
+    },
+    "151": {
+        "image_id": "3-63",
+        "question": "I need a material that performs better in applications.The better performance in applications is due to the more prominent emission peak.The more significant emission peak is due to the higher peak value of the emission peak.Which material can better meet my requirements for materials? \"",
+        "answer": "A"
+    },
+    "152": {
+        "image_id": "3-39",
+        "question": "When there are no clear wave peaks over the entire range of the spectrogram, the material is recognized as failing, as 1-icated by Figure A in the following spectrogram. ( )",
+        "answer": "no"
+    },
+    "153": {
+        "image_id": "1-150",
+        "question": "In the following four spectrum images, one has a different number of peaks from the other three. Please f1- this image.",
+        "answer": "C"
+    },
+    "154": {
+        "image_id": "2-189",
+        "question": "To ensure the accuracy of teaching materials, selecting materials with minimal peak overlap is a condition that must be met.Conduct an in-depth analysis of these graphs immediately and clearly report which one's material properties are most worth learning.",
+        "answer": "C"
+    },
+    "155": {
+        "image_id": "3-37",
+        "question": "When no obvious wave peaks can be observed in the entire spectrogram, the material is considered unqualified, and the material 1-icated in Figure A of the following spectrogram is unqualified. ( )",
+        "answer": "yes"
+    },
+    "156": {
+        "image_id": "1-242",
+        "question": "Which of the graphs has a peak horizontal coordinate that is inconsistent with the other three?",
+        "answer": "B"
+    },
+    "157": {
+        "image_id": "1-53",
+        "question": "Which of the two spectra has a narrower full width at half maximum",
+        "answer": "A"
+    },
+    "158": {
+        "image_id": "1-216",
+        "question": "Can you f1- the graph whose number of peaks contrasts in these characteristics with the other three?",
+        "answer": "D"
+    },
+    "159": {
+        "image_id": "1-64",
+        "question": "Please 1-icate the spectrum with two peaks",
+        "answer": "C"
+    },
+    "160": {
+        "image_id": "1-103",
+        "question": "Which of the two images primarily shows peaks that are background noise?",
+        "answer": "B"
+    },
+    "161": {
+        "image_id": "1-21",
+        "question": "Which of the four images is clearly different from the others",
+        "answer": "D"
+    },
+    "162": {
+        "image_id": "1-5",
+        "question": "Which spectrogram is background noise?",
+        "answer": "C"
+    },
+    "163": {
+        "image_id": "2-198",
+        "question": "Selecting a material with minimal peak overlap is a necessary condition for achieving effective teaching demonstrations.Thoroughly examine these graphs and then accurately guide us on which one's material properties are the most enlightening.",
+        "answer": "D"
+    },
+    "164": {
+        "image_id": "1-259",
+        "question": "Can you identify the graph whose peak horizontal coordinate significantly differs from the key parameters of the other three?",
+        "answer": "C"
+    },
+    "165": {
+        "image_id": "2-38",
+        "question": "To ensure the singularity of the material, I need a material that exhibits only one luminescent peak. Please carefully observe these two spectra and determine which one has more outstanding material properties.",
+        "answer": "B"
+    },
+    "166": {
+        "image_id": "3-65",
+        "question": "We now need a more promising material in communication.The communication aspect is more promising because the emission peak is easy to detect.The reason why the emission peak is easy to detect is because the emission peak values are relatively close.Which material can better meet my requirements for materials? \"",
+        "answer": "C"
+    },
+    "167": {
+        "image_id": "2-146",
+        "question": "Selecting materials with significant peaks is a key condition for ensuring the reliability of material property analysis.Compare these spectral graphs, based on your professional insight, and clearly choose which one's material meets our high standards.",
+        "answer": "B"
+    },
+    "168": {
+        "image_id": "3-21",
+        "question": "I need a material with peaks between 500nm-540nm, there are materials below that match, please f1- the corresponding spectrogram. ()",
+        "answer": "A"
+    },
+    "169": {
+        "image_id": "1-66",
+        "question": "Which one has the peak ratio that closes to 1.",
+        "answer": "A"
+    },
+    "170": {
+        "image_id": "2-166",
+        "question": "Selecting a material with the smallest peak horizontal coordinate is one of the conditions to meet your research needs.Analyze these spectral graphs carefully and quickly determine which one displays the most prominent material properties.",
+        "answer": "B"
+    },
+    "171": {
+        "image_id": "1-89",
+        "question": "Which of the two images has a lower central wavelength of peaks?",
+        "answer": "A"
+    },
+    "172": {
+        "image_id": "2-195",
+        "question": "We professionally recommend a material with the minimal peak overlap to ensure the scientific accuracy of teaching materials. Use your analytical skills to compare these graphs and directly tell us which one's material properties are the most striking.",
+        "answer": "A"
+    },
+    "173": {
+        "image_id": "1-15",
+        "question": "The two spectra are basically the same",
+        "answer": "no"
+    },
+    "174": {
+        "image_id": "1-52",
+        "question": "Which spectrogram is background noise?",
+        "answer": "A"
+    },
+    "175": {
+        "image_id": "1-56",
+        "question": "Which image has the closest value of the two peaks?",
+        "answer": "B"
+    },
+    "176": {
+        "image_id": "1-137",
+        "question": "Based on the number of peaks, please choose one image that differs from the other three.",
+        "answer": "B"
+    },
+    "177": {
+        "image_id": "1-172",
+        "question": "The peak value in each of the four images is greater than 1200.",
+        "answer": "yes"
+    },
+    "178": {
+        "image_id": "2-115",
+        "question": "To maintain consistent material performance, we must select materials with the fewest peaks.Measure these four spectral graphs by professional standards and clearly choose the material with superior performance.",
+        "answer": "A"
+    },
+    "179": {
+        "image_id": "2-183",
+        "question": "Only by selecting a material with no peak overlap can we ensure the clarity of the teaching example.Perform graph analysis immediately and accurately judge which one's material properties have the most learning potential.",
+        "answer": "A"
+    },
+    "180": {
+        "image_id": "1-206",
+        "question": "Which of the graphs has a number of peaks that contrasts in these characteristics with the other three?",
+        "answer": "B"
+    },
+    "181": {
+        "image_id": "2-177",
+        "question": "We professionally guide you to choose a material with minimal peak overlap to meet your teaching needs. Thoroughly analyze these graphs and then clearly guide us on which one's material properties are most worth paying attention to.",
+        "answer": "C"
+    },
+    "182": {
+        "image_id": "1-112",
+        "question": "In these two images, which one has more noticeable background noise?",
+        "answer": "B"
+    },
+    "183": {
+        "image_id": "3-41",
+        "question": "In the experiment, a material is required to have multiple peaks with no overlap between the peaks, only Figure A of the following spectra meets the requirement: ()",
+        "answer": "yes"
+    },
+    "184": {
+        "image_id": "1-88",
+        "question": "Which of the two images has lower peak intensity?",
+        "answer": "A"
+    },
+    "185": {
+        "image_id": "2-84",
+        "question": "I need a material with peak symmetry at the peak wavelength, which is usually related to the uniformity and consistency of the material. After examining these four spectra, please 1-icate which one represents the material properties more in line with this standard.",
+        "answer": "B"
+    },
+    "186": {
+        "image_id": "1-58",
+        "question": "Identify one of the four spectrograms that is different from the others.",
+        "answer": "A"
+    },
+    "187": {
+        "image_id": "1-145",
+        "question": "Please select one of the following four spectrum images that has a significantly different peak overlap from the other three.",
+        "answer": "C"
+    },
+    "188": {
+        "image_id": "2-28",
+        "question": "To ensure the singularity of the material, I need a material that exhibits only one luminescent peak. Please carefully observe these four spectra and determine which one has more outstanding material properties.",
+        "answer": "D"
+    },
+    "189": {
+        "image_id": "2-178",
+        "question": "We suggest determining a material with almost no peak overlap through our professional consultation.Analyze these graphs carefully and quickly determine which one's material properties are most educational.",
+        "answer": "D"
+    },
+    "190": {
+        "image_id": "1-41",
+        "question": "Which spectrogram is significantly different from the other three?",
+        "answer": "C"
+    },
+    "191": {
+        "image_id": "1-162",
+        "question": "Both images primarily show peaks that are not background noise.",
+        "answer": "yes"
+    },
+    "192": {
+        "image_id": "3-55",
+        "question": "We now need a more promising material in communication.The communication aspect is more promising because the emission peak is easy to detect.The reason why the emission peak is easy to detect is because the emission peak values are relatively close.Which material can better meet my requirements for materials? \"",
+        "answer": "B"
+    },
+    "193": {
+        "image_id": "2-5",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible.  Please observe and analyze the following two spectrograms and tell me which one better characterizes the material.",
+        "answer": "A"
+    },
+    "194": {
+        "image_id": "3-68",
+        "question": "In order to achieve better results in daily lighting, I need a specific material.The better effect in daily lighting is due to the wide wavelength range of the emission peak.The wide wavelength range of the emission peak is due to the large half width of the emission peak.Which material can better meet my requirements for materials? \"",
+        "answer": "B"
+    },
+    "195": {
+        "image_id": "3-7",
+        "question": "If the full width at half maximum is greater than 30 nm or the peak is difficult to recognize, the material is considered substandard. Which of the following spectral graphs is most likely to represent substandard material? ( )",
+        "answer": "D"
+    },
+    "196": {
+        "image_id": "2-64",
+        "question": "I need to f1- a material with the highest luminous intensity. After reviewing these four spectra, please help me determine which one shows the material with more advantages.",
+        "answer": "B"
+    },
+    "197": {
+        "image_id": "1-244",
+        "question": "Which of the graphs has a peak horizontal coordinate that is inconsistent with the other three in these key parameters?",
+        "answer": "D"
+    },
+    "198": {
+        "image_id": "2-111",
+        "question": "In our in-depth study of the optoelectronic properties of materials, we need a material with the fewest number of peaks.Please directly compare these four spectral graphs and clearly inform me which one represents the material with more desirable characteristics.",
+        "answer": "A"
+    },
+    "199": {
+        "image_id": "1-23",
+        "question": "Which image has the closest value of the two peaks?",
+        "answer": "D"
+    },
+    "200": {
+        "image_id": "2-144",
+        "question": "Selecting materials with significant peaks is a prerequisite for conducting an effective material property analysis.Conduct a professional analysis of these graphs immediately and clearly guide us on which one's material properties are most helpful for understanding materials science.",
+        "answer": "B"
+    },
+    "201": {
+        "image_id": "2-157",
+        "question": "We suggest using our professional services to identify a material with the smallest peak horizontal coordinate.Thoroughly analyze these spectral graphs and then directly report which one displays the most prominent material properties.(A: 305nm; B: 520nm)",
+        "answer": "A"
+    },
+    "202": {
+        "image_id": "3-38",
+        "question": "When no obvious wave peaks can be observed in the entire spectrogram, the material is deemed to be unqualified, and the material 1-icated in Figure D of the following spectrogram is unqualified. ( )",
+        "answer": "yes"
+    },
+    "203": {
+        "image_id": "1-125",
+        "question": "In the following four spectrum images, one has a different number of peaks from the other three. Please f1- this image.",
+        "answer": "A"
+    },
+    "204": {
+        "image_id": "1-104",
+        "question": "Which of the two images has fewer peaks?",
+        "answer": "B"
+    },
+    "205": {
+        "image_id": "1-250",
+        "question": "Which of the graphs has a peak horizontal coordinate that contrasts with the key parameters of the other three?",
+        "answer": "B"
+    },
+    "206": {
+        "image_id": "2-66",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these four spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "D"
+    },
+    "207": {
+        "image_id": "3-2",
+        "question": "When the full width at half maximum exceeds 30 nm or the peak is not distinct, the material is considered substandard. Which of the following spectral graphs is most likely to contain substandard material? ( )",
+        "answer": "B"
+    },
+    "208": {
+        "image_id": "1-153",
+        "question": "Based on peak symmetry, please choose one image that differs from the other three.",
+        "answer": "D"
+    },
+    "209": {
+        "image_id": "2-103",
+        "question": "To ensure performance, we recommend choosing materials with the smallest full width at half maximum.Perform a thorough analysis of these two spectral graphs and identify the graph that corresponds to the material with superior performance.",
+        "answer": "A"
+    },
+    "210": {
+        "image_id": "1-190",
+        "question": "Which spectral graph’s full width at half maximum is unlike the rest?",
+        "answer": "B"
+    },
+    "211": {
+        "image_id": "1-62",
+        "question": "Which spectrogram is background noise?",
+        "answer": "B"
+    },
+    "212": {
+        "image_id": "1-121",
+        "question": "Please f1- one of the following four spectrum images that has a different number of peaks than the other three.",
+        "answer": "A"
+    },
+    "213": {
+        "image_id": "1-97",
+        "question": "In these two images, which one has a smaller full width at half maximum (FWHM)?",
+        "answer": "A"
+    },
+    "214": {
+        "image_id": "1-140",
+        "question": "In the following four spectrum images, one has a different number of peaks from the other three. Please f1- this image.",
+        "answer": "B"
+    },
+    "215": {
+        "image_id": "3-26",
+        "question": "I need a material with peaks between 500nm-540nm, there are materials below that match, please f1- the corresponding spectrogram. ()",
+        "answer": "C"
+    },
+    "216": {
+        "image_id": "1-258",
+        "question": "Can you f1- the graph whose peak horizontal coordinate is distinct from the key parameters of the other three?",
+        "answer": "B"
+    },
+    "217": {
+        "image_id": "2-199",
+        "question": "To meet the high standards of teaching materials, selecting a material with almost no peak overlap is a key condition.Analyze these graphs carefully and then quickly point out which one's material properties are most conducive to learning.",
+        "answer": "A"
+    },
+    "218": {
+        "image_id": "2-169",
+        "question": "Based on our professional insights, choosing a material with the smallest peak horizontal coordinate will best meet your research objectives.Compare these spectral graphs, based on your professional assessment, and clearly point out which one has the most outstanding material properties.",
+        "answer": "A"
+    },
+    "219": {
+        "image_id": "1-228",
+        "question": "Which of the spectral graphs has a peak value that contrasts with the other three?",
+        "answer": "D"
+    },
+    "220": {
+        "image_id": "1-267",
+        "question": "Which of the graphs has a difference from the other three in peak overlap?",
+        "answer": "C"
+    },
+    "221": {
+        "image_id": "1-141",
+        "question": "Based on background noise, please choose one image that differs from the other three.",
+        "answer": "C"
+    },
+    "222": {
+        "image_id": "2-41",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these four spectrograms, please determine which one displays the better material.",
+        "answer": "A"
+    },
+    "223": {
+        "image_id": "2-68",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these four spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "B"
+    },
+    "224": {
+        "image_id": "1-207",
+        "question": "Which of the graphs has a noticeably different number of peaks in these characteristics from the other three?",
+        "answer": "C"
+    },
+    "225": {
+        "image_id": "2-80",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these two spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "B"
+    },
+    "226": {
+        "image_id": "1-270",
+        "question": "Which of the graphs has a significant difference from the other three in peak overlap?",
+        "answer": "B"
+    },
+    "227": {
+        "image_id": "3-17",
+        "question": "Spectrograms with complete peak shapes are required, please identify from the following images that do not meet the criteria: ()",
+        "answer": "A"
+    },
+    "228": {
+        "image_id": "1-99",
+        "question": "In these two images, which one has the smallest full width at half maximum (FWHM)?",
+        "answer": "A"
+    },
+    "229": {
+        "image_id": "1-138",
+        "question": "Please select one of the following four spectrum images that has a significantly different number of peaks from the other three.",
+        "answer": "B"
+    },
+    "230": {
+        "image_id": "1-158",
+        "question": "Please select one of the following four spectrum images that has a significantly different x-axis from the other three.",
+        "answer": "D"
+    },
+    "231": {
+        "image_id": "1-34",
+        "question": "Which of the four images is clearly different from the others",
+        "answer": "A"
+    },
+    "232": {
+        "image_id": "2-86",
+        "question": "I now need a material that requires the peak shape to be symmetrical at the peak wavelength. After carefully studying these four spectrograms, please tell me which one depicts the better material properties.",
+        "answer": "D"
+    },
+    "233": {
+        "image_id": "1-24",
+        "question": "The full width at half maximum of the four images are basically the same",
+        "answer": "yes"
+    },
+    "234": {
+        "image_id": "2-168",
+        "question": "Selecting a material with the smallest peak horizontal coordinate is a prerequisite for achieving an in-depth understanding of material properties.Conduct an in-depth analysis of these spectral graphs immediately and clearly report which one displays the most prominent material properties.",
+        "answer": "B"
+    },
+    "235": {
+        "image_id": "3-66",
+        "question": "I need a material that can measure better second-order correlation in the experiment.The better second-order correlation was measured because the emission peaks could be separated separately during the experimental process.The reason why the emission peaks can be separated separately is because they do not overlap.Which material can better meet my requirements for materials?",
+        "answer": "B"
+    },
+    "236": {
+        "image_id": "1-230",
+        "question": "Which of the spectral graphs has a peak value that is different in characteristics from the other three?",
+        "answer": "B"
+    },
+    "237": {
+        "image_id": "1-9",
+        "question": "The spectra below are all single-peak",
+        "answer": "no"
+    },
+    "238": {
+        "image_id": "1-253",
+        "question": "Can you identify the graph whose peak horizontal coordinate is different from the other three?",
+        "answer": "A"
+    },
+    "239": {
+        "image_id": "1-96",
+        "question": "Which of the two images has a larger full width at half maximum (FWHM)?",
+        "answer": "A"
+    },
+    "240": {
+        "image_id": "1-80",
+        "question": "Which graph has a larger peak value",
+        "answer": "A"
+    },
+    "241": {
+        "image_id": "1-29",
+        "question": "One of the four pictures is different from the others, tell me which one it is.",
+        "answer": "C"
+    },
+    "242": {
+        "image_id": "1-269",
+        "question": "Which of the graphs contrasts markedly with the other three in peak overlap?",
+        "answer": "A"
+    },
+    "243": {
+        "image_id": "2-63",
+        "question": "I now need a material that emits as much light as possible. Through observation and analysis of these four spectrograms, please 1-icate which one represents a higher quality material.",
+        "answer": "A"
+    },
+    "244": {
+        "image_id": "1-82",
+        "question": "In these two images, which one has a peak count closest to 10?",
+        "answer": "A"
+    },
+    "245": {
+        "image_id": "2-190",
+        "question": "Selecting a material with minimal peak overlap is a prerequisite for gaining in-depth insights into the spectral characteristics of materials.Compare these graphs, based on your professional assessment, and clearly point out which one's material properties are most worth learning.",
+        "answer": "D"
+    },
+    "246": {
+        "image_id": "1-11",
+        "question": "Both spectra have two peaks",
+        "answer": "yes"
+    },
+    "247": {
+        "image_id": "1-127",
+        "question": "Based on background noise, please identify one distinct image from the following four.",
+        "answer": "A"
+    },
+    "248": {
+        "image_id": "2-20",
+        "question": "I need a material now that minimizes the full width at half maximum as much as possible.  Please observe and analyze the following four spectrograms and tell me which one better characterizes the material.",
+        "answer": "D"
+    },
+    "249": {
+        "image_id": "2-133",
+        "question": "When conducting material property analysis, we advise giving priority to materials with distinct peaks.Use your professional judgment to compare these spectral graphs and clearly decide which one's material characteristics are more ideal.",
+        "answer": "A"
+    },
+    "250": {
+        "image_id": "2-116",
+        "question": "In material selection, we advise making an informed decision based on the minimization of the number of peaks.Use your professional knowledge to analyze the spectral graphs without hesitation and decide which one represents the material with superior performance.",
+        "answer": "B"
+    },
+    "251": {
+        "image_id": "1-246",
+        "question": "Which of the graphs has a peak horizontal coordinate that is distinct from the other three in these key parameters?",
+        "answer": "B"
+    },
+    "252": {
+        "image_id": "1-212",
+        "question": "Can you f1- the graph whose number of peaks contrasts significantly with the other three?",
+        "answer": "D"
+    },
+    "253": {
+        "image_id": "1-198",
+        "question": "Can you identify the spectral graph that contrasts in full width at half maxima among the four?",
+        "answer": "B"
+    },
+    "254": {
+        "image_id": "1-37",
+        "question": "All four spectra are asymmetric",
+        "answer": "yes"
+    },
+    "255": {
+        "image_id": "2-112",
+        "question": "Based on our professional expertise, choosing materials with the fewest peaks is key to achieving optimal performance.Conduct a professional analysis of the spectral graphs immediately and select the one that represents the best material performance.",
+        "answer": "B"
+    },
+    "256": {
+        "image_id": "1-72",
+        "question": "Compare the four pictures, which one is different from the others.",
+        "answer": "D"
+    },
+    "257": {
+        "image_id": "2-19",
+        "question": "I am looking for materials with the narrowest full width at half maximum.  Please analyze based on the following four spectra and tell me which one represents the material that is closer to my needs.",
+        "answer": "C"
+    },
+    "258": {
+        "image_id": "2-135",
+        "question": "Our professional advice is that, to deeply understand material properties, one should choose materials with prominent peaks.Compare these spectral graphs and ensure you can quickly identify which one's material characteristics are closer to the ideal state.",
+        "answer": "A"
+    },
+    "259": {
+        "image_id": "1-54",
+        "question": "Please 1-icate the spectrum with two peaks",
+        "answer": "A"
+    },
+    "260": {
+        "image_id": "2-21",
+        "question": "I need a material now, preferably with only one luminescent peak. Please review and compare these four spectra, and then tell me which one represents superior material properties.",
+        "answer": "D"
+    },
+    "261": {
+        "image_id": "2-136",
+        "question": "In material property analysis, we recommend using materials with significant peaks to achieve more accurate results.Immediately conduct a professional comparison of these spectral graphs and clearly 1-icate which one represents the superior material characteristics.",
+        "answer": "B"
+    },
+    "262": {
+        "image_id": "2-44",
+        "question": "I now need a material that requires non overlapping emission peaks of different wavelengths. After analyzing these four spectrograms, please determine which one displays the better material.",
+        "answer": "D"
+    },
+    "263": {
+        "image_id": "3-30",
+        "question": "I need a material whose spectral peak falls within the range of 500 nm to 540 nm. Please identify the material that meets this range in the following spectral graphs. ( )",
+        "answer": "C"
+    },
+    "264": {
+        "image_id": "2-2",
+        "question": "I am looking for materials with narrow full width at half maximums. Please check these two spectra and let me know which one displays the material that better matches this characteristic.",
+        "answer": "B"
+    },
+    "265": {
+        "image_id": "1-26",
+        "question": "Which graph has a larger peak value",
+        "answer": "A"
+    },
+    "266": {
+        "image_id": "1-219",
+        "question": "Can you identify the graph whose number of peaks contrasts in these characteristics with the other three?",
+        "answer": "C"
+    },
+    "267": {
+        "image_id": "1-199",
+        "question": "Can you f1- the spectral graph whose full width at half maximum stands out among the four?",
+        "answer": "C"
+    },
+    "268": {
+        "image_id": "1-135",
+        "question": "In the following four spectrum images, one differs in peak overlap from the other three. Please f1- this image.",
+        "answer": "B"
+    },
+    "269": {
+        "image_id": "3-23",
+        "question": "The material is required to have a peak position between 500nm and 540nm, identify the material that meets this condition from the following spectrogram. ()",
+        "answer": "A"
+    },
+    "270": {
+        "image_id": "1-111",
+        "question": "Which of the two images primarily shows peaks that are background noise?",
+        "answer": "B"
+    },
+    "271": {
+        "image_id": "1-100",
+        "question": "In these two images, which one has the highest peak intensity?",
+        "answer": "A"
+    },
+    "272": {
+        "image_id": "1-170",
+        "question": "The central wavelength of peaks in both images is less than 400nm.",
+        "answer": "no"
+    },
+    "273": {
+        "image_id": "1-197",
+        "question": "Can you f1- the spectral graph with a unique full width at half maxima among the four?",
+        "answer": "A"
+    },
+    "274": {
+        "image_id": "3-9",
+        "question": "If the half-peak width is greater than 30 nm or the wave is not pronounced, the material is judged to be substandard. Which of the following spectrograms is most likely to be substandard material? ( )",
+        "answer": "A"
+    },
+    "275": {
+        "image_id": "2-7",
+        "question": "I am looking for materials with narrow full width at half maximums. Please check these two spectra and let me know which one displays the material that better matches this characteristic.",
+        "answer": "A"
+    }
+}

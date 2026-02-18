@@ -1,0 +1,6050 @@
+{
+    "1": {
+        "image_id": "42",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak",
+        "answer": "1600"
+    },
+    "2": {
+        "image_id": "52",
+        "question_type": "peak_value",
+        "question": "What is the peak of each peak",
+        "answer": "40000"
+    },
+    "3": {
+        "image_id": "429",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "3100"
+    },
+    "4": {
+        "image_id": "579",
+        "question_type": "peak_number",
+        "question": "Can you help me count the number of peaks in the image?",
+        "answer": "1"
+    },
+    "5": {
+        "image_id": "391",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 47% of its maximum height?",
+        "answer": "27"
+    },
+    "6": {
+        "image_id": "585",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "2000"
+    },
+    "7": {
+        "image_id": "841",
+        "question_type": "shape",
+        "question": "For our detailed analysis, we need to know if there is any peak overlap.",
+        "answer": "no"
+    },
+    "8": {
+        "image_id": "685",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "None"
+    },
+    "9": {
+        "image_id": "269",
+        "question_type": "peak_position",
+        "question": "Could you help me determine the x-coordinate of the peak in this graph from a professional standpoint?",
+        "answer": "366"
+    },
+    "10": {
+        "image_id": "466",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "yes"
+    },
+    "11": {
+        "image_id": "1",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak",
+        "answer": "59000;5000"
+    },
+    "12": {
+        "image_id": "19",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "13": {
+        "image_id": "353",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "None"
+    },
+    "14": {
+        "image_id": "657",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "385;450"
+    },
+    "15": {
+        "image_id": "493",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "None"
+    },
+    "16": {
+        "image_id": "833",
+        "question_type": "peak_value",
+        "question": "Provide a detailed list of all peak values on this spectral graph.",
+        "answer": "1100"
+    },
+    "17": {
+        "image_id": "159",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "10"
+    },
+    "18": {
+        "image_id": "13",
+        "question_type": "peak_number",
+        "question": "May I ask how many peak areas are there in this image?",
+        "answer": "2"
+    },
+    "19": {
+        "image_id": "798",
+        "question_type": "peak_position",
+        "question": "What is the distribution of peak positions on the x-axis?",
+        "answer": "760"
+    },
+    "20": {
+        "image_id": "915",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "21": {
+        "image_id": "880",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "520"
+    },
+    "22": {
+        "image_id": "565",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "500;650"
+    },
+    "23": {
+        "image_id": "35",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "5"
+    },
+    "24": {
+        "image_id": "349",
+        "question_type": "peak_position",
+        "question": "Can you describe the positions of each peak in this graph?",
+        "answer": "None"
+    },
+    "25": {
+        "image_id": "21",
+        "question_type": "peak_position",
+        "question": "Could you please provide the exact position of each peak on the horizontal axis?",
+        "answer": "340;365"
+    },
+    "26": {
+        "image_id": "822",
+        "question_type": "peak_position",
+        "question": "What is the distribution of peak positions on the x-axis?",
+        "answer": "530"
+    },
+    "27": {
+        "image_id": "72",
+        "question_type": "fwhm",
+        "question": "By observing the image, please tell me the full width at half maximum of each peak.",
+        "answer": "None"
+    },
+    "28": {
+        "image_id": "315",
+        "question_type": "shape",
+        "question": "Is the center of symmetry for the waveform the peak wavelength in the graph?",
+        "answer": "no"
+    },
+    "29": {
+        "image_id": "643",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "760"
+    },
+    "30": {
+        "image_id": "324",
+        "question_type": "shape",
+        "question": "I'm curious, does this graph illustrate background noise?",
+        "answer": "no"
+    },
+    "31": {
+        "image_id": "775",
+        "question_type": "shape",
+        "question": "Are we able to observe a superposition of these two peaks?",
+        "answer": "yes"
+    },
+    "32": {
+        "image_id": "759",
+        "question_type": "peak_value",
+        "question": "What are the peak values at each point?",
+        "answer": "2000"
+    },
+    "33": {
+        "image_id": "608",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "None"
+    },
+    "34": {
+        "image_id": "299",
+        "question_type": "peak_value",
+        "question": "What are the specific numerical values of each peak in this graph?",
+        "answer": "550;775"
+    },
+    "35": {
+        "image_id": "956",
+        "question_type": "peak_value",
+        "question": "What is the highest value of each peak?",
+        "answer": "3700"
+    },
+    "36": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "I would like to know if this is background noise.",
+        "answer": "no"
+    },
+    "37": {
+        "image_id": "754",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "510"
+    },
+    "38": {
+        "image_id": "729",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "1100;1100"
+    },
+    "39": {
+        "image_id": "79",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "18"
+    },
+    "40": {
+        "image_id": "570",
+        "question_type": "peak_number",
+        "question": "How many peaks are in this image?",
+        "answer": "2"
+    },
+    "41": {
+        "image_id": "45",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "3200"
+    },
+    "42": {
+        "image_id": "765",
+        "question_type": "peak_value",
+        "question": "What is the highest value for each peak?",
+        "answer": "25000;24000"
+    },
+    "43": {
+        "image_id": "314",
+        "question_type": "shape",
+        "question": "According to spectral analysis, are there any overlap peaks in this graph?",
+        "answer": "no"
+    },
+    "44": {
+        "image_id": "221",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "2000"
+    },
+    "45": {
+        "image_id": "68",
+        "question_type": "peak_number",
+        "question": "What are the number of peaks in this range?",
+        "answer": "1"
+    },
+    "46": {
+        "image_id": "625",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "640"
+    },
+    "47": {
+        "image_id": "247",
+        "question_type": "peak_value",
+        "question": "Could you disclose to us the precise value of the peak?",
+        "answer": "1240"
+    },
+    "48": {
+        "image_id": "847",
+        "question_type": "fwhm",
+        "question": "Understanding the full width at half maximum is crucial for us when making material selections.",
+        "answer": "60"
+    },
+    "49": {
+        "image_id": "808",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate position of each peak?",
+        "answer": "380;385;390;395;405;415;420"
+    },
+    "50": {
+        "image_id": "239",
+        "question_type": "shape",
+        "question": "Is there an implication of symmetry at the peak wavelength in the waveform of this graph?",
+        "answer": "no"
+    },
+    "51": {
+        "image_id": "487",
+        "question_type": "peak_position",
+        "question": "Where is the exact horizontal position of each peak in the image?",
+        "answer": "None"
+    },
+    "52": {
+        "image_id": "884",
+        "question_type": "peak_position",
+        "question": "Analyze these spectral graphs and report the horizontal coordinates of the peak values.",
+        "answer": "520"
+    },
+    "53": {
+        "image_id": "425",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "32000"
+    },
+    "54": {
+        "image_id": "127",
+        "question_type": "peak_value",
+        "question": "What is the highest point in each peak?",
+        "answer": "23000;16000;10000;5000"
+    },
+    "55": {
+        "image_id": "917",
+        "question_type": "shape",
+        "question": "Please let me know if there is peak overlap after your check.",
+        "answer": "no"
+    },
+    "56": {
+        "image_id": "325",
+        "question_type": "peak_value",
+        "question": "What is the highest value of each peak?",
+        "answer": "60000"
+    },
+    "57": {
+        "image_id": "550",
+        "question_type": "peak_value",
+        "question": "Please provide the value of each peak in the image.",
+        "answer": "500;450"
+    },
+    "58": {
+        "image_id": "467",
+        "question_type": "peak_value",
+        "question": "Can you tell me the value of each peak in the image?",
+        "answer": "None"
+    },
+    "59": {
+        "image_id": "864",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "60": {
+        "image_id": "293",
+        "question_type": "shape",
+        "question": "Are there any overlap peaks in this spectrum graph?",
+        "answer": "no"
+    },
+    "61": {
+        "image_id": "769",
+        "question_type": "peak_number",
+        "question": "May I ask how many peak areas are there in this image?",
+        "answer": "7"
+    },
+    "62": {
+        "image_id": "983",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "8000"
+    },
+    "63": {
+        "image_id": "639",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "315"
+    },
+    "64": {
+        "image_id": "869",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "65": {
+        "image_id": "229",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "380;390;415;465;485"
+    },
+    "66": {
+        "image_id": "9",
+        "question_type": "fwhm",
+        "question": "I need your help to determine the full width at half maximum of this material.",
+        "answer": "12"
+    },
+    "67": {
+        "image_id": "414",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "68": {
+        "image_id": "619",
+        "question_type": "fwhm",
+        "question": "According to the image, what is the approximate full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "69": {
+        "image_id": "224",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetrical on either side of the wavelength at its maximum?",
+        "answer": "yes"
+    },
+    "70": {
+        "image_id": "152",
+        "question_type": "peak_value",
+        "question": "What are the peak values?",
+        "answer": "34000"
+    },
+    "71": {
+        "image_id": "299",
+        "question_type": "shape",
+        "question": "Is the waveform symmetrical along the peak wavelength in the graph?",
+        "answer": "no"
+    },
+    "72": {
+        "image_id": "7",
+        "question_type": "shape",
+        "question": "Is there a situation where two or more peaks overlap?",
+        "answer": "yes"
+    },
+    "73": {
+        "image_id": "346",
+        "question_type": "shape",
+        "question": "Are the peaks in this spectrum represented as background noise?",
+        "answer": "yes"
+    },
+    "74": {
+        "image_id": "900",
+        "question_type": "fwhm",
+        "question": "Please verify the full width at half maximum value of this spectrum again, as it is crucial for our research.",
+        "answer": "20"
+    },
+    "75": {
+        "image_id": "663",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "2500;3000"
+    },
+    "76": {
+        "image_id": "218",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "10"
+    },
+    "77": {
+        "image_id": "953",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph, can you count them?",
+        "answer": "1"
+    },
+    "78": {
+        "image_id": "688",
+        "question_type": "shape",
+        "question": "Observing the image, is this spectrum background noise?",
+        "answer": "yes"
+    },
+    "79": {
+        "image_id": "238",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "no"
+    },
+    "80": {
+        "image_id": "248",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "81": {
+        "image_id": "545",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "None"
+    },
+    "82": {
+        "image_id": "122",
+        "question_type": "peak_position",
+        "question": "What is the wavelength of the center of the peak",
+        "answer": "580;593;610;630"
+    },
+    "83": {
+        "image_id": "642",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "None"
+    },
+    "84": {
+        "image_id": "216",
+        "question_type": "peak_value",
+        "question": "What are the highest values for each peak?",
+        "answer": "1250"
+    },
+    "85": {
+        "image_id": "142",
+        "question_type": "peak_number",
+        "question": "How many local maximum points are there in the image?",
+        "answer": "1"
+    },
+    "86": {
+        "image_id": "391",
+        "question_type": "peak_position",
+        "question": "Analyze this graph, where are each of the peaks located?",
+        "answer": "515"
+    },
+    "87": {
+        "image_id": "543",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "None"
+    },
+    "88": {
+        "image_id": "95",
+        "question_type": "shape",
+        "question": "Does the image show overlap between the peaks?",
+        "answer": "no"
+    },
+    "89": {
+        "image_id": "336",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks are in this chart?",
+        "answer": "None"
+    },
+    "90": {
+        "image_id": "708",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "1700"
+    },
+    "91": {
+        "image_id": "1021",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "38000"
+    },
+    "92": {
+        "image_id": "53",
+        "question_type": "peak_position",
+        "question": "Where is the center of each peak",
+        "answer": "370"
+    },
+    "93": {
+        "image_id": "213",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "10"
+    },
+    "94": {
+        "image_id": "453",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "95": {
+        "image_id": "754",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "420"
+    },
+    "96": {
+        "image_id": "44",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "365;390;490;521"
+    },
+    "97": {
+        "image_id": "22",
+        "question_type": "peak_position",
+        "question": "Could you provide a detailed explanation of the distribution of each peak on the horizontal axis?",
+        "answer": "365"
+    },
+    "98": {
+        "image_id": "731",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "2"
+    },
+    "99": {
+        "image_id": "988",
+        "question_type": "peak_number",
+        "question": "Please look at this chart and tell me how many peaks are there?",
+        "answer": "1"
+    },
+    "100": {
+        "image_id": "948",
+        "question_type": "peak_value",
+        "question": "What values do these peaks each reach?",
+        "answer": "None"
+    },
+    "101": {
+        "image_id": "651",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "10;20"
+    },
+    "102": {
+        "image_id": "296",
+        "question_type": "shape",
+        "question": "Does the waveform in the graph show symmetry about the wavelength of the peak?",
+        "answer": "no"
+    },
+    "103": {
+        "image_id": "932",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks are in this chart?",
+        "answer": "1"
+    },
+    "104": {
+        "image_id": "329",
+        "question_type": "shape",
+        "question": "Is there any secret hidden in the peak overlap of this graph?",
+        "answer": "no"
+    },
+    "105": {
+        "image_id": "91",
+        "question_type": "peak_position",
+        "question": "What are the x-coordinates of these peaks?",
+        "answer": "None"
+    },
+    "106": {
+        "image_id": "1025",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric with respect to the peak wavelength?",
+        "answer": "yes"
+    },
+    "107": {
+        "image_id": "711",
+        "question_type": "peak_position",
+        "question": "Where is the center of each peak",
+        "answer": "445"
+    },
+    "108": {
+        "image_id": "596",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinates of each peak in this image?",
+        "answer": "360"
+    },
+    "109": {
+        "image_id": "342",
+        "question_type": "peak_number",
+        "question": "Take a close look at this graph, can you tell me the number of peaks?",
+        "answer": "None"
+    },
+    "110": {
+        "image_id": "761",
+        "question_type": "fwhm",
+        "question": "What is the width at half the maximum height of the peak?",
+        "answer": "20"
+    },
+    "111": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "112": {
+        "image_id": "192",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "113": {
+        "image_id": "349",
+        "question_type": "fwhm",
+        "question": "Can you tell me the half-peak width of each peak in this graph?",
+        "answer": "None"
+    },
+    "114": {
+        "image_id": "618",
+        "question_type": "peak_number",
+        "question": "Can you identify the number of peaks shown in this image?",
+        "answer": "1"
+    },
+    "115": {
+        "image_id": "134",
+        "question_type": "peak_number",
+        "question": "May I ask how many peak areas are there in this image?",
+        "answer": "9"
+    },
+    "116": {
+        "image_id": "105",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "None"
+    },
+    "117": {
+        "image_id": "776",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "5"
+    },
+    "118": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "119": {
+        "image_id": "994",
+        "question_type": "peak_value",
+        "question": "What are the peak values of these peaks?",
+        "answer": "3000"
+    },
+    "120": {
+        "image_id": "166",
+        "question_type": "shape",
+        "question": "Does the shape of the peak maintain symmetry across its wavelength of highest intensity?",
+        "answer": "yes"
+    },
+    "121": {
+        "image_id": "450",
+        "question_type": "peak_number",
+        "question": "How many peaks are in this image?",
+        "answer": "1"
+    },
+    "122": {
+        "image_id": "703",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "510"
+    },
+    "123": {
+        "image_id": "595",
+        "question_type": "shape",
+        "question": "Is the peak value shape symmetric on both sides of the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "124": {
+        "image_id": "272",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "125": {
+        "image_id": "718",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "1"
+    },
+    "126": {
+        "image_id": "1019",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "438"
+    },
+    "127": {
+        "image_id": "117",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "563"
+    },
+    "128": {
+        "image_id": "194",
+        "question_type": "shape",
+        "question": "Is the peak symmetrically disposed around its wavelength of peak position?",
+        "answer": "yes"
+    },
+    "129": {
+        "image_id": "578",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "600"
+    },
+    "130": {
+        "image_id": "556",
+        "question_type": "peak_number",
+        "question": "Can you help me count the total number of peaks in the image?",
+        "answer": "1"
+    },
+    "131": {
+        "image_id": "927",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "30"
+    },
+    "132": {
+        "image_id": "929",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "30"
+    },
+    "133": {
+        "image_id": "91",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "None"
+    },
+    "134": {
+        "image_id": "630",
+        "question_type": "peak_number",
+        "question": "How many peaks are in this image?",
+        "answer": "None"
+    },
+    "135": {
+        "image_id": "347",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks are in this chart?",
+        "answer": "None"
+    },
+    "136": {
+        "image_id": "1000",
+        "question_type": "peak_value",
+        "question": "Can you tell me the specific peak values of each peak?",
+        "answer": "26000"
+    },
+    "137": {
+        "image_id": "505",
+        "question_type": "shape",
+        "question": "Based on the image, can you confirm if there is overlap between the peaks?",
+        "answer": "no"
+    },
+    "138": {
+        "image_id": "255",
+        "question_type": "peak_position",
+        "question": "Can you help me confirm the x-coordinate of the peak in this graph?",
+        "answer": "520"
+    },
+    "139": {
+        "image_id": "597",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "yes"
+    },
+    "140": {
+        "image_id": "131",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "141": {
+        "image_id": "837",
+        "question_type": "fwhm",
+        "question": "Analyze this spectral graph and report its full width at half maximum.",
+        "answer": "50"
+    },
+    "142": {
+        "image_id": "823",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "143": {
+        "image_id": "372",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "144": {
+        "image_id": "387",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "145": {
+        "image_id": "861",
+        "question_type": "peak_value",
+        "question": "Find out and report the exact values of each peak in these spectral graphs.",
+        "answer": "2700"
+    },
+    "146": {
+        "image_id": "310",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "147": {
+        "image_id": "345",
+        "question_type": "fwhm",
+        "question": "Can you calculate the half-peak widths of these peaks?",
+        "answer": "None"
+    },
+    "148": {
+        "image_id": "819",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "365;385;390;395;400;410"
+    },
+    "149": {
+        "image_id": "423",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "27"
+    },
+    "150": {
+        "image_id": "317",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "151": {
+        "image_id": "465",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of these peaks?",
+        "answer": "370;730"
+    },
+    "152": {
+        "image_id": "875",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "153": {
+        "image_id": "295",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "no"
+    },
+    "154": {
+        "image_id": "857",
+        "question_type": "peak_position",
+        "question": "Could you help me check the horizontal coordinates of each peak on this spectral graph?",
+        "answer": "540"
+    },
+    "155": {
+        "image_id": "316",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "no"
+    },
+    "156": {
+        "image_id": "447",
+        "question_type": "peak_number",
+        "question": "Please identify and tell me how many prominent peaks are in the image.",
+        "answer": "1"
+    },
+    "157": {
+        "image_id": "599",
+        "question_type": "fwhm",
+        "question": "According to the image, what is the approximate full width at half maximum of each peak?",
+        "answer": "12"
+    },
+    "158": {
+        "image_id": "455",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "2600"
+    },
+    "159": {
+        "image_id": "926",
+        "question_type": "peak_value",
+        "question": "To ensure the accuracy of our research, we need to know exactly the numerical values of the peaks on the spectral graphs of these materials.",
+        "answer": "29000"
+    },
+    "160": {
+        "image_id": "220",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "14"
+    },
+    "161": {
+        "image_id": "1016",
+        "question_type": "peak_value",
+        "question": "Can you tell me the peak values of each peak?",
+        "answer": "325"
+    },
+    "162": {
+        "image_id": "532",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "30"
+    },
+    "163": {
+        "image_id": "438",
+        "question_type": "fwhm",
+        "question": "Based on the image, what are the values of the full widths at half maximum?",
+        "answer": "30"
+    },
+    "164": {
+        "image_id": "56",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "60000"
+    },
+    "165": {
+        "image_id": "33",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "None"
+    },
+    "166": {
+        "image_id": "67",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "517"
+    },
+    "167": {
+        "image_id": "221",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "168": {
+        "image_id": "141",
+        "question_type": "shape",
+        "question": "Is there a symmetrical distribution of the peak's intensity along the peak wavelength?",
+        "answer": "yes"
+    },
+    "169": {
+        "image_id": "47",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "170": {
+        "image_id": "248",
+        "question_type": "peak_number",
+        "question": "How many peak points does this graph display to us?",
+        "answer": "1"
+    },
+    "171": {
+        "image_id": "1014",
+        "question_type": "peak_position",
+        "question": "Where is the center of each peak",
+        "answer": "305"
+    },
+    "172": {
+        "image_id": "662",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "2"
+    },
+    "173": {
+        "image_id": "221",
+        "question_type": "shape",
+        "question": "Does the peak exhibit symmetry centered on its wavelength of maximum intensity?",
+        "answer": "yes"
+    },
+    "174": {
+        "image_id": "641",
+        "question_type": "peak_position",
+        "question": "Write out the abscissa of each peak",
+        "answer": "780"
+    },
+    "175": {
+        "image_id": "131",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate position of each peak?",
+        "answer": "548;565;580;595;615;630;650;675"
+    },
+    "176": {
+        "image_id": "243",
+        "question_type": "peak_value",
+        "question": "Please indicate the value of the peak.",
+        "answer": "310"
+    },
+    "177": {
+        "image_id": "808",
+        "question_type": "fwhm",
+        "question": "What is the width at half the maximum height of the peak?",
+        "answer": "None"
+    },
+    "178": {
+        "image_id": "941",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what is the half-peak width of each peak?",
+        "answer": "5;13"
+    },
+    "179": {
+        "image_id": "470",
+        "question_type": "peak_number",
+        "question": "How many peaks are in this image?",
+        "answer": "1"
+    },
+    "180": {
+        "image_id": "869",
+        "question_type": "shape",
+        "question": "For our detailed analysis, we need to know if there is any peak overlap.",
+        "answer": "no"
+    },
+    "181": {
+        "image_id": "555",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "10;8"
+    },
+    "182": {
+        "image_id": "452",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "25"
+    },
+    "183": {
+        "image_id": "528",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "27000"
+    },
+    "184": {
+        "image_id": "314",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "185": {
+        "image_id": "418",
+        "question_type": "peak_position",
+        "question": "Analyze this graph, where are each of the peaks located?",
+        "answer": "515"
+    },
+    "186": {
+        "image_id": "548",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "4200"
+    },
+    "187": {
+        "image_id": "859",
+        "question_type": "fwhm",
+        "question": "Can you imagine what the full width at half maximum of this material is?",
+        "answer": "60"
+    },
+    "188": {
+        "image_id": "671",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "3"
+    },
+    "189": {
+        "image_id": "161",
+        "question_type": "peak_number",
+        "question": "How many local maximum points are there in the image?",
+        "answer": "1"
+    },
+    "190": {
+        "image_id": "861",
+        "question_type": "shape",
+        "question": "Is there any peak overlap between these spectral graphs?",
+        "answer": "no"
+    },
+    "191": {
+        "image_id": "647",
+        "question_type": "peak_value",
+        "question": "What is the maximum value?",
+        "answer": "1200;600"
+    },
+    "192": {
+        "image_id": "427",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "193": {
+        "image_id": "8",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "None"
+    },
+    "194": {
+        "image_id": "777",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "None"
+    },
+    "195": {
+        "image_id": "836",
+        "question_type": "fwhm",
+        "question": "Measure the full width at half maximum of this material immediately.",
+        "answer": "50"
+    },
+    "196": {
+        "image_id": "354",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "490"
+    },
+    "197": {
+        "image_id": "832",
+        "question_type": "peak_position",
+        "question": "Calculate and report the horizontal coordinates of each peak on this spectral graph.",
+        "answer": "530"
+    },
+    "198": {
+        "image_id": "582",
+        "question_type": "peak_position",
+        "question": "At which horizontal coordinates are these peaks located?",
+        "answer": "364"
+    },
+    "199": {
+        "image_id": "608",
+        "question_type": "peak_number",
+        "question": "Can you identify the number of peaks shown in this image?",
+        "answer": "None"
+    },
+    "200": {
+        "image_id": "131",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "201": {
+        "image_id": "814",
+        "question_type": "peak_value",
+        "question": "What are the peak values at each point?",
+        "answer": "2500"
+    },
+    "202": {
+        "image_id": "256",
+        "question_type": "fwhm",
+        "question": "What is the numerical value of the full width at half maximum in this graph, can you help me look it up?",
+        "answer": "30"
+    },
+    "203": {
+        "image_id": "314",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "no"
+    },
+    "204": {
+        "image_id": "439",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric at the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "205": {
+        "image_id": "632",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "80"
+    },
+    "206": {
+        "image_id": "997",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric around the wavelength of the peak?",
+        "answer": "yes"
+    },
+    "207": {
+        "image_id": "501",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "365;445"
+    },
+    "208": {
+        "image_id": "254",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "209": {
+        "image_id": "158",
+        "question_type": "fwhm",
+        "question": "Can you tell me the half-peak width of each peak in this graph?",
+        "answer": "10"
+    },
+    "210": {
+        "image_id": "1030",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "8"
+    },
+    "211": {
+        "image_id": "612",
+        "question_type": "shape",
+        "question": "Is the peak shape at the peak wavelength in the image symmetric?",
+        "answer": "yes"
+    },
+    "212": {
+        "image_id": "682",
+        "question_type": "peak_value",
+        "question": "What exactly value is the peak?",
+        "answer": "None"
+    },
+    "213": {
+        "image_id": "936",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "10"
+    },
+    "214": {
+        "image_id": "849",
+        "question_type": "shape",
+        "question": "Analyze these spectral graphs, is it possible to observe peak overlap?",
+        "answer": "no"
+    },
+    "215": {
+        "image_id": "843",
+        "question_type": "fwhm",
+        "question": "If you know, could you share the full width at half maximum data of this material?",
+        "answer": "60"
+    },
+    "216": {
+        "image_id": "199",
+        "question_type": "peak_position",
+        "question": "What is the distribution of peak positions on the x-axis?",
+        "answer": "370"
+    },
+    "217": {
+        "image_id": "739",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetrical on either side of the wavelength at its maximum?",
+        "answer": "yes"
+    },
+    "218": {
+        "image_id": "726",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in total?",
+        "answer": "1"
+    },
+    "219": {
+        "image_id": "593",
+        "question_type": "peak_position",
+        "question": "At which positions on the horizontal axis do the peak values correspond?",
+        "answer": "362"
+    },
+    "220": {
+        "image_id": "602",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "None"
+    },
+    "221": {
+        "image_id": "906",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "222": {
+        "image_id": "336",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "None"
+    },
+    "223": {
+        "image_id": "712",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "20"
+    },
+    "224": {
+        "image_id": "436",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinate of each peak in this image?",
+        "answer": "520"
+    },
+    "225": {
+        "image_id": "425",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "24"
+    },
+    "226": {
+        "image_id": "441",
+        "question_type": "peak_number",
+        "question": "How many peak values are displayed in this image?",
+        "answer": "1"
+    },
+    "227": {
+        "image_id": "301",
+        "question_type": "peak_value",
+        "question": "Can you directly provide the peak values of all the peaks in this graph?",
+        "answer": "675;1450"
+    },
+    "228": {
+        "image_id": "334",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "229": {
+        "image_id": "1012",
+        "question_type": "peak_value",
+        "question": "What are the values of these peaks?",
+        "answer": "22000"
+    },
+    "230": {
+        "image_id": "206",
+        "question_type": "peak_value",
+        "question": "What are the highest values for each peak?",
+        "answer": "3400;1800"
+    },
+    "231": {
+        "image_id": "333",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "6;6;6;8;8"
+    },
+    "232": {
+        "image_id": "552",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "800"
+    },
+    "233": {
+        "image_id": "105",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "14500;8000;5000;3500"
+    },
+    "234": {
+        "image_id": "392",
+        "question_type": "peak_value",
+        "question": "Can you tell me the peak values of each peak?",
+        "answer": "33000"
+    },
+    "235": {
+        "image_id": "135",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "None"
+    },
+    "236": {
+        "image_id": "743",
+        "question_type": "shape",
+        "question": "Is the peak symmetrically disposed around its wavelength of peak position?",
+        "answer": "yes"
+    },
+    "237": {
+        "image_id": "830",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "30"
+    },
+    "238": {
+        "image_id": "966",
+        "question_type": "peak_number",
+        "question": "Based on the data in the graph, how many peaks are there in total?",
+        "answer": "1"
+    },
+    "239": {
+        "image_id": "186",
+        "question_type": "fwhm",
+        "question": "What is the width at half the maximum height of the peak?",
+        "answer": "None"
+    },
+    "240": {
+        "image_id": "549",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "750"
+    },
+    "241": {
+        "image_id": "975",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph?",
+        "answer": "1"
+    },
+    "242": {
+        "image_id": "659",
+        "question_type": "peak_position",
+        "question": "Write out the abscissa of each peak",
+        "answer": "385;450"
+    },
+    "243": {
+        "image_id": "166",
+        "question_type": "peak_position",
+        "question": "What is the distribution of the positions of these peaks on the x-axis?",
+        "answer": "305"
+    },
+    "244": {
+        "image_id": "101",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "245": {
+        "image_id": "295",
+        "question_type": "shape",
+        "question": "Is the phenomenon in the graph background noise?",
+        "answer": "no"
+    },
+    "246": {
+        "image_id": "933",
+        "question_type": "shape",
+        "question": "Are the peaks in this spectrum represented as background noise?",
+        "answer": "no"
+    },
+    "247": {
+        "image_id": "282",
+        "question_type": "peak_value",
+        "question": "Could you use your professional knowledge to help me analyze the peak value in this graph?",
+        "answer": "575;1200"
+    },
+    "248": {
+        "image_id": "948",
+        "question_type": "peak_number",
+        "question": "How many peaks does this graph show?",
+        "answer": "None"
+    },
+    "249": {
+        "image_id": "919",
+        "question_type": "shape",
+        "question": "Please let me know if there is peak overlap after your check.",
+        "answer": "no"
+    },
+    "250": {
+        "image_id": "565",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "2"
+    },
+    "251": {
+        "image_id": "965",
+        "question_type": "fwhm",
+        "question": "Please measure and tell me the half-peak widths of these peaks?",
+        "answer": "20"
+    },
+    "252": {
+        "image_id": "592",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "253": {
+        "image_id": "720",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "20"
+    },
+    "254": {
+        "image_id": "677",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "10;5;5"
+    },
+    "255": {
+        "image_id": "823",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate position of each peak?",
+        "answer": "530"
+    },
+    "256": {
+        "image_id": "548",
+        "question_type": "peak_number",
+        "question": "Can you identify the number of peaks shown in this image?",
+        "answer": "1"
+    },
+    "257": {
+        "image_id": "562",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "900;1200"
+    },
+    "258": {
+        "image_id": "244",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "259": {
+        "image_id": "362",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what is the half-peak width of each peak?",
+        "answer": "None"
+    },
+    "260": {
+        "image_id": "72",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "21000;23000;26000;13000;39000"
+    },
+    "261": {
+        "image_id": "310",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "no"
+    },
+    "262": {
+        "image_id": "396",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "263": {
+        "image_id": "935",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "264": {
+        "image_id": "787",
+        "question_type": "peak_number",
+        "question": "How many peak areas are there in an image?",
+        "answer": "6"
+    },
+    "265": {
+        "image_id": "61",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "266": {
+        "image_id": "195",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "8"
+    },
+    "267": {
+        "image_id": "527",
+        "question_type": "peak_number",
+        "question": "Please identify and tell me how many prominent peaks are in the image.",
+        "answer": "1"
+    },
+    "268": {
+        "image_id": "402",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "269": {
+        "image_id": "689",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "None"
+    },
+    "270": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "no"
+    },
+    "271": {
+        "image_id": "855",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "60"
+    },
+    "272": {
+        "image_id": "928",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "30"
+    },
+    "273": {
+        "image_id": "315",
+        "question_type": "shape",
+        "question": "Based on spectral analysis, can the phenomena in the graph be identified as background noise?",
+        "answer": "no"
+    },
+    "274": {
+        "image_id": "722",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this picture?",
+        "answer": "1"
+    },
+    "275": {
+        "image_id": "64",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "30"
+    },
+    "276": {
+        "image_id": "910",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "277": {
+        "image_id": "603",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "None"
+    },
+    "278": {
+        "image_id": "546",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinates of each peak in this image?",
+        "answer": "360;380;730"
+    },
+    "279": {
+        "image_id": "435",
+        "question_type": "shape",
+        "question": "Is the peak value shape symmetric on both sides of the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "280": {
+        "image_id": "556",
+        "question_type": "peak_value",
+        "question": "Based on the provided image, what are the values of the peaks?",
+        "answer": "540"
+    },
+    "281": {
+        "image_id": "430",
+        "question_type": "peak_position",
+        "question": "Analyze this graph, where are each of the peaks located?",
+        "answer": "520"
+    },
+    "282": {
+        "image_id": "561",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "850;1400"
+    },
+    "283": {
+        "image_id": "544",
+        "question_type": "peak_value",
+        "question": "By observing this image, can you tell me the value of each peak?",
+        "answer": "None"
+    },
+    "284": {
+        "image_id": "502",
+        "question_type": "peak_position",
+        "question": "At which horizontal coordinates are these peaks located?",
+        "answer": "450"
+    },
+    "285": {
+        "image_id": "322",
+        "question_type": "shape",
+        "question": "What are the professional standards for peak overlap in this graph?",
+        "answer": "no"
+    },
+    "286": {
+        "image_id": "625",
+        "question_type": "shape",
+        "question": "Is the peak value shape symmetric on both sides of the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "287": {
+        "image_id": "622",
+        "question_type": "shape",
+        "question": "Observing the image,can you tell me if the image shows the left half-peak？",
+        "answer": "yes"
+    },
+    "288": {
+        "image_id": "980",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak?",
+        "answer": "6400"
+    },
+    "289": {
+        "image_id": "636",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "None"
+    },
+    "290": {
+        "image_id": "264",
+        "question_type": "peak_value",
+        "question": "Based on spectral analysis, what is the height of the peak?",
+        "answer": "575;1300"
+    },
+    "291": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "no"
+    },
+    "292": {
+        "image_id": "839",
+        "question_type": "shape",
+        "question": "If you find any peak overlap, please inform me.",
+        "answer": "no"
+    },
+    "293": {
+        "image_id": "715",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "1"
+    },
+    "294": {
+        "image_id": "112",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "None"
+    },
+    "295": {
+        "image_id": "487",
+        "question_type": "shape",
+        "question": "Is the spectrum shown in the image considered background noise?",
+        "answer": "yes"
+    },
+    "296": {
+        "image_id": "529",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "39000"
+    },
+    "297": {
+        "image_id": "301",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "no"
+    },
+    "298": {
+        "image_id": "591",
+        "question_type": "peak_number",
+        "question": "How many peak values are displayed in this image?",
+        "answer": "1"
+    },
+    "299": {
+        "image_id": "428",
+        "question_type": "peak_number",
+        "question": "How many peaks are contained in this graph?",
+        "answer": "1"
+    },
+    "300": {
+        "image_id": "954",
+        "question_type": "peak_position",
+        "question": "Where is each peak in this graph?",
+        "answer": "None"
+    },
+    "301": {
+        "image_id": "694",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "40"
+    },
+    "302": {
+        "image_id": "305",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "303": {
+        "image_id": "160",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "12"
+    },
+    "304": {
+        "image_id": "305",
+        "question_type": "shape",
+        "question": "Is the axis of symmetry for the waveform the peak wavelength in the graph?",
+        "answer": "no"
+    },
+    "305": {
+        "image_id": "945",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "None"
+    },
+    "306": {
+        "image_id": "48",
+        "question_type": "peak_value",
+        "question": "What is the highest point in each peak?",
+        "answer": "490"
+    },
+    "307": {
+        "image_id": "474",
+        "question_type": "peak_position",
+        "question": "Can you tell me the x-coordinate position of each peak value in the image?",
+        "answer": "362"
+    },
+    "308": {
+        "image_id": "250",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "309": {
+        "image_id": "752",
+        "question_type": "peak_position",
+        "question": "What is the distribution of the positions of these peaks on the x-axis?",
+        "answer": "390"
+    },
+    "310": {
+        "image_id": "583",
+        "question_type": "peak_position",
+        "question": "At which positions on the horizontal axis do the peak values correspond?",
+        "answer": "364"
+    },
+    "311": {
+        "image_id": "615",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "9"
+    },
+    "312": {
+        "image_id": "248",
+        "question_type": "peak_value",
+        "question": "What is the value of the peak that appears in the chart?",
+        "answer": "32000"
+    },
+    "313": {
+        "image_id": "897",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "30"
+    },
+    "314": {
+        "image_id": "624",
+        "question_type": "fwhm",
+        "question": "Tell me the full width at half maximum of each peak in the image.",
+        "answer": "None"
+    },
+    "315": {
+        "image_id": "468",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "14000"
+    },
+    "316": {
+        "image_id": "1004",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric along the wavelength?",
+        "answer": "no"
+    },
+    "317": {
+        "image_id": "1008",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric with respect to the peak wavelength?",
+        "answer": "yes"
+    },
+    "318": {
+        "image_id": "328",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "319": {
+        "image_id": "195",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "362"
+    },
+    "320": {
+        "image_id": "884",
+        "question_type": "shape",
+        "question": "Analyze these spectral graphs, is it possible to observe peak overlap?",
+        "answer": "no"
+    },
+    "321": {
+        "image_id": "808",
+        "question_type": "shape",
+        "question": "Are we able to observe a superposition of these two peaks?",
+        "answer": "yes"
+    },
+    "322": {
+        "image_id": "40",
+        "question_type": "peak_position",
+        "question": "What is the central wavelength of the peak",
+        "answer": "490;495;510;520"
+    },
+    "323": {
+        "image_id": "300",
+        "question_type": "peak_value",
+        "question": "Could you list out the peak values of all the peaks in the graph?",
+        "answer": "600;1450"
+    },
+    "324": {
+        "image_id": "96",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "None"
+    },
+    "325": {
+        "image_id": "564",
+        "question_type": "peak_number",
+        "question": "In this image, how many peaks can you observe?",
+        "answer": "1"
+    },
+    "326": {
+        "image_id": "12",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "467;541"
+    },
+    "327": {
+        "image_id": "49",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "760"
+    },
+    "328": {
+        "image_id": "346",
+        "question_type": "peak_position",
+        "question": "Could you tell me the specific positions of each peak in the graph?",
+        "answer": "None"
+    },
+    "329": {
+        "image_id": "324",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "330": {
+        "image_id": "934",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "307"
+    },
+    "331": {
+        "image_id": "723",
+        "question_type": "peak_position",
+        "question": "What is the central wavelength of the peak",
+        "answer": "510"
+    },
+    "332": {
+        "image_id": "421",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "333": {
+        "image_id": "994",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "304"
+    },
+    "334": {
+        "image_id": "963",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "335": {
+        "image_id": "179",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "1750"
+    },
+    "336": {
+        "image_id": "746",
+        "question_type": "shape",
+        "question": "Can we detect any overlap of the two peaks in the spectrum?",
+        "answer": "no"
+    },
+    "337": {
+        "image_id": "993",
+        "question_type": "fwhm",
+        "question": "What are the specific half-peak width values of each peak?",
+        "answer": "None"
+    },
+    "338": {
+        "image_id": "646",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak",
+        "answer": "1400;1500"
+    },
+    "339": {
+        "image_id": "688",
+        "question_type": "peak_position",
+        "question": "At which points on the x-axis are these peaks located?",
+        "answer": "None"
+    },
+    "340": {
+        "image_id": "1003",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph?",
+        "answer": "1"
+    },
+    "341": {
+        "image_id": "569",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "540"
+    },
+    "342": {
+        "image_id": "790",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "42000;50000;44000;32000;22000;14000"
+    },
+    "343": {
+        "image_id": "931",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric along the wavelength?",
+        "answer": "yes"
+    },
+    "344": {
+        "image_id": "194",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "362"
+    },
+    "345": {
+        "image_id": "24",
+        "question_type": "peak_position",
+        "question": "Could you describe the range of data displayed in the chart?",
+        "answer": "0 ;1600"
+    },
+    "346": {
+        "image_id": "695",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "600;1400"
+    },
+    "347": {
+        "image_id": "742",
+        "question_type": "peak_number",
+        "question": "May I ask how many peak areas are there in this image?",
+        "answer": "1"
+    },
+    "348": {
+        "image_id": "976",
+        "question_type": "fwhm",
+        "question": "Can you tell me the half-peak width of each peak in this graph?",
+        "answer": "13"
+    },
+    "349": {
+        "image_id": "1007",
+        "question_type": "peak_value",
+        "question": "Can you tell me the peak values of each peak?",
+        "answer": "None"
+    },
+    "350": {
+        "image_id": "988",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "440"
+    },
+    "351": {
+        "image_id": "606",
+        "question_type": "peak_number",
+        "question": "Can you help me count the total number of peaks in the image?",
+        "answer": "None"
+    },
+    "352": {
+        "image_id": "318",
+        "question_type": "shape",
+        "question": "If the waveform in the graph is symmetrical with the peak wavelength as the center?",
+        "answer": "no"
+    },
+    "353": {
+        "image_id": "819",
+        "question_type": "peak_value",
+        "question": "What is the value for each peak?",
+        "answer": "2500;17500;12500;10000;5000;2500"
+    },
+    "354": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "When exploring these spectral graphs, can we identify symmetry?",
+        "answer": "no"
+    },
+    "355": {
+        "image_id": "320",
+        "question_type": "peak_value",
+        "question": "Could you analyze the peak values of each peak in this graph based on spectral characteristics?",
+        "answer": "58000"
+    },
+    "356": {
+        "image_id": "457",
+        "question_type": "peak_position",
+        "question": "Where is the exact horizontal position of each peak in the image?",
+        "answer": "523"
+    },
+    "357": {
+        "image_id": "204",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "363"
+    },
+    "358": {
+        "image_id": "554",
+        "question_type": "peak_value",
+        "question": "By observing this image, can you tell me the value of each peak?",
+        "answer": "600"
+    },
+    "359": {
+        "image_id": "271",
+        "question_type": "fwhm",
+        "question": "Could you help me determine the numerical value of the full width at half maximum in this graph from a professional standpoint?",
+        "answer": "5;20"
+    },
+    "360": {
+        "image_id": "530",
+        "question_type": "peak_position",
+        "question": "What is the position of each peak on the horizontal axis of this image?",
+        "answer": "520"
+    },
+    "361": {
+        "image_id": "83",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "None"
+    },
+    "362": {
+        "image_id": "522",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "363": {
+        "image_id": "535",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "1"
+    },
+    "364": {
+        "image_id": "301",
+        "question_type": "shape",
+        "question": "Are these fluctuations manifestations of background noise on this graph?",
+        "answer": "no"
+    },
+    "365": {
+        "image_id": "858",
+        "question_type": "peak_position",
+        "question": "What are the horizontal coordinates of the peaks on this spectral graph, could you help me confirm that?",
+        "answer": "540"
+    },
+    "366": {
+        "image_id": "77",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "500"
+    },
+    "367": {
+        "image_id": "258",
+        "question_type": "shape",
+        "question": "Is this graph indicating the existence of a laser?",
+        "answer": "no"
+    },
+    "368": {
+        "image_id": "776",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "48000;46000;34000;20000;10000"
+    },
+    "369": {
+        "image_id": "791",
+        "question_type": "peak_value",
+        "question": "May I ask what are the peak values of each peak?",
+        "answer": "33000;32000;30000;20000;12000;6000"
+    },
+    "370": {
+        "image_id": "3",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "1"
+    },
+    "371": {
+        "image_id": "839",
+        "question_type": "fwhm",
+        "question": "Assess the full width at half maximum of this spectrum, I need the exact value.",
+        "answer": "50"
+    },
+    "372": {
+        "image_id": "714",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "20"
+    },
+    "373": {
+        "image_id": "737",
+        "question_type": "peak_number",
+        "question": "How many highest points are there in the image?",
+        "answer": "1"
+    },
+    "374": {
+        "image_id": "903",
+        "question_type": "peak_value",
+        "question": "Assess these spectral graphs and then list the numerical values of the peaks.",
+        "answer": "32000"
+    },
+    "375": {
+        "image_id": "94",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "None"
+    },
+    "376": {
+        "image_id": "1026",
+        "question_type": "peak_number",
+        "question": "Based on the data in the graph, how many peaks are there in total?",
+        "answer": "1"
+    },
+    "377": {
+        "image_id": "179",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "378": {
+        "image_id": "612",
+        "question_type": "peak_position",
+        "question": "At which horizontal coordinates are these peaks located?",
+        "answer": "355"
+    },
+    "379": {
+        "image_id": "871",
+        "question_type": "shape",
+        "question": "For accurate analysis, we need to determine whether there is peak overlap in these spectral graphs.",
+        "answer": "no"
+    },
+    "380": {
+        "image_id": "788",
+        "question_type": "peak_number",
+        "question": "May I ask what is the peak distribution of this image?",
+        "answer": "6"
+    },
+    "381": {
+        "image_id": "110",
+        "question_type": "peak_value",
+        "question": "What are the specific values of the peaks",
+        "answer": "2100;2100;2000"
+    },
+    "382": {
+        "image_id": "548",
+        "question_type": "shape",
+        "question": "Does the peak shape in the image show symmetry along the peak wavelength?",
+        "answer": "yes"
+    },
+    "383": {
+        "image_id": "765",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "2"
+    },
+    "384": {
+        "image_id": "175",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "380;390;410;455;470"
+    },
+    "385": {
+        "image_id": "388",
+        "question_type": "shape",
+        "question": "Observing the image,can you tell me if the image shows the left half-peak？",
+        "answer": "no"
+    },
+    "386": {
+        "image_id": "776",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "387": {
+        "image_id": "120",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "563;578;592;608"
+    },
+    "388": {
+        "image_id": "326",
+        "question_type": "shape",
+        "question": "Is there background noise hidden in the fluctuations of this graph?",
+        "answer": "no"
+    },
+    "389": {
+        "image_id": "126",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "555;563;582;595;613"
+    },
+    "390": {
+        "image_id": "408",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak?",
+        "answer": "33000"
+    },
+    "391": {
+        "image_id": "698",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "490"
+    },
+    "392": {
+        "image_id": "5",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "30"
+    },
+    "393": {
+        "image_id": "753",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetrical on either side of the wavelength at its maximum?",
+        "answer": "no"
+    },
+    "394": {
+        "image_id": "965",
+        "question_type": "peak_position",
+        "question": "Can you describe the positions of each peak in this graph?",
+        "answer": "450"
+    },
+    "395": {
+        "image_id": "972",
+        "question_type": "peak_number",
+        "question": "Based on the data in the graph, how many peaks are there in total?",
+        "answer": "1"
+    },
+    "396": {
+        "image_id": "205",
+        "question_type": "peak_value",
+        "question": "What are the peak values at each point?",
+        "answer": "8000"
+    },
+    "397": {
+        "image_id": "853",
+        "question_type": "shape",
+        "question": "Analyze these spectral graphs, is it possible to observe peak overlap?",
+        "answer": "no"
+    },
+    "398": {
+        "image_id": "494",
+        "question_type": "peak_position",
+        "question": "Can you tell me the x-coordinate position of each peak value in the image?",
+        "answer": "None"
+    },
+    "399": {
+        "image_id": "419",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "400": {
+        "image_id": "102",
+        "question_type": "peak_position",
+        "question": "What is the center position of each peak",
+        "answer": "760"
+    },
+    "401": {
+        "image_id": "815",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "402": {
+        "image_id": "934",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "403": {
+        "image_id": "850",
+        "question_type": "peak_position",
+        "question": "What material properties are revealed by the horizontal coordinates of the peaks on this spectral graph?",
+        "answer": "400;530"
+    },
+    "404": {
+        "image_id": "713",
+        "question_type": "peak_position",
+        "question": "What is the central wavelength of the peak",
+        "answer": "445"
+    },
+    "405": {
+        "image_id": "238",
+        "question_type": "shape",
+        "question": "Is there a noticeable overlap between the peaks in the image?",
+        "answer": "no"
+    },
+    "406": {
+        "image_id": "345",
+        "question_type": "shape",
+        "question": "Are the peaks in this spectrum represented as background noise?",
+        "answer": "yes"
+    },
+    "407": {
+        "image_id": "225",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate position of each peak?",
+        "answer": "318"
+    },
+    "408": {
+        "image_id": "984",
+        "question_type": "peak_position",
+        "question": "Where are these peaks located respectively?",
+        "answer": "310"
+    },
+    "409": {
+        "image_id": "293",
+        "question_type": "shape",
+        "question": "Is it background noise?",
+        "answer": "no"
+    },
+    "410": {
+        "image_id": "10",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "2050"
+    },
+    "411": {
+        "image_id": "740",
+        "question_type": "peak_number",
+        "question": "How many local maximum points are there in the image?",
+        "answer": "1"
+    },
+    "412": {
+        "image_id": "670",
+        "question_type": "peak_value",
+        "question": "What is the peak of each peak",
+        "answer": "2400;3300"
+    },
+    "413": {
+        "image_id": "958",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "yes"
+    },
+    "414": {
+        "image_id": "337",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "380;386;392;400;405;415;425"
+    },
+    "415": {
+        "image_id": "634",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "None"
+    },
+    "416": {
+        "image_id": "708",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in total?",
+        "answer": "1"
+    },
+    "417": {
+        "image_id": "632",
+        "question_type": "peak_number",
+        "question": "How many peaks are there?",
+        "answer": "1"
+    },
+    "418": {
+        "image_id": "902",
+        "question_type": "fwhm",
+        "question": "Please help me confirm the full width at half maximum value of this spectral graph to avoid any misunderstanding.",
+        "answer": "30"
+    },
+    "419": {
+        "image_id": "467",
+        "question_type": "peak_position",
+        "question": "Where is the exact horizontal position of each peak in the image?",
+        "answer": "None"
+    },
+    "420": {
+        "image_id": "487",
+        "question_type": "peak_value",
+        "question": "Can you tell me the value of each peak in the image?",
+        "answer": "None"
+    },
+    "421": {
+        "image_id": "51",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "422": {
+        "image_id": "43",
+        "question_type": "shape",
+        "question": "Do the peaks overlap?",
+        "answer": "yes"
+    },
+    "423": {
+        "image_id": "308",
+        "question_type": "peak_value",
+        "question": "Excuse me, could you help me calculate the peak values of all the peaks in this graph?",
+        "answer": "375;900"
+    },
+    "424": {
+        "image_id": "586",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinates of each peak in this image?",
+        "answer": "None"
+    },
+    "425": {
+        "image_id": "249",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "426": {
+        "image_id": "362",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "None"
+    },
+    "427": {
+        "image_id": "404",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "428": {
+        "image_id": "631",
+        "question_type": "peak_position",
+        "question": "What is the peak position",
+        "answer": "780"
+    },
+    "429": {
+        "image_id": "271",
+        "question_type": "peak_position",
+        "question": "Could you use your professional knowledge to help me analyze the x-coordinate of the peak in this graph?",
+        "answer": "385;450"
+    },
+    "430": {
+        "image_id": "912",
+        "question_type": "shape",
+        "question": "Please let me know if there is peak overlap after your check.",
+        "answer": "no"
+    },
+    "431": {
+        "image_id": "812",
+        "question_type": "shape",
+        "question": "Are we able to observe a superposition of these two peaks?",
+        "answer": "yes"
+    },
+    "432": {
+        "image_id": "418",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "433": {
+        "image_id": "47",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "1"
+    },
+    "434": {
+        "image_id": "802",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "7"
+    },
+    "435": {
+        "image_id": "435",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "1"
+    },
+    "436": {
+        "image_id": "33",
+        "question_type": "shape",
+        "question": "Is there any overlap between these spectral peaks?",
+        "answer": "yes"
+    },
+    "437": {
+        "image_id": "657",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "10;20"
+    },
+    "438": {
+        "image_id": "81",
+        "question_type": "peak_value",
+        "question": "What is the maximum value?",
+        "answer": "10500;10500;6500;20000"
+    },
+    "439": {
+        "image_id": "604",
+        "question_type": "fwhm",
+        "question": "Tell me the full width at half maximum of each peak in the image.",
+        "answer": "9"
+    },
+    "440": {
+        "image_id": "37",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "441": {
+        "image_id": "390",
+        "question_type": "peak_position",
+        "question": "Could you tell me the specific positions of each peak in the graph?",
+        "answer": "520"
+    },
+    "442": {
+        "image_id": "348",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "None"
+    },
+    "443": {
+        "image_id": "322",
+        "question_type": "peak_value",
+        "question": "Could you calculate the peak values of each peak in this graph based on the principles of spectroscopy?",
+        "answer": "30000"
+    },
+    "444": {
+        "image_id": "154",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "2000"
+    },
+    "445": {
+        "image_id": "874",
+        "question_type": "fwhm",
+        "question": "To calibrate our measuring equipment, we need to know the full width at half maximum of this material.",
+        "answer": "60"
+    },
+    "446": {
+        "image_id": "742",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetrical along the peak position wavelength?",
+        "answer": "yes"
+    },
+    "447": {
+        "image_id": "57",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "30"
+    },
+    "448": {
+        "image_id": "564",
+        "question_type": "fwhm",
+        "question": "Tell me the full width at half maximum of each peak in the image.",
+        "answer": "7"
+    },
+    "449": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "Please describe in detail the phenomenon of peak overlap.",
+        "answer": "yes"
+    },
+    "450": {
+        "image_id": "13",
+        "question_type": "shape",
+        "question": "Is there an overlap area between two peaks?",
+        "answer": "no"
+    },
+    "451": {
+        "image_id": "319",
+        "question_type": "shape",
+        "question": "Are the fluctuations in this graph identified as background noise in spectroscopy?",
+        "answer": "no"
+    },
+    "452": {
+        "image_id": "588",
+        "question_type": "shape",
+        "question": "Observing the image,can you tell me if the image shows the left half-peak？",
+        "answer": "yes"
+    },
+    "453": {
+        "image_id": "660",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "2"
+    },
+    "454": {
+        "image_id": "946",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks respectively?",
+        "answer": "10"
+    },
+    "455": {
+        "image_id": "586",
+        "question_type": "peak_number",
+        "question": "Can you help me count the total number of peaks in the image?",
+        "answer": "None"
+    },
+    "456": {
+        "image_id": "822",
+        "question_type": "shape",
+        "question": "Is there a visible intersection or overlap where these two peaks meet?",
+        "answer": "yes"
+    },
+    "457": {
+        "image_id": "224",
+        "question_type": "peak_number",
+        "question": "How many peaks of signals can be identified in this image?",
+        "answer": "1"
+    },
+    "458": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "Explain the situation of peak overlap now.",
+        "answer": "yes"
+    },
+    "459": {
+        "image_id": "562",
+        "question_type": "shape",
+        "question": "Is there a noticeable overlap between the peaks in the image?",
+        "answer": "yes"
+    },
+    "460": {
+        "image_id": "121",
+        "question_type": "peak_value",
+        "question": "What is the maximum value?",
+        "answer": "3200;3700;3300;3000;2600"
+    },
+    "461": {
+        "image_id": "798",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "462": {
+        "image_id": "362",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "yes"
+    },
+    "463": {
+        "image_id": "575",
+        "question_type": "shape",
+        "question": "Is the peak value shape symmetric on both sides of the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "464": {
+        "image_id": "882",
+        "question_type": "peak_value",
+        "question": "When you analyze, please pay attention to the numerical values of the peaks on these spectral graphs.",
+        "answer": "42000"
+    },
+    "465": {
+        "image_id": "58",
+        "question_type": "peak_number",
+        "question": "How many peaks are there?",
+        "answer": "1"
+    },
+    "466": {
+        "image_id": "319",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "467": {
+        "image_id": "960",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "310"
+    },
+    "468": {
+        "image_id": "847",
+        "question_type": "peak_position",
+        "question": "We hope you can provide the horizontal coordinates of the peaks on the spectral graph of this material for further analysis.",
+        "answer": "400;530"
+    },
+    "469": {
+        "image_id": "896",
+        "question_type": "fwhm",
+        "question": "When providing a detailed description of the spectral characteristics, the value of the full width at half maximum is essential, please elaborate.",
+        "answer": "30"
+    },
+    "470": {
+        "image_id": "798",
+        "question_type": "peak_value",
+        "question": "What are the highest values of each peak?",
+        "answer": "16000"
+    },
+    "471": {
+        "image_id": "402",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what is the half-peak width of each peak?",
+        "answer": "29"
+    },
+    "472": {
+        "image_id": "769",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "54000;52000;40000;22000;14000;6000;20000"
+    },
+    "473": {
+        "image_id": "927",
+        "question_type": "peak_value",
+        "question": "The numerical values of the peaks are crucial for our quality control and material property analysis.",
+        "answer": "14000"
+    },
+    "474": {
+        "image_id": "916",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "475": {
+        "image_id": "827",
+        "question_type": "peak_number",
+        "question": "How many points have the highest local intensity in an image?",
+        "answer": "2"
+    },
+    "476": {
+        "image_id": "444",
+        "question_type": "peak_number",
+        "question": "In this image, how many peaks can you observe?",
+        "answer": "1"
+    },
+    "477": {
+        "image_id": "171",
+        "question_type": "peak_value",
+        "question": "What are the highest values for each peak?",
+        "answer": "1400;6600;1800"
+    },
+    "478": {
+        "image_id": "81",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "4"
+    },
+    "479": {
+        "image_id": "294",
+        "question_type": "shape",
+        "question": "Does this graph show background noise?",
+        "answer": "no"
+    },
+    "480": {
+        "image_id": "1023",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "279"
+    },
+    "481": {
+        "image_id": "48",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "1"
+    },
+    "482": {
+        "image_id": "343",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak?",
+        "answer": "None"
+    },
+    "483": {
+        "image_id": "986",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks respectively?",
+        "answer": "13"
+    },
+    "484": {
+        "image_id": "621",
+        "question_type": "fwhm",
+        "question": "By observing the image, please tell me the full width at half maximum of each peak.",
+        "answer": "10"
+    },
+    "485": {
+        "image_id": "879",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "520"
+    },
+    "486": {
+        "image_id": "967",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks respectively?",
+        "answer": "10"
+    },
+    "487": {
+        "image_id": "476",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinate of each peak in this image?",
+        "answer": "525"
+    },
+    "488": {
+        "image_id": "448",
+        "question_type": "peak_number",
+        "question": "Can you identify the number of peaks shown in this image?",
+        "answer": "1"
+    },
+    "489": {
+        "image_id": "299",
+        "question_type": "shape",
+        "question": "Are the fluctuations in this graph merely caused by background noise?",
+        "answer": "no"
+    },
+    "490": {
+        "image_id": "177",
+        "question_type": "peak_position",
+        "question": "What are the x-axis coordinates of these peaks?",
+        "answer": "412"
+    },
+    "491": {
+        "image_id": "386",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "492": {
+        "image_id": "455",
+        "question_type": "shape",
+        "question": "Is the peak value shape symmetric on both sides of the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "493": {
+        "image_id": "937",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "307"
+    },
+    "494": {
+        "image_id": "167",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "11"
+    },
+    "495": {
+        "image_id": "333",
+        "question_type": "peak_number",
+        "question": "How many peaks are contained in this graph?",
+        "answer": "7"
+    },
+    "496": {
+        "image_id": "260",
+        "question_type": "peak_number",
+        "question": "Could you please check this graph and inform me of the peak count?",
+        "answer": "1"
+    },
+    "497": {
+        "image_id": "162",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "13"
+    },
+    "498": {
+        "image_id": "990",
+        "question_type": "peak_position",
+        "question": "Where are these peaks located respectively?",
+        "answer": "445"
+    },
+    "499": {
+        "image_id": "646",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "385;450"
+    },
+    "500": {
+        "image_id": "227",
+        "question_type": "peak_position",
+        "question": "At which point on the x-axis are these peaks located?",
+        "answer": "415;458"
+    },
+    "501": {
+        "image_id": "6",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "25000;26000;26000;15000;44000"
+    },
+    "502": {
+        "image_id": "257",
+        "question_type": "fwhm",
+        "question": "Can you help me measure the value of the full width at half maximum in the graph?",
+        "answer": "32.5"
+    },
+    "503": {
+        "image_id": "980",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric around the wavelength of the peak?",
+        "answer": "yes"
+    },
+    "504": {
+        "image_id": "210",
+        "question_type": "shape",
+        "question": "Does the shape of the peak maintain symmetry across its wavelength of highest intensity?",
+        "answer": "yes"
+    },
+    "505": {
+        "image_id": "286",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "506": {
+        "image_id": "815",
+        "question_type": "peak_position",
+        "question": "May I ask what are the corresponding positions of the peak on the horizontal axis?",
+        "answer": "377;380;390;395;400;410;418;425"
+    },
+    "507": {
+        "image_id": "849",
+        "question_type": "peak_value",
+        "question": "What are the numerical values of the peak values on this spectral graph, could you help me confirm that?",
+        "answer": "62000;48000"
+    },
+    "508": {
+        "image_id": "540",
+        "question_type": "peak_position",
+        "question": "What is the position of each peak on the horizontal axis of this image?",
+        "answer": "445"
+    },
+    "509": {
+        "image_id": "363",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "yes"
+    },
+    "510": {
+        "image_id": "301",
+        "question_type": "shape",
+        "question": "Is there any sign of peak overlap in the graph?",
+        "answer": "no"
+    },
+    "511": {
+        "image_id": "84",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of these peaks?",
+        "answer": "None"
+    },
+    "512": {
+        "image_id": "759",
+        "question_type": "peak_number",
+        "question": "How many points have the highest local intensity in an image?",
+        "answer": "1"
+    },
+    "513": {
+        "image_id": "353",
+        "question_type": "peak_number",
+        "question": "How many peaks are contained in this graph?",
+        "answer": "None"
+    },
+    "514": {
+        "image_id": "373",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "2300"
+    },
+    "515": {
+        "image_id": "895",
+        "question_type": "fwhm",
+        "question": "To ensure our records are accurate, I need the specific value of the full width at half maximum for this material.",
+        "answer": "30"
+    },
+    "516": {
+        "image_id": "648",
+        "question_type": "peak_value",
+        "question": "What is the highest point in each peak?",
+        "answer": "1700;3500"
+    },
+    "517": {
+        "image_id": "426",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "26"
+    },
+    "518": {
+        "image_id": "246",
+        "question_type": "peak_number",
+        "question": "Examine the graph and determine the number of peaks.",
+        "answer": "1"
+    },
+    "519": {
+        "image_id": "373",
+        "question_type": "peak_number",
+        "question": "Please look at this chart and tell me how many peaks are there?",
+        "answer": "1"
+    },
+    "520": {
+        "image_id": "736",
+        "question_type": "peak_number",
+        "question": "May I ask what is the peak distribution of this image?",
+        "answer": "1"
+    },
+    "521": {
+        "image_id": "761",
+        "question_type": "peak_number",
+        "question": "May I ask what is the peak distribution of this image?",
+        "answer": "1"
+    },
+    "522": {
+        "image_id": "800",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "523": {
+        "image_id": "103",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "1"
+    },
+    "524": {
+        "image_id": "787",
+        "question_type": "shape",
+        "question": "Is there a visible intersection or overlap where these two peaks meet?",
+        "answer": "yes"
+    },
+    "525": {
+        "image_id": "374",
+        "question_type": "peak_number",
+        "question": "Please look at this chart and tell me how many peaks are there?",
+        "answer": "1"
+    },
+    "526": {
+        "image_id": "318",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "527": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "I would like to know if this is background noise.",
+        "answer": "no"
+    },
+    "528": {
+        "image_id": "393",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "529": {
+        "image_id": "168",
+        "question_type": "peak_position",
+        "question": "What is the distribution of peak positions on the x-axis?",
+        "answer": "303"
+    },
+    "530": {
+        "image_id": "364",
+        "question_type": "peak_value",
+        "question": "What are the peak values of these peaks?",
+        "answer": "None"
+    },
+    "531": {
+        "image_id": "7",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "495;500;510;520"
+    },
+    "532": {
+        "image_id": "451",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "2500"
+    },
+    "533": {
+        "image_id": "1023",
+        "question_type": "fwhm",
+        "question": "Please measure and tell me the half-peak widths of these peaks?",
+        "answer": "8"
+    },
+    "534": {
+        "image_id": "506",
+        "question_type": "fwhm",
+        "question": "Please provide the full widths at half maximum of all the peaks in the image.",
+        "answer": "20"
+    },
+    "535": {
+        "image_id": "707",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "30"
+    },
+    "536": {
+        "image_id": "658",
+        "question_type": "peak_number",
+        "question": "how many peaks are there?",
+        "answer": "2"
+    },
+    "537": {
+        "image_id": "246",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "538": {
+        "image_id": "136",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "400;900;1400;1500;1700;1500;1200;800;500"
+    },
+    "539": {
+        "image_id": "207",
+        "question_type": "peak_position",
+        "question": "What are the x-axis coordinates of these peaks?",
+        "answer": "358;393"
+    },
+    "540": {
+        "image_id": "221",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "322"
+    },
+    "541": {
+        "image_id": "9",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "16000"
+    },
+    "542": {
+        "image_id": "926",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "520"
+    },
+    "543": {
+        "image_id": "552",
+        "question_type": "shape",
+        "question": "Is the peak shape at the peak wavelength in the image symmetric?",
+        "answer": "no"
+    },
+    "544": {
+        "image_id": "717",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "545": {
+        "image_id": "279",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "515"
+    },
+    "546": {
+        "image_id": "36",
+        "question_type": "peak_number",
+        "question": "What are the number of peaks in this range?",
+        "answer": "3"
+    },
+    "547": {
+        "image_id": "920",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "445"
+    },
+    "548": {
+        "image_id": "363",
+        "question_type": "peak_value",
+        "question": "What values do these peaks each reach?",
+        "answer": "None"
+    },
+    "549": {
+        "image_id": "854",
+        "question_type": "peak_position",
+        "question": "Please point out the horizontal coordinates of each peak on this spectral graph.",
+        "answer": "530"
+    },
+    "550": {
+        "image_id": "641",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "350"
+    },
+    "551": {
+        "image_id": "386",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "519"
+    },
+    "552": {
+        "image_id": "795",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate value of each peak?",
+        "answer": "760;770;780;795;810"
+    },
+    "553": {
+        "image_id": "969",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric around the wavelength of the peak?",
+        "answer": "yes"
+    },
+    "554": {
+        "image_id": "276",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "367.5;390;455"
+    },
+    "555": {
+        "image_id": "307",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "no"
+    },
+    "556": {
+        "image_id": "24",
+        "question_type": "peak_value",
+        "question": "Could you provide the specific value of each peak?",
+        "answer": "530"
+    },
+    "557": {
+        "image_id": "643",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "558": {
+        "image_id": "84",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "None"
+    },
+    "559": {
+        "image_id": "731",
+        "question_type": "peak_value",
+        "question": "What are the peak values?",
+        "answer": "1050;700"
+    },
+    "560": {
+        "image_id": "607",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "10"
+    },
+    "561": {
+        "image_id": "838",
+        "question_type": "shape",
+        "question": "I hope you can point out whether there is peak overlap when you study.",
+        "answer": "no"
+    },
+    "562": {
+        "image_id": "537",
+        "question_type": "peak_value",
+        "question": "Can you tell me the value of each peak in the image?",
+        "answer": "28000"
+    },
+    "563": {
+        "image_id": "329",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "no"
+    },
+    "564": {
+        "image_id": "1009",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "565": {
+        "image_id": "573",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "None"
+    },
+    "566": {
+        "image_id": "394",
+        "question_type": "peak_value",
+        "question": "What are the peak values of these peaks?",
+        "answer": "16500"
+    },
+    "567": {
+        "image_id": "979",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "8"
+    },
+    "568": {
+        "image_id": "209",
+        "question_type": "peak_number",
+        "question": "How many highest points are there in the image?",
+        "answer": "2"
+    },
+    "569": {
+        "image_id": "414",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "27"
+    },
+    "570": {
+        "image_id": "787",
+        "question_type": "peak_value",
+        "question": "What is the value for each peak?",
+        "answer": "46000;42000;38000;26000;18000;10000"
+    },
+    "571": {
+        "image_id": "430",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak?",
+        "answer": "2400"
+    },
+    "572": {
+        "image_id": "796",
+        "question_type": "shape",
+        "question": "Can we detect any overlap of the two peaks in the spectrum?",
+        "answer": "yes"
+    },
+    "573": {
+        "image_id": "175",
+        "question_type": "peak_number",
+        "question": "How many peak areas are there in an image?",
+        "answer": "5"
+    },
+    "574": {
+        "image_id": "1019",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "325"
+    },
+    "575": {
+        "image_id": "953",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "576": {
+        "image_id": "360",
+        "question_type": "fwhm",
+        "question": "Can you tell me the half-peak width of each peak in this graph?",
+        "answer": "100;100"
+    },
+    "577": {
+        "image_id": "745",
+        "question_type": "shape",
+        "question": "Is there a symmetrical distribution of the peak's intensity along the peak wavelength?",
+        "answer": "yes"
+    },
+    "578": {
+        "image_id": "944",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "579": {
+        "image_id": "275",
+        "question_type": "peak_value",
+        "question": "Could you use your professional knowledge to help me analyze the peak value in this graph?",
+        "answer": "625;1700"
+    },
+    "580": {
+        "image_id": "708",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "510"
+    },
+    "581": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "Is there a noticeable overlap between the peaks in the image?",
+        "answer": "no"
+    },
+    "582": {
+        "image_id": "875",
+        "question_type": "shape",
+        "question": "For our detailed analysis, we need to know if there is any peak overlap.",
+        "answer": "no"
+    },
+    "583": {
+        "image_id": "358",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what are the half-peak widths of each peak?",
+        "answer": "60;80"
+    },
+    "584": {
+        "image_id": "762",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "20"
+    },
+    "585": {
+        "image_id": "979",
+        "question_type": "peak_position",
+        "question": "Where is the center of each peak",
+        "answer": "305"
+    },
+    "586": {
+        "image_id": "196",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "8000"
+    },
+    "587": {
+        "image_id": "339",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "None"
+    },
+    "588": {
+        "image_id": "549",
+        "question_type": "peak_number",
+        "question": "Can you help me count the number of peaks in the image?",
+        "answer": "1"
+    },
+    "589": {
+        "image_id": "350",
+        "question_type": "peak_position",
+        "question": "Where is each peak located in this graph?",
+        "answer": "None"
+    },
+    "590": {
+        "image_id": "386",
+        "question_type": "peak_value",
+        "question": "What values do these peaks each reach?",
+        "answer": "21200"
+    },
+    "591": {
+        "image_id": "903",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "592": {
+        "image_id": "831",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "593": {
+        "image_id": "298",
+        "question_type": "shape",
+        "question": "Can the fluctuations in the graph be attributed to background noise?",
+        "answer": "no"
+    },
+    "594": {
+        "image_id": "354",
+        "question_type": "fwhm",
+        "question": "Can you tell me the half-peak width of each peak in this graph?",
+        "answer": "20"
+    },
+    "595": {
+        "image_id": "675",
+        "question_type": "peak_position",
+        "question": "What is the center position of each peak",
+        "answer": "385;450"
+    },
+    "596": {
+        "image_id": "405",
+        "question_type": "peak_position",
+        "question": "Where is each peak located in this graph?",
+        "answer": "515"
+    },
+    "597": {
+        "image_id": "714",
+        "question_type": "peak_position",
+        "question": "Write out the abscissa of each peak",
+        "answer": "445"
+    },
+    "598": {
+        "image_id": "822",
+        "question_type": "peak_number",
+        "question": "May I ask what is the peak distribution of this image?",
+        "answer": "2"
+    },
+    "599": {
+        "image_id": "612",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "600": {
+        "image_id": "27",
+        "question_type": "fwhm",
+        "question": "Could you analyze and inform me of the half width of each peak?",
+        "answer": "30;60"
+    },
+    "601": {
+        "image_id": "561",
+        "question_type": "peak_number",
+        "question": "How many peak values are displayed in this image?",
+        "answer": "2"
+    },
+    "602": {
+        "image_id": "41",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "None"
+    },
+    "603": {
+        "image_id": "23",
+        "question_type": "peak_position",
+        "question": "Could you describe the range of data displayed in the chart?",
+        "answer": "0 ;1600"
+    },
+    "604": {
+        "image_id": "247",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "605": {
+        "image_id": "475",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "1"
+    },
+    "606": {
+        "image_id": "219",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "14000"
+    },
+    "607": {
+        "image_id": "451",
+        "question_type": "peak_number",
+        "question": "How many peak values are displayed in this image?",
+        "answer": "1"
+    },
+    "608": {
+        "image_id": "704",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "30"
+    },
+    "609": {
+        "image_id": "672",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "385;450"
+    },
+    "610": {
+        "image_id": "24",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "600"
+    },
+    "611": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "612": {
+        "image_id": "387",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "613": {
+        "image_id": "90",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "None"
+    },
+    "614": {
+        "image_id": "369",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "None"
+    },
+    "615": {
+        "image_id": "680",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "3"
+    },
+    "616": {
+        "image_id": "586",
+        "question_type": "shape",
+        "question": "Based on the image, can confirm if this spectrum is background noise?",
+        "answer": "yes"
+    },
+    "617": {
+        "image_id": "851",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "400;540"
+    },
+    "618": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "Does the fluctuation in this graph indicate background noise in professional analysis?",
+        "answer": "no"
+    },
+    "619": {
+        "image_id": "296",
+        "question_type": "shape",
+        "question": "Are there any parts of the peaks overlap in this graph?",
+        "answer": "no"
+    },
+    "620": {
+        "image_id": "1025",
+        "question_type": "peak_position",
+        "question": "Where are these peaks located respectively?",
+        "answer": "278"
+    },
+    "621": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "Check and report whether this is a laser.",
+        "answer": "no"
+    },
+    "622": {
+        "image_id": "637",
+        "question_type": "peak_value",
+        "question": "What exactly value is the peak?",
+        "answer": "None"
+    },
+    "623": {
+        "image_id": "156",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "307"
+    },
+    "624": {
+        "image_id": "1022",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph?",
+        "answer": "1"
+    },
+    "625": {
+        "image_id": "650",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "10;20"
+    },
+    "626": {
+        "image_id": "888",
+        "question_type": "shape",
+        "question": "I need the details of the peak overlap, and I want them now.",
+        "answer": "yes"
+    },
+    "627": {
+        "image_id": "560",
+        "question_type": "peak_number",
+        "question": "How many peaks are in this image?",
+        "answer": "2"
+    },
+    "628": {
+        "image_id": "723",
+        "question_type": "fwhm",
+        "question": "Can you give the width of the half-peak of each peak",
+        "answer": "20"
+    },
+    "629": {
+        "image_id": "674",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "5;5;20"
+    },
+    "630": {
+        "image_id": "23",
+        "question_type": "peak_number",
+        "question": "Could you analyze the data in the chart and tell me the total number of peaks?",
+        "answer": "1"
+    },
+    "631": {
+        "image_id": "439",
+        "question_type": "peak_number",
+        "question": "Can you help me count the number of peaks in the image?",
+        "answer": "1"
+    },
+    "632": {
+        "image_id": "298",
+        "question_type": "shape",
+        "question": "Does this spectrum graph show any overlap peaks?",
+        "answer": "no"
+    },
+    "633": {
+        "image_id": "136",
+        "question_type": "peak_number",
+        "question": "How many peak areas are there in an image?",
+        "answer": "9"
+    },
+    "634": {
+        "image_id": "246",
+        "question_type": "peak_position",
+        "question": "Observe and determine the horizontal position of the peak.",
+        "answer": "355"
+    },
+    "635": {
+        "image_id": "1018",
+        "question_type": "peak_number",
+        "question": "Please look at this chart and tell me how many peaks are there?",
+        "answer": "1"
+    },
+    "636": {
+        "image_id": "595",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of each peak in the image?",
+        "answer": "12"
+    },
+    "637": {
+        "image_id": "107",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "1650;1750;1950;2050"
+    },
+    "638": {
+        "image_id": "929",
+        "question_type": "peak_value",
+        "question": "Can you assist me in finding the numerical values of all the peaks on these spectral graphs?",
+        "answer": "14000"
+    },
+    "639": {
+        "image_id": "313",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "no"
+    },
+    "640": {
+        "image_id": "220",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "322"
+    },
+    "641": {
+        "image_id": "445",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of these peaks?",
+        "answer": "525"
+    },
+    "642": {
+        "image_id": "610",
+        "question_type": "fwhm",
+        "question": "By observing the image, tell me the approximate full width at half maximum of each peak.",
+        "answer": "10"
+    },
+    "643": {
+        "image_id": "385",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "520"
+    },
+    "644": {
+        "image_id": "529",
+        "question_type": "peak_number",
+        "question": "Can you help me count the number of peaks in the image?",
+        "answer": "1"
+    },
+    "645": {
+        "image_id": "877",
+        "question_type": "shape",
+        "question": "For our detailed analysis, we need to know if there is any peak overlap.",
+        "answer": "no"
+    },
+    "646": {
+        "image_id": "31",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "647": {
+        "image_id": "457",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "yes"
+    },
+    "648": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "Study this spectral graph and point out its symmetry.",
+        "answer": "no"
+    },
+    "649": {
+        "image_id": "780",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "None"
+    },
+    "650": {
+        "image_id": "977",
+        "question_type": "peak_value",
+        "question": "What are the peak values of these peaks?",
+        "answer": "2000"
+    },
+    "651": {
+        "image_id": "922",
+        "question_type": "shape",
+        "question": "Please let me know if there is peak overlap after your check.",
+        "answer": "no"
+    },
+    "652": {
+        "image_id": "547",
+        "question_type": "peak_position",
+        "question": "Where is the exact horizontal position of each peak in the image?",
+        "answer": "365"
+    },
+    "653": {
+        "image_id": "359",
+        "question_type": "shape",
+        "question": "Is it possible to see if these two peaks overlap partially?",
+        "answer": "yes"
+    },
+    "654": {
+        "image_id": "80",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "655": {
+        "image_id": "616",
+        "question_type": "peak_value",
+        "question": "Based on the provided image, what are the values of the peaks?",
+        "answer": "360"
+    },
+    "656": {
+        "image_id": "962",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "5;12"
+    },
+    "657": {
+        "image_id": "283",
+        "question_type": "peak_value",
+        "question": "Could you use your professional knowledge to help me analyze the peak value in this graph?",
+        "answer": "500;700"
+    },
+    "658": {
+        "image_id": "803",
+        "question_type": "fwhm",
+        "question": "Determine the full width at half maximum of this material, that is your task.",
+        "answer": "None"
+    },
+    "659": {
+        "image_id": "219",
+        "question_type": "peak_position",
+        "question": "At which point on the x-axis are these peaks located?",
+        "answer": "320"
+    },
+    "660": {
+        "image_id": "479",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "2700"
+    },
+    "661": {
+        "image_id": "484",
+        "question_type": "peak_value",
+        "question": "By observing this image, can you tell me the value of each peak?",
+        "answer": "None"
+    },
+    "662": {
+        "image_id": "694",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "663": {
+        "image_id": "240",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "no"
+    },
+    "664": {
+        "image_id": "733",
+        "question_type": "peak_position",
+        "question": "At which point on the x-axis are these peaks located?",
+        "answer": "374"
+    },
+    "665": {
+        "image_id": "639",
+        "question_type": "peak_position",
+        "question": "What is the wavelength of the center of the peak",
+        "answer": "334"
+    },
+    "666": {
+        "image_id": "770",
+        "question_type": "peak_number",
+        "question": "How many peaks of signals can be identified in this image?",
+        "answer": "8"
+    },
+    "667": {
+        "image_id": "339",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "None"
+    },
+    "668": {
+        "image_id": "759",
+        "question_type": "shape",
+        "question": "Does the shape of the peak maintain symmetry across its wavelength of highest intensity?",
+        "answer": "yes"
+    },
+    "669": {
+        "image_id": "952",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "670": {
+        "image_id": "894",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "445"
+    },
+    "671": {
+        "image_id": "237",
+        "question_type": "shape",
+        "question": "Assuming the fluctuations in this graph have been professionally analyzed as background noise, could you help me confirm this?",
+        "answer": "no"
+    },
+    "672": {
+        "image_id": "49",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak",
+        "answer": "4600"
+    },
+    "673": {
+        "image_id": "2",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "30;26"
+    },
+    "674": {
+        "image_id": "484",
+        "question_type": "fwhm",
+        "question": "Tell me the full width at half maximum of each peak in the image.",
+        "answer": "None"
+    },
+    "675": {
+        "image_id": "510",
+        "question_type": "fwhm",
+        "question": "By observing the image, tell me the approximate full width at half maximum of the peaks.",
+        "answer": "30;25"
+    },
+    "676": {
+        "image_id": "230",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "10;10"
+    },
+    "677": {
+        "image_id": "371",
+        "question_type": "peak_number",
+        "question": "Take a close look at this graph, can you tell me the number of peaks?",
+        "answer": "1"
+    },
+    "678": {
+        "image_id": "698",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "30"
+    },
+    "679": {
+        "image_id": "384",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "680": {
+        "image_id": "777",
+        "question_type": "shape",
+        "question": "Do these two peaks show any signs of overlap in the spectrum?",
+        "answer": "yes"
+    },
+    "681": {
+        "image_id": "559",
+        "question_type": "fwhm",
+        "question": "According to the image, what is the approximate full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "682": {
+        "image_id": "35",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of each peak?",
+        "answer": "365;380;390;500;521"
+    },
+    "683": {
+        "image_id": "89",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "None"
+    },
+    "684": {
+        "image_id": "326",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "685": {
+        "image_id": "200",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 50% of its maximum height?",
+        "answer": "10"
+    },
+    "686": {
+        "image_id": "433",
+        "question_type": "peak_position",
+        "question": "At which positions on the horizontal axis do the peak values correspond?",
+        "answer": "525"
+    },
+    "687": {
+        "image_id": "250",
+        "question_type": "shape",
+        "question": "Let the expert analyze and decide whether this is a laser phenomenon.",
+        "answer": "yes"
+    },
+    "688": {
+        "image_id": "269",
+        "question_type": "fwhm",
+        "question": "From a spectroscopy perspective, what is the full width at half maximum of this graph?",
+        "answer": "none"
+    },
+    "689": {
+        "image_id": "12",
+        "question_type": "peak_position",
+        "question": "What is the horizontal coordinate value of each peak?",
+        "answer": "386;448"
+    },
+    "690": {
+        "image_id": "307",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "yes"
+    },
+    "691": {
+        "image_id": "673",
+        "question_type": "peak_value",
+        "question": "What is the highest point in each peak?",
+        "answer": "2000;3300"
+    },
+    "692": {
+        "image_id": "184",
+        "question_type": "fwhm",
+        "question": "What is the measurement of the peak width at its half-height?",
+        "answer": "7;8"
+    },
+    "693": {
+        "image_id": "250",
+        "question_type": "peak_value",
+        "question": "Is it possible to calculate the height of the peak in this graph?",
+        "answer": "38000"
+    },
+    "694": {
+        "image_id": "309",
+        "question_type": "shape",
+        "question": "Does the waveform in this graph reflect the symmetry of the peak wavelength?",
+        "answer": "no"
+    },
+    "695": {
+        "image_id": "972",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric around the wavelength of the peak?",
+        "answer": "yes"
+    },
+    "696": {
+        "image_id": "257",
+        "question_type": "shape",
+        "question": "If this is the spectrum of a laser?",
+        "answer": "no"
+    },
+    "697": {
+        "image_id": "649",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "3"
+    },
+    "698": {
+        "image_id": "235",
+        "question_type": "peak_number",
+        "question": "May I know the count of peaks in this graph?",
+        "answer": "1"
+    },
+    "699": {
+        "image_id": "1017",
+        "question_type": "peak_number",
+        "question": "In this graph, can you identify how many peaks there are?",
+        "answer": "1"
+    },
+    "700": {
+        "image_id": "751",
+        "question_type": "peak_number",
+        "question": "How many highest points are there in the image?",
+        "answer": "1"
+    },
+    "701": {
+        "image_id": "701",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of each peak?",
+        "answer": "495"
+    },
+    "702": {
+        "image_id": "424",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "yes"
+    },
+    "703": {
+        "image_id": "62",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "30"
+    },
+    "704": {
+        "image_id": "609",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak in the image?",
+        "answer": "330"
+    },
+    "705": {
+        "image_id": "119",
+        "question_type": "shape",
+        "question": "Whether these peaks are too close together to cause overlap",
+        "answer": "yes"
+    },
+    "706": {
+        "image_id": "1029",
+        "question_type": "peak_position",
+        "question": "Where is each peak located in this graph?",
+        "answer": "280"
+    },
+    "707": {
+        "image_id": "485",
+        "question_type": "peak_value",
+        "question": "Please provide the values of all the peaks in the image.",
+        "answer": "None"
+    },
+    "708": {
+        "image_id": "707",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "800"
+    },
+    "709": {
+        "image_id": "532",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "710": {
+        "image_id": "620",
+        "question_type": "fwhm",
+        "question": "By observing the image, tell me the approximate full width at half maximum of each peak.",
+        "answer": "10"
+    },
+    "711": {
+        "image_id": "221",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "14"
+    },
+    "712": {
+        "image_id": "405",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "27"
+    },
+    "713": {
+        "image_id": "727",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "714": {
+        "image_id": "860",
+        "question_type": "shape",
+        "question": "For our detailed analysis, we need to know if there is any peak overlap.",
+        "answer": "no"
+    },
+    "715": {
+        "image_id": "6",
+        "question_type": "shape",
+        "question": "Whether these peaks are too close together to cause overlap",
+        "answer": "yes"
+    },
+    "716": {
+        "image_id": "71",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "None"
+    },
+    "717": {
+        "image_id": "936",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "718": {
+        "image_id": "169",
+        "question_type": "shape",
+        "question": "Does this spectrogram mainly reflect background noise?",
+        "answer": "yes"
+    },
+    "719": {
+        "image_id": "858",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "60"
+    },
+    "720": {
+        "image_id": "635",
+        "question_type": "peak_number",
+        "question": "How many peaks are there?",
+        "answer": "1"
+    },
+    "721": {
+        "image_id": "656",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "2600;3500"
+    },
+    "722": {
+        "image_id": "584",
+        "question_type": "peak_number",
+        "question": "In this image, how many peaks can you observe?",
+        "answer": "1"
+    },
+    "723": {
+        "image_id": "423",
+        "question_type": "peak_position",
+        "question": "Can you describe the positions of each peak in this graph?",
+        "answer": "517"
+    },
+    "724": {
+        "image_id": "960",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "10"
+    },
+    "725": {
+        "image_id": "638",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "100"
+    },
+    "726": {
+        "image_id": "893",
+        "question_type": "peak_value",
+        "question": "As part of our material property analysis, I need to know the numerical values of the peaks on these spectral graphs.",
+        "answer": "32000"
+    },
+    "727": {
+        "image_id": "445",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "1"
+    },
+    "728": {
+        "image_id": "96",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of these peaks?",
+        "answer": "None"
+    },
+    "729": {
+        "image_id": "778",
+        "question_type": "peak_value",
+        "question": "What are the maximum values for each peak?",
+        "answer": "44000;30000;22000;10000"
+    },
+    "730": {
+        "image_id": "146",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 50% of its maximum height?",
+        "answer": "14"
+    },
+    "731": {
+        "image_id": "913",
+        "question_type": "peak_position",
+        "question": "Could you tell me the horizontal coordinates of the peaks in these spectral graphs?",
+        "answer": "445"
+    },
+    "732": {
+        "image_id": "330",
+        "question_type": "shape",
+        "question": "Is there an implication of background noise's influence in the graph's fluctuations?",
+        "answer": "no"
+    },
+    "733": {
+        "image_id": "1014",
+        "question_type": "peak_number",
+        "question": "Based on the data in the graph, how many peaks are there in total?",
+        "answer": "1"
+    },
+    "734": {
+        "image_id": "862",
+        "question_type": "peak_value",
+        "question": "List all peaks and provide their specific values.",
+        "answer": "5600"
+    },
+    "735": {
+        "image_id": "744",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetrical on either side of the wavelength at its maximum?",
+        "answer": "yes"
+    },
+    "736": {
+        "image_id": "124",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "20000;13000;7500;4500"
+    },
+    "737": {
+        "image_id": "110",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "738": {
+        "image_id": "682",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in total?",
+        "answer": "None"
+    },
+    "739": {
+        "image_id": "482",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "9000"
+    },
+    "740": {
+        "image_id": "710",
+        "question_type": "peak_value",
+        "question": "What are the specific values of the peaks",
+        "answer": "450;1100"
+    },
+    "741": {
+        "image_id": "671",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "5;5;20"
+    },
+    "742": {
+        "image_id": "412",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph, can you count them?",
+        "answer": "1"
+    },
+    "743": {
+        "image_id": "536",
+        "question_type": "peak_number",
+        "question": "Can you help me count the total number of peaks in the image?",
+        "answer": "1"
+    },
+    "744": {
+        "image_id": "324",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "745": {
+        "image_id": "160",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "746": {
+        "image_id": "911",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "747": {
+        "image_id": "355",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "yes"
+    },
+    "748": {
+        "image_id": "878",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "749": {
+        "image_id": "203",
+        "question_type": "peak_position",
+        "question": "At which point on the x-axis are these peaks located?",
+        "answer": "365;380"
+    },
+    "750": {
+        "image_id": "480",
+        "question_type": "fwhm",
+        "question": "By observing the image, tell me the approximate full width at half maximum of the peaks.",
+        "answer": "28"
+    },
+    "751": {
+        "image_id": "289",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "752": {
+        "image_id": "959",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "307"
+    },
+    "753": {
+        "image_id": "832",
+        "question_type": "peak_value",
+        "question": "Calculate the height of each peak on this spectral graph and show me the results.",
+        "answer": "3000"
+    },
+    "754": {
+        "image_id": "689",
+        "question_type": "fwhm",
+        "question": "According to the image, what is the approximate full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "755": {
+        "image_id": "361",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks are in this chart?",
+        "answer": "None"
+    },
+    "756": {
+        "image_id": "652",
+        "question_type": "peak_position",
+        "question": "Write out the abscissa of each peak",
+        "answer": "365;385;450"
+    },
+    "757": {
+        "image_id": "661",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of each peak?",
+        "answer": "385;450"
+    },
+    "758": {
+        "image_id": "587",
+        "question_type": "peak_number",
+        "question": "Please identify and tell me how many prominent peaks are in the image.",
+        "answer": "1"
+    },
+    "759": {
+        "image_id": "559",
+        "question_type": "peak_position",
+        "question": "At which points on the x-axis are these peaks located?",
+        "answer": "None"
+    },
+    "760": {
+        "image_id": "79",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "500"
+    },
+    "761": {
+        "image_id": "195",
+        "question_type": "peak_value",
+        "question": "What are the highest values of each peak?",
+        "answer": "700"
+    },
+    "762": {
+        "image_id": "432",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "763": {
+        "image_id": "876",
+        "question_type": "peak_position",
+        "question": "I would like to know the horizontal coordinates of each peak on this spectral graph.",
+        "answer": "530"
+    },
+    "764": {
+        "image_id": "217",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 50% of its maximum height?",
+        "answer": "12"
+    },
+    "765": {
+        "image_id": "638",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "1"
+    },
+    "766": {
+        "image_id": "161",
+        "question_type": "fwhm",
+        "question": "What is the width at half the maximum height of the peak?",
+        "answer": "12"
+    },
+    "767": {
+        "image_id": "918",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "445"
+    },
+    "768": {
+        "image_id": "464",
+        "question_type": "peak_position",
+        "question": "Can you tell me the x-coordinate position of each peak value in the image?",
+        "answer": "520"
+    },
+    "769": {
+        "image_id": "408",
+        "question_type": "peak_number",
+        "question": "How many peaks does this graph show?",
+        "answer": "1"
+    },
+    "770": {
+        "image_id": "377",
+        "question_type": "peak_value",
+        "question": "Can you tell me the specific peak values of each peak?",
+        "answer": "10700"
+    },
+    "771": {
+        "image_id": "993",
+        "question_type": "peak_value",
+        "question": "What are the peak values of these peaks?",
+        "answer": "None"
+    },
+    "772": {
+        "image_id": "651",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak",
+        "answer": "2000;3000"
+    },
+    "773": {
+        "image_id": "216",
+        "question_type": "fwhm",
+        "question": "What is the half-height width of the peak?",
+        "answer": "9"
+    },
+    "774": {
+        "image_id": "665",
+        "question_type": "shape",
+        "question": "Do the peaks overlap?",
+        "answer": "yes"
+    },
+    "775": {
+        "image_id": "702",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "1200"
+    },
+    "776": {
+        "image_id": "800",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "777": {
+        "image_id": "315",
+        "question_type": "peak_value",
+        "question": "Could you please help me determine in detail the peak values of each peak in this graph?",
+        "answer": "500；1450"
+    },
+    "778": {
+        "image_id": "214",
+        "question_type": "peak_value",
+        "question": "May I ask what are the peak values of each peak?",
+        "answer": "10000"
+    },
+    "779": {
+        "image_id": "920",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "780": {
+        "image_id": "128",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "20000;14000;8000;4000"
+    },
+    "781": {
+        "image_id": "155",
+        "question_type": "peak_position",
+        "question": "What is the specific position of the peak on the x-axis?",
+        "answer": "307"
+    },
+    "782": {
+        "image_id": "1",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "2"
+    },
+    "783": {
+        "image_id": "123",
+        "question_type": "peak_position",
+        "question": "What is the central wavelength of the peak",
+        "answer": "555;563;582;595;610"
+    },
+    "784": {
+        "image_id": "555",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "2"
+    },
+    "785": {
+        "image_id": "1027",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric with respect to the peak wavelength?",
+        "answer": "yes"
+    },
+    "786": {
+        "image_id": "254",
+        "question_type": "peak_value",
+        "question": "Excuse me, could you help me measure the height of the peak in this graph?",
+        "answer": "48000"
+    },
+    "787": {
+        "image_id": "54",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "1"
+    },
+    "788": {
+        "image_id": "392",
+        "question_type": "fwhm",
+        "question": "What are the specific half-peak width values of each peak?",
+        "answer": "30"
+    },
+    "789": {
+        "image_id": "999",
+        "question_type": "fwhm",
+        "question": "Please measure and tell me the half-peak widths of these peaks?",
+        "answer": "8"
+    },
+    "790": {
+        "image_id": "251",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "355"
+    },
+    "791": {
+        "image_id": "334",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "None"
+    },
+    "792": {
+        "image_id": "475",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "5"
+    },
+    "793": {
+        "image_id": "42",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "yes"
+    },
+    "794": {
+        "image_id": "665",
+        "question_type": "peak_number",
+        "question": "Analyzing the picture shows that there are several peaks in the graph",
+        "answer": "3"
+    },
+    "795": {
+        "image_id": "1010",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak in this graph?",
+        "answer": "8000"
+    },
+    "796": {
+        "image_id": "681",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "3"
+    },
+    "797": {
+        "image_id": "637",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "None"
+    },
+    "798": {
+        "image_id": "240",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "no"
+    },
+    "799": {
+        "image_id": "314",
+        "question_type": "peak_value",
+        "question": "Could you please analyze this graph in detail and confirm the peak values of each peak?",
+        "answer": "350"
+    },
+    "800": {
+        "image_id": "385",
+        "question_type": "fwhm",
+        "question": "Please measure and tell me the half-peak widths of these peaks?",
+        "answer": "28"
+    },
+    "801": {
+        "image_id": "352",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "None"
+    },
+    "802": {
+        "image_id": "106",
+        "question_type": "peak_number",
+        "question": "Can you tell me how many peaks there are in this area?",
+        "answer": "5"
+    },
+    "803": {
+        "image_id": "219",
+        "question_type": "peak_number",
+        "question": "How many points have the highest local intensity in an image?",
+        "answer": "1"
+    },
+    "804": {
+        "image_id": "434",
+        "question_type": "peak_number",
+        "question": "In this image, how many peaks can you observe?",
+        "answer": "1"
+    },
+    "805": {
+        "image_id": "1022",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "340"
+    },
+    "806": {
+        "image_id": "1008",
+        "question_type": "peak_position",
+        "question": "What is the specific position of each peak in the graph?",
+        "answer": "303"
+    },
+    "807": {
+        "image_id": "862",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "540"
+    },
+    "808": {
+        "image_id": "990",
+        "question_type": "fwhm",
+        "question": "Please analyze the image and tell me the full width at half maximum of each peak.",
+        "answer": "8"
+    },
+    "809": {
+        "image_id": "851",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "60"
+    },
+    "810": {
+        "image_id": "1",
+        "question_type": "fwhm",
+        "question": "What is the half-peak width of each peak?",
+        "answer": "None"
+    },
+    "811": {
+        "image_id": "320",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "no"
+    },
+    "812": {
+        "image_id": "380",
+        "question_type": "fwhm",
+        "question": "Please measure and tell me the half-peak widths of these peaks?",
+        "answer": "32"
+    },
+    "813": {
+        "image_id": "661",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "2"
+    },
+    "814": {
+        "image_id": "686",
+        "question_type": "fwhm",
+        "question": "According to the image, what is the approximate full width at half maximum of each peak?",
+        "answer": "None"
+    },
+    "815": {
+        "image_id": "588",
+        "question_type": "peak_value",
+        "question": "According to the image, what is the approximate value of each peak?",
+        "answer": "None"
+    },
+    "816": {
+        "image_id": "600",
+        "question_type": "peak_position",
+        "question": "What is the position of each peak on the horizontal axis of this image?",
+        "answer": "362"
+    },
+    "817": {
+        "image_id": "942",
+        "question_type": "peak_value",
+        "question": "What is the peak value of each peak in this graph?",
+        "answer": "None"
+    },
+    "818": {
+        "image_id": "321",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "819": {
+        "image_id": "542",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "19000"
+    },
+    "820": {
+        "image_id": "15",
+        "question_type": "fwhm",
+        "question": "May I ask what is the half width of each peak?",
+        "answer": "12;19"
+    },
+    "821": {
+        "image_id": "866",
+        "question_type": "peak_value",
+        "question": "Review these spectral graphs, then list the numerical values of each peak.",
+        "answer": "21000"
+    },
+    "822": {
+        "image_id": "492",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "5"
+    },
+    "823": {
+        "image_id": "877",
+        "question_type": "fwhm",
+        "question": "As part of teaching materials, I need the full width at half maximum value of this spectrum to illustrate the concept of peak width.",
+        "answer": "60"
+    },
+    "824": {
+        "image_id": "945",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "None"
+    },
+    "825": {
+        "image_id": "28",
+        "question_type": "peak_value",
+        "question": "Could you tell me the specific values of each peak?",
+        "answer": "550;1600"
+    },
+    "826": {
+        "image_id": "502",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "20"
+    },
+    "827": {
+        "image_id": "476",
+        "question_type": "shape",
+        "question": "Can you analyze if the peak shape in the image is symmetric around the peak wavelength?",
+        "answer": "yes"
+    },
+    "828": {
+        "image_id": "568",
+        "question_type": "fwhm",
+        "question": "Based on the image, what are the values of the full widths at half maximum?",
+        "answer": "10"
+    },
+    "829": {
+        "image_id": "197",
+        "question_type": "shape",
+        "question": "Is this spectrogram mainly presenting noise signals?",
+        "answer": "yes"
+    },
+    "830": {
+        "image_id": "415",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what is the half-peak width of each peak?",
+        "answer": "26"
+    },
+    "831": {
+        "image_id": "330",
+        "question_type": "peak_value",
+        "question": "What is the highest value of each peak?",
+        "answer": "24000"
+    },
+    "832": {
+        "image_id": "23",
+        "question_type": "peak_position",
+        "question": "Could you provide a detailed explanation of the distribution of each peak on the horizontal axis?",
+        "answer": "530"
+    },
+    "833": {
+        "image_id": "478",
+        "question_type": "peak_number",
+        "question": "Can you identify the number of peaks shown in this image?",
+        "answer": "1"
+    },
+    "834": {
+        "image_id": "369",
+        "question_type": "peak_value",
+        "question": "What are the values of these peaks?",
+        "answer": "None"
+    },
+    "835": {
+        "image_id": "316",
+        "question_type": "shape",
+        "question": "Analyze this data and then determine whether this is a laser.",
+        "answer": "no"
+    },
+    "836": {
+        "image_id": "635",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "5"
+    },
+    "837": {
+        "image_id": "116",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "None"
+    },
+    "838": {
+        "image_id": "907",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "839": {
+        "image_id": "604",
+        "question_type": "peak_value",
+        "question": "By observing this image, can you tell me the value of each peak?",
+        "answer": "340"
+    },
+    "840": {
+        "image_id": "865",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "841": {
+        "image_id": "891",
+        "question_type": "shape",
+        "question": "When you analyze, please consider if this might be background noise.",
+        "answer": "no"
+    },
+    "842": {
+        "image_id": "137",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "843": {
+        "image_id": "1006",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "None"
+    },
+    "844": {
+        "image_id": "144",
+        "question_type": "peak_number",
+        "question": "May I ask how many peak areas are there in this image?",
+        "answer": "1"
+    },
+    "845": {
+        "image_id": "905",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "20"
+    },
+    "846": {
+        "image_id": "482",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "847": {
+        "image_id": "932",
+        "question_type": "peak_value",
+        "question": "Please analyze, what are the peak values respectively?",
+        "answer": "325"
+    },
+    "848": {
+        "image_id": "1028",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "849": {
+        "image_id": "372",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 49% of its maximum height?",
+        "answer": "18"
+    },
+    "850": {
+        "image_id": "395",
+        "question_type": "peak_number",
+        "question": "Analyze this graph and tell me how many distinct peaks are there?",
+        "answer": "1"
+    },
+    "851": {
+        "image_id": "719",
+        "question_type": "peak_position",
+        "question": "Can you tell me the width of each peak on the X-axis？",
+        "answer": "20"
+    },
+    "852": {
+        "image_id": "678",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "10;20"
+    },
+    "853": {
+        "image_id": "842",
+        "question_type": "peak_position",
+        "question": "I would like to know the horizontal coordinates of each peak on this spectral graph.",
+        "answer": "400;550"
+    },
+    "854": {
+        "image_id": "542",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak in the image?",
+        "answer": "21"
+    },
+    "855": {
+        "image_id": "917",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "20"
+    },
+    "856": {
+        "image_id": "272",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "385;450"
+    },
+    "857": {
+        "image_id": "78",
+        "question_type": "shape",
+        "question": "Is there a situation where two or more peaks overlap?",
+        "answer": "yes"
+    },
+    "858": {
+        "image_id": "566",
+        "question_type": "fwhm",
+        "question": "Please provide the full widths at half maximum of all the peaks in the image.",
+        "answer": "None"
+    },
+    "859": {
+        "image_id": "417",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum in terms of the peak's width at 48% of its maximum height?",
+        "answer": "27"
+    },
+    "860": {
+        "image_id": "687",
+        "question_type": "shape",
+        "question": "Observing the image, is this spectrum background noise?",
+        "answer": "yes"
+    },
+    "861": {
+        "image_id": "141",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "12"
+    },
+    "862": {
+        "image_id": "618",
+        "question_type": "shape",
+        "question": "Does the peak shape in the image show symmetry along the peak wavelength?",
+        "answer": "yes"
+    },
+    "863": {
+        "image_id": "887",
+        "question_type": "peak_number",
+        "question": "Analyze this spectral graph and report the number of peaks.",
+        "answer": "5"
+    },
+    "864": {
+        "image_id": "1009",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "305"
+    },
+    "865": {
+        "image_id": "626",
+        "question_type": "peak_position",
+        "question": "Can you identify the x-coordinates of each peak in this image?",
+        "answer": "None"
+    },
+    "866": {
+        "image_id": "647",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "10;12"
+    },
+    "867": {
+        "image_id": "815",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "8"
+    },
+    "868": {
+        "image_id": "264",
+        "question_type": "peak_position",
+        "question": "Could you help me find the x-coordinate of the peak in this graph?",
+        "answer": "387.5;450"
+    },
+    "869": {
+        "image_id": "349",
+        "question_type": "shape",
+        "question": "Are the peaks in this spectrum represented as background noise?",
+        "answer": "yes"
+    },
+    "870": {
+        "image_id": "756",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "871": {
+        "image_id": "264",
+        "question_type": "fwhm",
+        "question": "Could you help me calculate the full width at half maximum value in this graph?",
+        "answer": "7.5;20"
+    },
+    "872": {
+        "image_id": "708",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "40"
+    },
+    "873": {
+        "image_id": "722",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "874": {
+        "image_id": "616",
+        "question_type": "fwhm",
+        "question": "Please provide the full widths at half maximum of all the peaks in the image.",
+        "answer": "10"
+    },
+    "875": {
+        "image_id": "184",
+        "question_type": "peak_position",
+        "question": "What are the distribution points of the peak on the horizontal axis?",
+        "answer": "380;390;410;465;475"
+    },
+    "876": {
+        "image_id": "799",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum?",
+        "answer": "None"
+    },
+    "877": {
+        "image_id": "625",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "470"
+    },
+    "878": {
+        "image_id": "870",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "879": {
+        "image_id": "890",
+        "question_type": "shape",
+        "question": "I would like to know if this is background noise.",
+        "answer": "no"
+    },
+    "880": {
+        "image_id": "865",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "530"
+    },
+    "881": {
+        "image_id": "552",
+        "question_type": "peak_number",
+        "question": "Count the number of peaks in the image.",
+        "answer": "1"
+    },
+    "882": {
+        "image_id": "103",
+        "question_type": "peak_position",
+        "question": "What is the exact position of each peak on the chart?",
+        "answer": "790"
+    },
+    "883": {
+        "image_id": "563",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak?",
+        "answer": "None"
+    },
+    "884": {
+        "image_id": "755",
+        "question_type": "shape",
+        "question": "Is there a symmetrical distribution of the peak's intensity along the peak wavelength?",
+        "answer": "yes"
+    },
+    "885": {
+        "image_id": "557",
+        "question_type": "peak_number",
+        "question": "Please identify and tell me how many prominent peaks are in the image.",
+        "answer": "3"
+    },
+    "886": {
+        "image_id": "271",
+        "question_type": "peak_number",
+        "question": "What is the professional analysis of the number of peaks in this graph?",
+        "answer": "2"
+    },
+    "887": {
+        "image_id": "843",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "888": {
+        "image_id": "971",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph, can you count them?",
+        "answer": "1"
+    },
+    "889": {
+        "image_id": "704",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "890": {
+        "image_id": "111",
+        "question_type": "peak_position",
+        "question": "Where is the center of each peak",
+        "answer": "547;507"
+    },
+    "891": {
+        "image_id": "104",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "760"
+    },
+    "892": {
+        "image_id": "35",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "893": {
+        "image_id": "24",
+        "question_type": "peak_position",
+        "question": "Could you provide a detailed explanation of the distribution of each peak on the horizontal axis?",
+        "answer": "650"
+    },
+    "894": {
+        "image_id": "416",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "515"
+    },
+    "895": {
+        "image_id": "347",
+        "question_type": "shape",
+        "question": "Are the peaks in this spectrum represented as background noise?",
+        "answer": "yes"
+    },
+    "896": {
+        "image_id": "643",
+        "question_type": "peak_position",
+        "question": "Write out the abscissa of each peak",
+        "answer": "364"
+    },
+    "897": {
+        "image_id": "844",
+        "question_type": "peak_position",
+        "question": "Do you know the horizontal coordinates of the peaks on this spectral graph?",
+        "answer": "530"
+    },
+    "898": {
+        "image_id": "387",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "28"
+    },
+    "899": {
+        "image_id": "61",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of each peak?",
+        "answer": "515"
+    },
+    "900": {
+        "image_id": "463",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "901": {
+        "image_id": "92",
+        "question_type": "peak_position",
+        "question": "What are the x-coordinates of these peaks?",
+        "answer": "None"
+    },
+    "902": {
+        "image_id": "329",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "no"
+    },
+    "903": {
+        "image_id": "254",
+        "question_type": "peak_position",
+        "question": "What exists in the characteristics of the peak?",
+        "answer": "25"
+    },
+    "904": {
+        "image_id": "402",
+        "question_type": "peak_value",
+        "question": "What are the values of these peaks?",
+        "answer": "17000"
+    },
+    "905": {
+        "image_id": "577",
+        "question_type": "peak_value",
+        "question": "Can you tell me the value of each peak in the image?",
+        "answer": "500;750"
+    },
+    "906": {
+        "image_id": "112",
+        "question_type": "peak_position",
+        "question": "What is the wavelength of the center of the peak",
+        "answer": "547;507"
+    },
+    "907": {
+        "image_id": "81",
+        "question_type": "fwhm",
+        "question": "Calculate the width at half height of each peak",
+        "answer": "None"
+    },
+    "908": {
+        "image_id": "713",
+        "question_type": "peak_number",
+        "question": "What is the number of peaks?",
+        "answer": "1"
+    },
+    "909": {
+        "image_id": "254",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of the peak in this graph?",
+        "answer": "516"
+    },
+    "910": {
+        "image_id": "569",
+        "question_type": "shape",
+        "question": "Is the peak shape symmetric at the peak wavelength in the image?",
+        "answer": "yes"
+    },
+    "911": {
+        "image_id": "319",
+        "question_type": "peak_value",
+        "question": "What is the highest value of each peak?",
+        "answer": "22000;19000;18000;12000;600;300"
+    },
+    "912": {
+        "image_id": "568",
+        "question_type": "shape",
+        "question": "Does the peak shape in the image show symmetry along the peak wavelength?",
+        "answer": "yes"
+    },
+    "913": {
+        "image_id": "73",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "4"
+    },
+    "914": {
+        "image_id": "87",
+        "question_type": "peak_number",
+        "question": "What is the number of peaks?",
+        "answer": "2"
+    },
+    "915": {
+        "image_id": "334",
+        "question_type": "peak_value",
+        "question": "What values do these peaks each reach?",
+        "answer": "1100;1050;950;805;605;465;400;350"
+    },
+    "916": {
+        "image_id": "778",
+        "question_type": "shape",
+        "question": "Do these two peaks show any signs of overlap in the spectrum?",
+        "answer": "yes"
+    },
+    "917": {
+        "image_id": "739",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in the image?",
+        "answer": "1"
+    },
+    "918": {
+        "image_id": "239",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "919": {
+        "image_id": "614",
+        "question_type": "fwhm",
+        "question": "Tell me the full width at half maximum of each peak in the image.",
+        "answer": "11"
+    },
+    "920": {
+        "image_id": "938",
+        "question_type": "peak_position",
+        "question": "Please point out the position of each peak in the graph?",
+        "answer": "310"
+    },
+    "921": {
+        "image_id": "403",
+        "question_type": "peak_value",
+        "question": "What is the specific peak value of each peak?",
+        "answer": "26000"
+    },
+    "922": {
+        "image_id": "282",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "no"
+    },
+    "923": {
+        "image_id": "660",
+        "question_type": "peak_value",
+        "question": "What is the maximum value?",
+        "answer": "1600;3000"
+    },
+    "924": {
+        "image_id": "213",
+        "question_type": "peak_number",
+        "question": "How many local maximum points are there in the image?",
+        "answer": "1"
+    },
+    "925": {
+        "image_id": "313",
+        "question_type": "shape",
+        "question": "Does the peak shape symmetrically follow the peak wavelength?",
+        "answer": "no"
+    },
+    "926": {
+        "image_id": "294",
+        "question_type": "shape",
+        "question": "Is there any overlap among the peaks in the graph?",
+        "answer": "no"
+    },
+    "927": {
+        "image_id": "435",
+        "question_type": "fwhm",
+        "question": "What are the full widths at half maximum of these peak in the image?",
+        "answer": "35"
+    },
+    "928": {
+        "image_id": "153",
+        "question_type": "shape",
+        "question": "Can the symmetry of the peak's shape be noted along the wavelength where it is most intense?",
+        "answer": "yes"
+    },
+    "929": {
+        "image_id": "659",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak",
+        "answer": "1700;3800"
+    },
+    "930": {
+        "image_id": "704",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "495"
+    },
+    "931": {
+        "image_id": "666",
+        "question_type": "peak_value",
+        "question": "What are the specific values of the peaks",
+        "answer": "2000;2500"
+    },
+    "932": {
+        "image_id": "251",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "933": {
+        "image_id": "439",
+        "question_type": "peak_position",
+        "question": "At which points on the x-axis are these peaks located?",
+        "answer": "525"
+    },
+    "934": {
+        "image_id": "135",
+        "question_type": "peak_value",
+        "question": "May I ask what are the peak values?",
+        "answer": "600;1000;1700;2000;2400;2000;1500;1000;800"
+    },
+    "935": {
+        "image_id": "366",
+        "question_type": "peak_value",
+        "question": "What values do these peaks each reach?",
+        "answer": "None"
+    },
+    "936": {
+        "image_id": "682",
+        "question_type": "peak_position",
+        "question": "Tell me the maximum value of each peak corresponds to the abscissa",
+        "answer": "None"
+    },
+    "937": {
+        "image_id": "738",
+        "question_type": "peak_position",
+        "question": "What is the distribution of peak positions on the x-axis?",
+        "answer": "530"
+    },
+    "938": {
+        "image_id": "914",
+        "question_type": "peak_value",
+        "question": "What are the numerical values of the peaks on the spectral graphs of these materials?",
+        "answer": "39000"
+    },
+    "939": {
+        "image_id": "656",
+        "question_type": "fwhm",
+        "question": "What is the full width at half maximum of each peak",
+        "answer": "10;20"
+    },
+    "940": {
+        "image_id": "467",
+        "question_type": "shape",
+        "question": "Observing the image, is this spectrum background noise?",
+        "answer": "yes"
+    },
+    "941": {
+        "image_id": "884",
+        "question_type": "peak_number",
+        "question": "In spectral analysis, the number of peaks is an important measure, what is its value?",
+        "answer": "1"
+    },
+    "942": {
+        "image_id": "507",
+        "question_type": "peak_number",
+        "question": "Please identify and tell me how many prominent peaks are in the image.",
+        "answer": "2"
+    },
+    "943": {
+        "image_id": "993",
+        "question_type": "shape",
+        "question": "Does this spectrum display background noise?",
+        "answer": "yes"
+    },
+    "944": {
+        "image_id": "621",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "360"
+    },
+    "945": {
+        "image_id": "60",
+        "question_type": "peak_number",
+        "question": "Can you count how many peaks there are?",
+        "answer": "1"
+    },
+    "946": {
+        "image_id": "623",
+        "question_type": "peak_value",
+        "question": "Could you help me analyze this image? What is the value of each peak?",
+        "answer": "350"
+    },
+    "947": {
+        "image_id": "593",
+        "question_type": "peak_value",
+        "question": "What is the value of each peak?",
+        "answer": "8500"
+    },
+    "948": {
+        "image_id": "1015",
+        "question_type": "peak_number",
+        "question": "How many peaks are displayed in this graph, can you count them?",
+        "answer": "1"
+    },
+    "949": {
+        "image_id": "178",
+        "question_type": "peak_value",
+        "question": "What is the value for each peak?",
+        "answer": "1000;1500;6000;11000;3000"
+    },
+    "950": {
+        "image_id": "451",
+        "question_type": "peak_position",
+        "question": "What are the x-coordinates of each peak in the image?",
+        "answer": "520"
+    },
+    "951": {
+        "image_id": "239",
+        "question_type": "shape",
+        "question": "Based on the provided image, does this spectrum belong to background noise?",
+        "answer": "no"
+    },
+    "952": {
+        "image_id": "167",
+        "question_type": "peak_value",
+        "question": "What is the value for each peak?",
+        "answer": "10000"
+    },
+    "953": {
+        "image_id": "210",
+        "question_type": "peak_number",
+        "question": "How many points have the highest local intensity in an image?",
+        "answer": "1"
+    },
+    "954": {
+        "image_id": "716",
+        "question_type": "peak_value",
+        "question": "What exactly is the peak?",
+        "answer": "9000"
+    },
+    "955": {
+        "image_id": "696",
+        "question_type": "shape",
+        "question": "Whether the peak shape is symmetrical along the peak wavelength",
+        "answer": "no"
+    },
+    "956": {
+        "image_id": "914",
+        "question_type": "peak_number",
+        "question": "How many peaks are there in this image?",
+        "answer": "1"
+    },
+    "957": {
+        "image_id": "194",
+        "question_type": "peak_value",
+        "question": "What are the highest values for each peak?",
+        "answer": "800"
+    },
+    "958": {
+        "image_id": "536",
+        "question_type": "shape",
+        "question": "Can you analyze if the peak shape in the image is symmetric around the peak wavelength?",
+        "answer": "yes"
+    },
+    "959": {
+        "image_id": "474",
+        "question_type": "peak_value",
+        "question": "By observing this image, can you tell me the value of each peak?",
+        "answer": "6000"
+    },
+    "960": {
+        "image_id": "340",
+        "question_type": "fwhm",
+        "question": "What is the width (half-peak width) of each peak?",
+        "answer": "None"
+    },
+    "961": {
+        "image_id": "135",
+        "question_type": "shape",
+        "question": "Can we confirm the presence of an overlap between these two peaks?",
+        "answer": "yes"
+    },
+    "962": {
+        "image_id": "709",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "600;1300"
+    },
+    "963": {
+        "image_id": "659",
+        "question_type": "shape",
+        "question": "Do the peaks overlap?",
+        "answer": "yes"
+    },
+    "964": {
+        "image_id": "215",
+        "question_type": "fwhm",
+        "question": "What is the width at half the maximum height of the peak?",
+        "answer": "8"
+    },
+    "965": {
+        "image_id": "244",
+        "question_type": "peak_value",
+        "question": "What exactly value is the peak?",
+        "answer": "715"
+    },
+    "966": {
+        "image_id": "971",
+        "question_type": "peak_position",
+        "question": "Please point out where each peak is located in this graph?",
+        "answer": "305"
+    },
+    "967": {
+        "image_id": "799",
+        "question_type": "peak_value",
+        "question": "What are the peak values?",
+        "answer": "15000;26000;27000;24000;18000;11000;6000"
+    },
+    "968": {
+        "image_id": "384",
+        "question_type": "peak_number",
+        "question": "How many peaks are contained in this graph?",
+        "answer": "1"
+    },
+    "969": {
+        "image_id": "673",
+        "question_type": "shape",
+        "question": "Can we observe the overlap of these peaks?",
+        "answer": "yes"
+    },
+    "970": {
+        "image_id": "997",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "5"
+    },
+    "971": {
+        "image_id": "237",
+        "question_type": "shape",
+        "question": "Is the peak shape in the image symmetric to the peak wavelength?",
+        "answer": "no"
+    },
+    "972": {
+        "image_id": "889",
+        "question_type": "shape",
+        "question": "Tell me all the information about the peak overlap.",
+        "answer": "yes"
+    },
+    "973": {
+        "image_id": "867",
+        "question_type": "fwhm",
+        "question": "I need your help to determine the full width at half maximum of this material.",
+        "answer": "60"
+    },
+    "974": {
+        "image_id": "559",
+        "question_type": "peak_number",
+        "question": "Can you help me count the number of peaks in the image?",
+        "answer": "None"
+    },
+    "975": {
+        "image_id": "25",
+        "question_type": "peak_position",
+        "question": "Could you describe the range covered by the displayed data?",
+        "answer": "0 ;1600"
+    },
+    "976": {
+        "image_id": "245",
+        "question_type": "shape",
+        "question": "Observe and determine whether this light source belongs to the laser category.",
+        "answer": "yes"
+    },
+    "977": {
+        "image_id": "304",
+        "question_type": "peak_value",
+        "question": "Is it possible to calculate the peak values of each peak in the graph?",
+        "answer": "500;1400"
+    },
+    "978": {
+        "image_id": "331",
+        "question_type": "peak_position",
+        "question": "Where is each peak located in this graph?",
+        "answer": "515"
+    },
+    "979": {
+        "image_id": "709",
+        "question_type": "shape",
+        "question": "Whether these peaks are too close together to cause overlap",
+        "answer": "no"
+    },
+    "980": {
+        "image_id": "213",
+        "question_type": "peak_value",
+        "question": "What is the value for each peak?",
+        "answer": "52000"
+    },
+    "981": {
+        "image_id": "300",
+        "question_type": "shape",
+        "question": "Is the noise in the graph considered background noise?",
+        "answer": "no"
+    },
+    "982": {
+        "image_id": "476",
+        "question_type": "peak_value",
+        "question": "Based on the provided image, what are the values of the peaks?",
+        "answer": "2600"
+    },
+    "983": {
+        "image_id": "212",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "8000"
+    },
+    "984": {
+        "image_id": "626",
+        "question_type": "peak_value",
+        "question": "Based on the provided image, what are the values of the peaks?",
+        "answer": "None"
+    },
+    "985": {
+        "image_id": "780",
+        "question_type": "peak_value",
+        "question": "May I ask what is the peak value of each peak?",
+        "answer": "11000;8000;5000;3000;2000"
+    },
+    "986": {
+        "image_id": "685",
+        "question_type": "peak_position",
+        "question": "At which points on the x-axis are these peaks located?",
+        "answer": "None"
+    },
+    "987": {
+        "image_id": "61",
+        "question_type": "peak_number",
+        "question": "Can you calculate how many peaks there are here?",
+        "answer": "1"
+    },
+    "988": {
+        "image_id": "382",
+        "question_type": "fwhm",
+        "question": "What are the half-peak widths of these peaks?",
+        "answer": "30"
+    },
+    "989": {
+        "image_id": "244",
+        "question_type": "peak_position",
+        "question": "Does this graph display the x-coordinate of the peak clearly?",
+        "answer": "355"
+    },
+    "990": {
+        "image_id": "962",
+        "question_type": "peak_number",
+        "question": "How many peaks are contained in this graph?",
+        "answer": "2"
+    },
+    "991": {
+        "image_id": "737",
+        "question_type": "peak_value",
+        "question": "What is the maximum value for each peak?",
+        "answer": "8000"
+    },
+    "992": {
+        "image_id": "255",
+        "question_type": "peak_value",
+        "question": "Could you help me determine the specific numerical value of the peak in the graph?",
+        "answer": "31000"
+    },
+    "993": {
+        "image_id": "418",
+        "question_type": "fwhm",
+        "question": "Analyze this graph, what is the half-peak width of each peak?",
+        "answer": "28"
+    },
+    "994": {
+        "image_id": "68",
+        "question_type": "peak_value",
+        "question": "Please tell me what is the value of each peak?",
+        "answer": "29000"
+    },
+    "995": {
+        "image_id": "300",
+        "question_type": "shape",
+        "question": "Does this graph display any overlap of peaks?",
+        "answer": "no"
+    },
+    "996": {
+        "image_id": "966",
+        "question_type": "peak_position",
+        "question": "Can you describe the positions of each peak in this graph?",
+        "answer": "438"
+    },
+    "997": {
+        "image_id": "254",
+        "question_type": "peak_position",
+        "question": "What is the x-coordinate of each peak in the image?",
+        "answer": "516"
+    },
+    "998": {
+        "image_id": "95",
+        "question_type": "peak_number",
+        "question": "How many peaks are included in this image?",
+        "answer": "None"
+    },
+    "999": {
+        "image_id": "37",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "365;380;390;490;521"
+    },
+    "1000": {
+        "image_id": "679",
+        "question_type": "fwhm",
+        "question": "Can you give the full width at half maximum of each peak?",
+        "answer": "10;20"
+    },
+    "1001": {
+        "image_id": "452",
+        "question_type": "peak_position",
+        "question": "At which horizontal coordinates are these peaks located?",
+        "answer": "520"
+    },
+    "1002": {
+        "image_id": "940",
+        "question_type": "fwhm",
+        "question": "Determine the full width at half maximum of this material, that is your task.",
+        "answer": "10"
+    },
+    "1003": {
+        "image_id": "666",
+        "question_type": "peak_position",
+        "question": "What is the abscissa of the highest point of each peak?",
+        "answer": "385;450"
+    },
+    "1004": {
+        "image_id": "720",
+        "question_type": "peak_number",
+        "question": "How many peaks are there?",
+        "answer": "1"
+    },
+    "1005": {
+        "image_id": "840",
+        "question_type": "fwhm",
+        "question": "Determine the full width at half maximum of this material, that is your task.",
+        "answer": "60"
+    },
+    "1006": {
+        "image_id": "292",
+        "question_type": "peak_number",
+        "question": "Could you please check this graph and inform me of the peak count?",
+        "answer": "2"
+    },
+    "1007": {
+        "image_id": "184",
+        "question_type": "peak_number",
+        "question": "How many peak areas are there in an image?",
+        "answer": "5"
+    },
+    "1008": {
+        "image_id": "59",
+        "question_type": "fwhm",
+        "question": "Please tell me the width at half height of each peak",
+        "answer": "30"
+    }
+}
