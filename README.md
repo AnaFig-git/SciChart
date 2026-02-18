@@ -27,12 +27,15 @@ SciChart covers **6 mainstream spectral chart types**. The dataset is split into
 ### 🎯 Task Definition
 We design two main tasks to comprehensively evaluate MLLMs:
 
-**BasicQA (Information Extraction):** Focuses on perceiving explicit information. 
-*Subtasks:* Peak Number, Peak Position, Peak Value, FWHM (Full Width at Half Maximum), and Shape. 
-*Note:* The FWHM task involves complex multi-step calculation based on visual coordinates. 
+**BasicQA (Information Extraction):** Focuses on perceiving explicit information.   
+ 
+ *Subtasks:* Peak Number, Peak Position, Peak Value, FWHM (Full Width at Half Maximum), and Shape.   
+  
+  *Note:* The FWHM task involves complex multi-step calculation based on visual coordinates. 
 
 **ReaQA (Reasoning):** Focuses on implicit information and scientific logic. 
-*Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.
+*Subtasks:* Includes **Abductive**, **Deductive**, and **Inductive** reasoning questions presented as Multi-choice or True/False.  
+
 ## Data Structure
  Responses are generated using queries as input, which contain  the charts and questions that SciChart uses to evaluate models. The structure is as follows:
 ```
@@ -61,6 +64,7 @@ Please download image data to **data/** from link: https://drive.google.com/file
 * CUDA 11.4+ (★ Required for GPU acceleration)
 * API for proprietary models' services (such as GPT)
 <br>
+
 ## 📂 Project Structure
 ```text
 SciChart-main/
@@ -82,8 +86,8 @@ SciChart-main/
 ├── LICENSE                # Project license file
 ├── README.md              # Project documentation
 └── requirements.txt       # List of Python dependencies
-
 ```
+
 ## 🛠️ Quick Start
 ### 1. Environment Setup
 ```bash
@@ -108,7 +112,7 @@ python API.py
 For local inference using open-source vision-language models, we provide dedicated scripts for **ChartVLM** and **Qwen-VL**. These scripts also evaluate the two major categories: `BasicQA` and `ReaQA`.
 
 ⚠️ **Important Environment Requirements for ChartVLM:**
-Due to the specific architecture and legacy adapters used in the official ChartVLM codebase, please ensure your environment matches the following versions to avoid compatibility errors (such as `scikit-learn` unpickling errors or `numpy` C-API conflicts):
+Due to the specific architecture and legacy adapters used in the official ChartVLM codebase, please ensure your environment matches the following versions to avoid compatibility errors (such as `scikit-learn` unpickling errors or `numpy` API conflicts):
 ```bash
 # Upgrade PyTorch ecosystem to support newer accelerate features
 pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 accelerate==0.34.2
@@ -183,8 +187,6 @@ Nanyang Technological University
 
 🤗 Additionally, we acknowledge the support from the State Key Laboratory of General Artificial Intelligence (SKLGAI), which provided crucial computational resources and academic guidance for this research.
 ## Contact Us
-
 Email to yuetan@pku.edu.cn
-=======
-# SciChart
->>>>>>> 2186fffd43cc9297d4a913288212fc711647f34d
+
+
