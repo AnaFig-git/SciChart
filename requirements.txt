@@ -5,9 +5,11 @@ einops
 transformers_stream_generator==0.0.4
 scipy
 torchvision
-pillow
 tensorboard
 matplotlib
 langchain
 openai
 pillow
+huggingface_hub
+peft
+scikit-learn
