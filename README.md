@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 SciChart
 This repository contains the code to evaluate models on SciChart from the paper [SciChart: Visual Question Answering and Reasoning for
  Scientific Spectral Chart].
