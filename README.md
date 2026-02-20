@@ -25,7 +25,7 @@ Charts play a pivotal role in scientific research, offering a concise and visual
   * ReaQA: Evaluates complex scientific reasoning, including abductive, deductive, and inductive logic based on visual and textual premises.
 * Multilingual Support: Supports both English and Chinese, providing insights into how language differences affect scientific understanding in MLLMs.
 
-Rigorous Benchmarking: Establishes a baseline using SOTA models like Claude-3.7, GPT-4o, and Gemini-3.0-flash, revealing a significant performance gap between AI (max ~45%) and human experts (~84%)
+* Rigorous Benchmarking: Establishes a baseline using SOTA models like Claude-3.7, GPT-4o, and Gemini-3.0-flash, revealing a significant performance gap between AI (max ~45%) and human experts (~84%)
 ## 📉 Dataset Statistics 
 SciChart covers **6 mainstream spectral chart types**. The dataset is split into **BasicQA** and **ReaQA** tasks, supporting both Chinese and English.
 
