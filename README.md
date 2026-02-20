@@ -19,8 +19,10 @@ Charts play a pivotal role in scientific research, offering a concise and visual
  ## 🌟 Key Contributions
 * Large-Scale & Expert-Annotated: Contains over 10,000 BasicQA and 1,100 ReaQA samples. All data are manually curated and annotated by 8 professional annotators with PhD or graduate degrees in Spectroscopy.
 * Hierarchical Task Design:
-** BasicQA: Tests direct information extraction such as peak number, position, value, and FWHM (Full Width at Half Maximum).
-** ReaQA: Evaluates complex scientific reasoning, including abductive, deductive, and inductive logic based on visual and textual premises.
+
+  ** BasicQA: Tests direct information extraction such as peak number, position, value, and FWHM (Full Width at Half Maximum).
+
+  ** ReaQA: Evaluates complex scientific reasoning, including abductive, deductive, and inductive logic based on visual and textual premises.
 * Multilingual Support: Supports both English and Chinese, providing insights into how language differences affect scientific understanding in MLLMs.
 
 Rigorous Benchmarking: Establishes a baseline using SOTA models like Claude-3.7, GPT-4o, and Gemini-3.0-flash, revealing a significant performance gap between AI (max ~45%) and human experts (~84%)
