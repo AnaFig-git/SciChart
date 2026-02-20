@@ -181,8 +181,11 @@ The main results (BasicQA & ReaQA) of the SciChart.
 | GPT-4o-mini   | ✗           | 33.80 | 31.65 | 32.73 |
 | Gemini-pro-v  | ✗           | 41.11 | 41.22 | 41.17 |
 | Gemini-2.0-T  | ✗           | 40.91 | 45.19 | 43.05 |
+| Gemini-3.0-flash| ✗           | 42.88 | 44.54 | 43.71 |
 | GPT-4o        | ✗           | 41.93 | 47.44 | 44.68 |
 | Claude-3.7-T  | ✗           | 43.64 | 46.60 | 45.12 |
+
+
 ## ⚠️ Limitations
 **Evaluation Sensitivity:** Current metrics (including rule-based and LLM-based) can be sensitive to uncontrolled or non-standard outputs (e.g., verbose explanations when a simple number is requested).
  
