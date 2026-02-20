@@ -14,8 +14,16 @@ Charts play a pivotal role in scientific research, offering a concise and visual
 
 <div align=center>
 <img src="example_image/examples.png" >
-</div> 
+</div>   
+  
+ ## 🌟 Key Contributions
+* Large-Scale & Expert-Annotated: Contains over 10,000 BasicQA and 1,100 ReaQA samples. All data are manually curated and annotated by 8 professional annotators with PhD or graduate degrees in Spectroscopy.
+* Hierarchical Task Design:
+** BasicQA: Tests direct information extraction such as peak number, position, value, and FWHM (Full Width at Half Maximum).
+** ReaQA: Evaluates complex scientific reasoning, including abductive, deductive, and inductive logic based on visual and textual premises.
+* Multilingual Support: Supports both English and Chinese, providing insights into how language differences affect scientific understanding in MLLMs.
 
+Rigorous Benchmarking: Establishes a baseline using SOTA models like Claude-3.7, GPT-4o, and Gemini-3.0-flash, revealing a significant performance gap between AI (max ~45%) and human experts (~84%)
 ## 📉 Dataset Statistics 
 SciChart covers **6 mainstream spectral chart types**. The dataset is split into **BasicQA** and **ReaQA** tasks, supporting both Chinese and English.
 
@@ -112,7 +120,8 @@ python API.py
 For local inference using open-source vision-language models, we provide dedicated scripts for **ChartVLM** and **Qwen-VL**. These scripts also evaluate the two major categories: `BasicQA` and `ReaQA`.
 
 ⚠️ **Important Environment Requirements for ChartVLM:**
-Before executing the ChartVLM inference script, run the following command first:
+  
+  Before executing the ChartVLM inference script, run the following command first:
 ```
 git clone https://github.com/InternScience/ChartVLM.git
 ```
