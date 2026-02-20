@@ -69,7 +69,6 @@ Please download image data to **data/** from link: https://drive.google.com/file
 ## 📂 Project Structure
 ```text
 SciChart-main/
-├── ChartVLM/              # Core ChartVLM source code (tools, adapters, decoders)
 ├── data/                  # Dataset directory (contains .json files and /img/ subfolder)
 ├── example_image/         # Images used in README
 ├── output/                # Directory where inference results (.jsonl) are saved
@@ -113,6 +112,10 @@ python API.py
 For local inference using open-source vision-language models, we provide dedicated scripts for **ChartVLM** and **Qwen-VL**. These scripts also evaluate the two major categories: `BasicQA` and `ReaQA`.
 
 ⚠️ **Important Environment Requirements for ChartVLM:**
+Before executing the ChartVLM inference script, run the following command first:
+```
+git clone https://github.com/InternScience/ChartVLM.git
+```
 Due to the specific architecture and legacy adapters used in the official ChartVLM codebase, please ensure your environment matches the following versions to avoid compatibility errors (such as `scikit-learn` unpickling errors or `numpy` API conflicts):
 ```bash
 # Upgrade PyTorch ecosystem to support newer accelerate features
